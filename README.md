@@ -6,7 +6,7 @@
 ## Team Members:
 1. Akshay Waghmare - [AkshayWaghmare](https://github.com/AkshayWaghmare) - IEC2022117
 2. Prakhar Shukla - [PrakharShukla](https://github.com/PrakharShukla) - IEC2022027
-3. Srijain Jain - [SrijainJain](https://github.com/SrijainJain)
+3. Srijain Jain - [SrijainJain](https://github.com/SrijainJain) - IIT2022159
 4. Swaroopdora - [SwaroopDora](https://github.com/SwaroopDora)
 
 ## [Video Presentation](https://youtu.be/21yOeJ--X4c)
