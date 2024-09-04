@@ -1,0 +1,2731 @@
+{
+  "SHOES": [
+    "https://www.amazon.nl/dp/B06X9STHNG",
+    "https://www.amazon.com.au/dp/B01MTEI8M6",
+    "https://www.amazon.fr/dp/B07J2BHRNW"
+  ],
+  "HARDWARE": [
+    "https://www.amazon.com.mx/dp/B07P8ML82R",
+    "https://www.amazon.sg/dp/B07RXR8VTM",
+    "https://www.amazon.fr/dp/B07GF97GWX"
+  ],
+  "MECHANICAL_COMPONENTS": [
+    "https://www.amazon.ae/dp/B07H9GMYXS",
+    "https://www.amazon.ca/dp/B07D6BYW4R",
+    "https://www.amazon.com/dp/B07ZKMGQLN"
+  ],
+  "SOFA": [
+    "https://www.amazon.co.uk/dp/B07CTPR73M",
+    "https://www.amazon.com/dp/B075X4QMW7",
+    "https://www.amazon.co.uk/dp/B07G2H3L4L"
+  ],
+  "CELLULAR_PHONE_CASE": [
+    "https://www.amazon.in/dp/B0853X2F4M",
+    "https://www.amazon.in/dp/B07R91S92W",
+    "https://www.amazon.in/dp/B0853WVZ6Q"
+  ],
+  "DRINKING_CUP": [
+    "https://www.amazon.com/dp/B0896LJNLH",
+    "https://www.amazon.com/dp/B0896KVCJY",
+    "https://www.amazon.com.mx/dp/B0898D5K2N"
+  ],
+  "FURNITURE_COVER": [
+    "https://www.amazon.co.uk/dp/B07R51S57D",
+    "https://www.primenow.amazon.com/dp/B00BD27ZE8",
+    "https://www.amazon.ca/dp/B07CZ5SP7N"
+  ],
+  "EARRING": [
+    "https://www.amazon.co.jp/dp/B07HCR1LSQ",
+    "https://www.amazon.co.jp/dp/B07HP7116C",
+    "https://www.amazon.co.uk/dp/B01C9LK87M"
+  ],
+  "HARDWARE_HANDLE": [
+    "https://www.amazon.de/dp/B07J4HXTQH",
+    "https://www.amazon.nl/dp/B01MTB9W3W",
+    "https://www.amazon.nl/dp/B01N365ZUV"
+  ],
+  "HOME": [
+    "https://www.amazon.com/dp/B075DQBBJZ",
+    "https://www.amazon.es/dp/B07PRFQHNG",
+    "https://www.amazon.it/dp/B07KZV51ZQ"
+  ],
+  "FLAT_SHEET": [
+    "https://www.amazon.nl/dp/B07KZ6PC16",
+    "https://www.amazon.it/dp/B07PHFVPZR",
+    "https://www.amazon.nl/dp/B07G4XWVJT"
+  ],
+  "WATER_PUMP": [
+    "https://www.amazon.com.mx/dp/B07FC68398",
+    "https://www.amazon.com.mx/dp/B07FC4NJ4C",
+    "https://www.amazon.ca/dp/B07SPHRCLZ"
+  ],
+  "HEALTH_PERSONAL_CARE": [
+    "https://www.amazon.com.mx/dp/B07B9VR6XT",
+    "https://www.amazon.de/dp/B07C9BJJH5",
+    "https://www.amazon.com/dp/B00OAJ2MRG"
+  ],
+  "SOUND_AND_RECORDING_EQUIPMENT": [
+    "https://www.amazon.com/dp/B07S74D9T7",
+    "https://www.amazon.de/dp/B01K4W21JQ",
+    "https://www.amazon.it/dp/B06XCFMQ5R"
+  ],
+  "HEADPHONES": [
+    "https://www.amazon.ca/dp/B07TVRZZWB",
+    "https://www.amazon.com.tr/dp/B01MPWYHI6",
+    "https://www.amazon.co.uk/dp/B075QMLS5J"
+  ],
+  "CANDLE": [
+    "https://www.amazon.in/dp/B075NFPCRQ",
+    "https://www.amazon.in/dp/B07F31YZ4Z",
+    "https://www.amazon.in/dp/B0744P71Y9"
+  ],
+  "WALLET": [
+    "https://www.amazon.in/dp/B07Z42HLWV",
+    "https://www.amazon.in/dp/B07XFWWS4K",
+    "https://www.amazon.ca/dp/B07Q381TZ4"
+  ],
+  "PORTABLE_ELECTRONIC_DEVICE_COVER": [
+    "https://www.amazon.es/dp/B07ZVWD8WX",
+    "https://www.amazon.de/dp/B07QYPT2S1",
+    "https://www.amazon.co.uk/dp/B07QQX57CD"
+  ],
+  "GROCERY": [
+    "https://www.wholefoodsmarket.com/dp/B07QC4DZ2L",
+    "https://www.wholefoodsmarket.com/dp/B07FW2NYGJ",
+    "https://www.amazon.com/dp/B07B1P28GK"
+  ],
+  "HOME_FURNITURE_AND_DECOR": [
+    "https://www.amazon.se/dp/B07Z9CZFPW",
+    "https://www.amazon.in/dp/B08GL2QP27",
+    "https://www.amazon.fr/dp/B08521CGTL"
+  ],
+  "FAUCET": [
+    "https://www.amazon.se/dp/B074WYWPV6",
+    "https://www.amazon.ca/dp/B07F2C56GV",
+    "https://www.amazon.com.mx/dp/B07F2C7GVT"
+  ],
+  "TOILET_PAPER_HOLDER": [
+    "https://www.amazon.ae/dp/B07765Z6S4",
+    "https://www.amazon.in/dp/B07JW71SJY",
+    "https://www.amazon.co.uk/dp/B088XXNCMB"
+  ],
+  "ACCESSORY": [
+    "https://www.amazon.co.uk/dp/B07TK4R7GG",
+    "https://www.amazon.ca/dp/B013R461CQ",
+    "https://www.amazon.ca/dp/B08DF91VJK"
+  ],
+  "HOME_BED_AND_BATH": [
+    "https://www.amazon.in/dp/B07KMGLFH4",
+    "https://www.amazon.com/dp/B07N6V9Z41",
+    "https://www.amazon.it/dp/B00M92P3PY"
+  ],
+  "BEAUTY": [
+    "https://www.amazon.com/dp/B083V9N454",
+    "https://www.amazon.in/dp/B0824BN7ZW",
+    "https://www.wholefoodsmarket.com/dp/B074H5Z5VH"
+  ],
+  "BACKPACK": [
+    "https://www.amazon.com.au/dp/B07TPYLKQ6",
+    "https://www.amazon.fr/dp/B00TU82BC8",
+    "https://www.amazon.it/dp/B07DZVJMZP"
+  ],
+  "STORAGE_BAG": [
+    "https://www.amazon.se/dp/B07QLKSQPV",
+    "https://www.primenow.amazon.fr/dp/B014VBHJ16",
+    "https://www.amazon.de/dp/B014VBH29U"
+  ],
+  "CLOTHES_HANGER": [
+    "https://www.amazon.sg/dp/B07Y39SG9K",
+    "https://www.amazon.com.au/dp/B07VYTJPL5",
+    "https://www.amazon.sa/dp/B07Y3BVQV4"
+  ],
+  "OFFICE_PRODUCTS": [
+    "https://www.amazon.co.uk/dp/B081QP9GW3",
+    "https://www.amazon.fr/dp/B07SQC8MQL",
+    "https://www.amazon.com.mx/dp/B07RQTWBFL"
+  ],
+  "LUGGAGE": [
+    "https://www.amazon.co.uk/dp/B083RBSL56",
+    "https://www.primenow.amazon.com/dp/B00SXKUEIC",
+    "https://www.amazon.co.uk/dp/B083RBVWDK"
+  ],
+  "PET_SUPPLIES": [
+    "https://www.amazon.co.uk/dp/B07HJ9WBTY",
+    "https://www.fresh.amazon.com/dp/B078VTMYYF",
+    "https://www.wholefoodsmarket.com/dp/B07NRRH3ZH"
+  ],
+  "TOOLS": [
+    "https://www.amazon.in/dp/B07H132Y5R",
+    "https://www.amazon.com/dp/B07V2LMDB1",
+    "https://www.amazon.de/dp/B08DF8WXRB"
+  ],
+  "SANDAL": [
+    "https://www.amazon.it/dp/B076RFQ53M",
+    "https://www.amazon.com.au/dp/B07MVYLMP4",
+    "https://www.amazon.ae/dp/B0788C71CQ"
+  ],
+  "NUTRITIONAL_SUPPLEMENT": [
+    "https://www.amazon.com/dp/B083V9Y416",
+    "https://www.amazon.fr/dp/B07GT56S3R",
+    "https://www.amazon.it/dp/B07GT8V1ZF"
+  ],
+  "CHARGING_ADAPTER": [
+    "https://www.amazon.com.mx/dp/B071GQXN34",
+    "https://www.amazon.co.jp/dp/B0872Q33XV",
+    "https://www.amazon.in/dp/B087MDYP24"
+  ],
+  "TABLE": [
+    "https://www.amazon.com/dp/B072ZLCB3M",
+    "https://www.amazon.com/dp/B07DBFT2YG",
+    "https://www.amazon.it/dp/B07SMJY29H"
+  ],
+  "PORTABLE_STOVE": [
+    "https://www.amazon.in/dp/B076QFBFS5",
+    "https://www.amazon.in/dp/B076QFKDCZ",
+    "https://www.amazon.in/dp/B076QBF12F"
+  ],
+  "BABY_PRODUCT": [
+    "https://www.amazon.com.mx/dp/B07N3CSM46",
+    "https://www.amazon.com.mx/dp/B07N3D8R88",
+    "https://www.amazon.es/dp/B07D9J9N97"
+  ],
+  "FINERING": [
+    "https://www.amazon.co.uk/dp/B01N26F2NT",
+    "https://www.amazon.co.jp/dp/B07HCMD4DK",
+    "https://www.amazon.com/dp/B0735B2GTH"
+  ],
+  "ORTHOPEDIC_BRACE": [
+    "https://www.amazon.ca/dp/B07CZL4SD7",
+    "https://www.amazon.com.mx/dp/B07B9V35XR",
+    "https://www.amazon.co.uk/dp/B07J56PB3T"
+  ],
+  "LIGHT_BULB": [
+    "https://www.amazon.com/dp/B07WJBFJZZ",
+    "https://www.amazon.com.au/dp/B079X6FR7R",
+    "https://www.amazon.ca/dp/B084BPLJ6B"
+  ],
+  "CHAIR": [
+    "https://www.amazon.com/dp/B07TMH6289",
+    "https://www.amazon.com/dp/B07F2X8K62",
+    "https://www.amazon.de/dp/B075NR8HWJ"
+  ],
+  "FOOD_SERVICE_SUPPLY": [
+    "https://www.amazon.fr/dp/B087QFZJD6",
+    "https://www.amazon.ca/dp/B088MFJ76G",
+    "https://www.amazon.com/dp/B087MTHX7K"
+  ],
+  "BISS": [
+    "https://www.amazon.co.uk/dp/B07WX4VV1M",
+    "https://www.amazon.fr/dp/B08774KVG1",
+    "https://www.amazon.co.uk/dp/B085LQYPL8"
+  ],
+  "SNACK_MIX": [
+    "https://www.amazon.com/dp/B074MHFSZV",
+    "https://www.primenow.amazon.com/dp/B01E60R65Q",
+    "https://www.amazon.com/dp/B07QH9WN84"
+  ],
+  "BOOT": [
+    "https://www.amazon.com/dp/B06XCPVVPS",
+    "https://www.amazon.ca/dp/B07MBQYDTH",
+    "https://www.amazon.ca/dp/B07RCXT67Q"
+  ],
+  "NECKLACE": [
+    "https://www.amazon.co.uk/dp/B075LT7F8X",
+    "https://www.amazon.co.jp/dp/B01MYGK4RO",
+    "https://www.amazon.com/dp/B082MCM931"
+  ],
+  "FOOD_SLICER": [
+    "https://www.amazon.in/dp/B07P96JH6V",
+    "https://www.amazon.in/dp/B07FFG653K",
+    "https://www.amazon.in/dp/B07M9YRFKW"
+  ],
+  "COMPUTER_COMPONENT": [
+    "https://www.amazon.co.jp/dp/B07YZKW8XX",
+    "https://www.amazon.es/dp/B002SSU30Y",
+    "https://www.amazon.se/dp/B07VFX7HQZ"
+  ],
+  "CLEANING_BRUSH": [
+    "https://www.amazon.it/dp/B07N1P42BD",
+    "https://www.amazon.de/dp/B0775VFB15",
+    "https://www.amazon.com.mx/dp/B07V7YZ3JN"
+  ],
+  "WALL_ART": [
+    "https://www.amazon.com/dp/B073P5QKL4",
+    "https://www.amazon.com/dp/B073P5V3BJ",
+    "https://www.amazon.com/dp/B073NZGLK3"
+  ],
+  "WINDOW_SHADE": [
+    "https://www.amazon.co.uk/dp/B0749V8TD8",
+    "https://www.amazon.es/dp/B074QYFCY4",
+    "https://www.amazon.de/dp/B074QYCB7V"
+  ],
+  "BED": [
+    "https://www.amazon.com/dp/B07B4SCB6T",
+    "https://www.amazon.com/dp/B07CVFV3J6",
+    "https://www.amazon.com/dp/B07B4W5V3C"
+  ],
+  "WILDLIFE_FEEDER": [
+    "https://www.amazon.com/dp/B000W9Z1LW",
+    "https://www.amazon.com/dp/B000WA0HJW",
+    "https://www.amazon.it/dp/B07VZW69BK"
+  ],
+  "VACUUM_CLEANER": [
+    "https://www.amazon.it/dp/B088HDC5C3",
+    "https://www.amazon.co.uk/dp/B07VPC6TCG",
+    "https://www.amazon.com.au/dp/B07B9BWKL7"
+  ],
+  "LAUNDRY_HAMPER": [
+    "https://www.amazon.co.jp/dp/B07J282ZNX",
+    "https://www.amazon.de/dp/B07V5L7NQ3",
+    "https://www.amazon.de/dp/B07V8R8197"
+  ],
+  "SHIPPING_BOX": [
+    "https://www.amazon.com/dp/B07RTKSHXN",
+    "https://www.amazon.co.uk/dp/B07ZFBXM4L",
+    "https://www.amazon.ca/dp/B07RTC2TZ9"
+  ],
+  "PRINT_COPY_PAPER": [
+    "https://www.amazon.in/dp/B07ZD4357R",
+    "https://www.amazon.it/dp/B08D4GYB7M",
+    "https://www.amazon.com/dp/B07SG3CM3Y"
+  ],
+  "JANITORIAL_SUPPLY": [
+    "https://www.amazon.in/dp/B07PVC2PBF",
+    "https://www.amazon.com.mx/dp/B08GZC6DYW",
+    "https://www.amazon.ca/dp/B07DC9SVK3"
+  ],
+  "BASKET": [
+    "https://www.amazon.co.jp/dp/B08BYCZNPT",
+    "https://www.amazon.in/dp/B081MTZY1S",
+    "https://www.amazon.in/dp/B07VC8FHP2"
+  ],
+  "SAFETY_SUPPLY": [
+    "https://www.amazon.com.mx/dp/B071PDTMR5",
+    "https://www.amazon.it/dp/B07TCPTP8J",
+    "https://www.amazon.co.jp/dp/B07ZDF357J"
+  ],
+  "VITAMIN": [
+    "https://www.primenow.amazon.com/dp/B075DC55KK",
+    "https://www.amazon.com/dp/B07D7QXBYS",
+    "https://www.amazon.com/dp/B083V9RS1M"
+  ],
+  "BENCH": [
+    "https://www.amazon.es/dp/B075WYYHXT",
+    "https://www.amazon.com.mx/dp/B07K4QZTNH",
+    "https://www.amazon.it/dp/B07SLF6QNG"
+  ],
+  "FLASH_MEMORY": [
+    "https://www.amazon.com.au/dp/B07WM5RGRQ",
+    "https://www.amazon.de/dp/B07W9L8YXW",
+    "https://www.amazon.com.au/dp/B0058GGZNC"
+  ],
+  "PLANTER": [
+    "https://www.amazon.co.uk/dp/B07S8CJGN5",
+    "https://www.amazon.com.au/dp/B07S8CHLGC",
+    "https://www.amazon.com/dp/B07QD5G1KC"
+  ],
+  "BREAD": [
+    "https://www.amazon.com/dp/B074H5CN2C",
+    "https://www.primenow.amazon.com/dp/B08413HX48",
+    "https://www.amazon.com/dp/B075MD4VZB"
+  ],
+  "OTTOMAN": [
+    "https://www.amazon.com/dp/B075X61WKJ",
+    "https://www.amazon.com/dp/B08CD2924F",
+    "https://www.amazon.com/dp/B07P5LLX43"
+  ],
+  "SUITCASE": [
+    "https://www.amazon.in/dp/B07BL6RDW7",
+    "https://www.primenow.amazon.de/dp/B00VIM9VQ8",
+    "https://www.amazon.in/dp/B07PDWT2HT"
+  ],
+  "LIGHT_FIXTURE": [
+    "https://www.amazon.com/dp/B07M6PHM8C",
+    "https://www.amazon.com/dp/B07HK85JKQ",
+    "https://www.amazon.es/dp/B07B4W2GRG"
+  ],
+  "JUICE_AND_JUICE_DRINK": [
+    "https://www.amazon.com/dp/B07FFHHG1Q",
+    "https://www.primenow.amazon.com/dp/B074H6QSXS",
+    "https://www.amazon.com/dp/B07FFKX55S"
+  ],
+  "COMPUTER_INPUT_DEVICE": [
+    "https://www.amazon.com/dp/B07C5QCLYL",
+    "https://www.amazon.de/dp/B01JI979KM",
+    "https://www.amazon.fr/dp/B0716S7MHK"
+  ],
+  "AREA_DEODORIZER": [
+    "https://www.amazon.com.mx/dp/B07D5NH14Z",
+    "https://www.amazon.in/dp/B07MN865KY",
+    "https://www.amazon.in/dp/B07KW919X4"
+  ],
+  "RUG": [
+    "https://www.amazon.com/dp/B07B4YVDLQ",
+    "https://www.amazon.com/dp/B071777YN3",
+    "https://www.amazon.com/dp/B0719STLL8"
+  ],
+  "COFFEE": [
+    "https://www.amazon.com/dp/B07QCR35JF",
+    "https://www.amazon.sg/dp/B07BF299N3",
+    "https://www.primenow.amazon.com/dp/B074H6ZXT5"
+  ],
+  "FINENECKLACEBRACELETANKLET": [
+    "https://www.amazon.com.mx/dp/B01GUYFELO",
+    "https://www.amazon.com.mx/dp/B000MFGN68",
+    "https://www.amazon.ca/dp/B00200K8KA"
+  ],
+  "HANDBAG": [
+    "https://www.amazon.com.mx/dp/B078M7SX69",
+    "https://www.amazon.in/dp/B07WRL3WYP",
+    "https://www.amazon.ca/dp/B074CSVG98"
+  ],
+  "CLEANING_AGENT": [
+    "https://www.amazon.in/dp/B072X8QFMF",
+    "https://www.amazon.in/dp/B08155RK8V",
+    "https://www.amazon.com/dp/B07DZVMR65"
+  ],
+  "BEAN_BAG_CHAIR": [
+    "https://www.amazon.es/dp/B07TP4S5VX",
+    "https://www.amazon.com/dp/B07TQ89MMN",
+    "https://www.amazon.in/dp/B078J9V2PQ"
+  ],
+  "HERBAL_SUPPLEMENT": [
+    "https://www.amazon.com/dp/B074KL8RW5",
+    "https://www.amazon.com/dp/B083V9H8FY",
+    "https://www.amazon.com.mx/dp/B074H6PJNG"
+  ],
+  "SPORTING_GOODS": [
+    "https://www.amazon.com/dp/B07SS9LXLF",
+    "https://www.amazon.fr/dp/B07C8P5M3L",
+    "https://www.amazon.ca/dp/B00IJSPP32"
+  ],
+  "HERB": [
+    "https://www.amazon.in/dp/B07ZGX43ZW",
+    "https://www.amazon.com/dp/B075M8YKKC",
+    "https://www.amazon.com/dp/B07R19S71Y"
+  ],
+  "ABIS_DRUGSTORE": [
+    "https://www.amazon.es/dp/B084W81Q2C",
+    "https://www.primenow.amazon.de/dp/B07WSH57TL",
+    "https://www.amazon.se/dp/B08C3D1WJS"
+  ],
+  "AUTO_ACCESSORY": [
+    "https://www.amazon.com/dp/B089MY3H5F",
+    "https://www.amazon.es/dp/B07TSJMRJ3",
+    "https://www.amazon.in/dp/B07M5QF79P"
+  ],
+  "LEGUME": [
+    "https://www.primenow.amazon.com/dp/B074J5R3MY",
+    "https://www.amazon.in/dp/B07BL6KHG5",
+    "https://www.amazon.in/dp/B07BL67YXK"
+  ],
+  "KITCHEN": [
+    "https://www.amazon.in/dp/B07MRDS4TG",
+    "https://www.amazon.co.uk/dp/B07FS68L6N",
+    "https://www.amazon.in/dp/B0898B7FQS"
+  ],
+  "PLUMBING_FIXTURE": [
+    "https://www.amazon.com.mx/dp/B07FC741VP",
+    "https://www.amazon.ca/dp/B07F2C8PYK",
+    "https://www.amazon.sa/dp/B079LKHXTV"
+  ],
+  "EDIBLE_OIL_VEGETABLE": [
+    "https://www.amazon.com/dp/B07656WV3H",
+    "https://www.amazon.com/dp/B07Q4YNG8W",
+    "https://www.amazon.com/dp/B07PD6Q5GP"
+  ],
+  "WRENCH": [
+    "https://www.amazon.com/dp/B085MC14BL",
+    "https://www.amazon.com/dp/B0776C2D6H",
+    "https://www.amazon.es/dp/B07W5PZFGS"
+  ],
+  "STORAGE_RACK": [
+    "https://www.amazon.com.mx/dp/B010RLBZFU",
+    "https://www.amazon.es/dp/B07FF7BSDL",
+    "https://www.amazon.co.jp/dp/B003Y5H7OK"
+  ],
+  "HAT": [
+    "https://www.amazon.de/dp/B07RF9QMHS",
+    "https://www.amazon.ca/dp/B082B165WW",
+    "https://www.amazon.com.mx/dp/B013R3P2KE"
+  ],
+  "BREAKFAST_CEREAL": [
+    "https://www.amazon.com/dp/B07RPQHX7S",
+    "https://www.primenow.amazon.com/dp/B07NST9S98",
+    "https://www.amazon.com/dp/B074MGW2PX"
+  ],
+  "LAMP": [
+    "https://www.amazon.com/dp/B073P3NK7T",
+    "https://www.amazon.com/dp/B07HKDSM1J",
+    "https://www.amazon.es/dp/B07K4YXTZH"
+  ],
+  "PROTEIN_SUPPLEMENT_POWDER": [
+    "https://www.primenow.amazon.it/dp/B07D7NDYW6",
+    "https://www.amazon.sg/dp/B07CQ81MY2",
+    "https://www.primenow.amazon.com/dp/B07G33K5JK"
+  ],
+  "BATTERY": [
+    "https://www.primenow.amazon.it/dp/B0787K2XWZ",
+    "https://www.primenow.amazon.co.uk/dp/B07KWYGTC6",
+    "https://www.primenow.amazon.it/dp/B07QDZHPTQ"
+  ],
+  "TELEVISION": [
+    "https://www.amazon.de/dp/B082J7BJR9",
+    "https://www.amazon.de/dp/B082J6Y3GQ",
+    "https://www.amazon.de/dp/B082J6HXXN"
+  ],
+  "FIRST_AID_KIT": [
+    "https://www.amazon.com.mx/dp/B07RC7RNNJ",
+    "https://www.amazon.com.mx/dp/B07R7X7C3Y",
+    "https://www.amazon.com.mx/dp/B07RB7DTXK"
+  ],
+  "TOWEL_HOLDER": [
+    "https://www.amazon.fr/dp/B083TJZFH7",
+    "https://www.amazon.co.uk/dp/B07P66V4FZ",
+    "https://www.amazon.com.mx/dp/B07P74YK4K"
+  ],
+  "STORAGE_BINDER": [
+    "https://www.amazon.com.au/dp/B07SPG62XZ",
+    "https://www.amazon.sg/dp/B07SL5R49D",
+    "https://www.amazon.co.uk/dp/B07SM8WX1X"
+  ],
+  "MICROSCOPES": [
+    "https://www.amazon.es/dp/B07TZRTB9H",
+    "https://www.amazon.com/dp/B08BXZ98WX",
+    "https://www.amazon.com/dp/B088K7KWFC"
+  ],
+  "DRILL_BITS": [
+    "https://www.amazon.in/dp/B07V486F6R",
+    "https://www.amazon.com.au/dp/B07S96B1LJ",
+    "https://www.amazon.com.tr/dp/B000NJBN0Y"
+  ],
+  "HEADBOARD": [
+    "https://www.amazon.com/dp/B07QBQCG1R",
+    "https://www.amazon.com/dp/B0853JGLT7",
+    "https://www.amazon.co.uk/dp/B07GFFY4TQ"
+  ],
+  "LABEL": [
+    "https://www.amazon.com/dp/B07FBDQGTS",
+    "https://www.amazon.co.jp/dp/B07X2TGHJ5",
+    "https://www.amazon.de/dp/B07X6WBP57"
+  ],
+  "FLAT_SCREEN_DISPLAY_MOUNT": [
+    "https://www.amazon.ae/dp/B07QH7KW7G",
+    "https://www.amazon.es/dp/B07QH7L26M",
+    "https://www.amazon.de/dp/B07H8T5XPT"
+  ],
+  "VASE": [
+    "https://www.amazon.com/dp/B078JGLJMQ",
+    "https://www.amazon.com/dp/B078JGHZT3",
+    "https://www.amazon.com/dp/B075HWDT12"
+  ],
+  "FINEEARRING": [
+    "https://www.amazon.com.mx/dp/B013URKEGY",
+    "https://www.amazon.co.uk/dp/B00NFSDU1A",
+    "https://www.amazon.com.mx/dp/B017XDCYKA"
+  ],
+  "CABINET": [
+    "https://www.amazon.co.uk/dp/B07B3XXD3P",
+    "https://www.amazon.it/dp/B07JGPK68C",
+    "https://www.amazon.com/dp/B082JH6LSF"
+  ],
+  "PILLOW": [
+    "https://www.amazon.com/dp/B07JLZC571",
+    "https://www.amazon.com/dp/B07JLSNZ1K",
+    "https://www.amazon.com/dp/B07DB92HMS"
+  ],
+  "WASTE_BAG": [
+    "https://www.amazon.com/dp/B07BJ4HJ7T",
+    "https://www.amazon.nl/dp/B076VXBD1F",
+    "https://www.amazon.es/dp/B07SPW22YQ"
+  ],
+  "COSMETIC_CASE": [
+    "https://www.amazon.fr/dp/B07KZRHSLK",
+    "https://www.amazon.sa/dp/B07FFTPYBY",
+    "https://www.amazon.in/dp/B07SCFMLNM"
+  ],
+  "OUTDOOR_LIVING": [
+    "https://www.amazon.com/dp/B01DAOM5SW",
+    "https://www.amazon.com.mx/dp/B072B9FQ78",
+    "https://www.amazon.co.jp/dp/B07FDKD64L"
+  ],
+  "FLATWARE": [
+    "https://www.amazon.de/dp/B07D3YCB6H",
+    "https://www.amazon.de/dp/B07GJXJ4MJ",
+    "https://www.amazon.sg/dp/B07BDVKF11"
+  ],
+  "DISHWARE_PLATE": [
+    "https://www.amazon.ca/dp/B08C3Y6ZHK",
+    "https://www.amazon.com.mx/dp/B000FVUADG",
+    "https://www.amazon.com/dp/B07ZL43TBP"
+  ],
+  "THERMOPLASTIC_FILAMENT": [
+    "https://www.amazon.fr/dp/B07D6BYW5H",
+    "https://www.amazon.com.mx/dp/B07S2ZXM97",
+    "https://www.amazon.it/dp/B07SZLZG5G"
+  ],
+  "SAW_BLADE": [
+    "https://www.amazon.co.uk/dp/B07XBRRJ3H",
+    "https://www.amazon.ca/dp/B07W48JF15",
+    "https://www.amazon.it/dp/B07XCVQ4W6"
+  ],
+  "FURNITURE": [
+    "https://www.amazon.in/dp/B07L3JS4ZX",
+    "https://www.amazon.co.uk/dp/B01KTVT57I",
+    "https://www.amazon.co.uk/dp/B08GLLSGYL"
+  ],
+  "SPEAKERS": [
+    "https://www.amazon.de/dp/B07PDYW6VM",
+    "https://www.amazon.ca/dp/B07RWDGGSH",
+    "https://www.amazon.com.mx/dp/B07H87LS8D"
+  ],
+  "HAIR_COMB": [
+    "https://www.amazon.it/dp/B07T6MQRCB",
+    "https://www.amazon.in/dp/B07GJT9SQC",
+    "https://www.amazon.es/dp/B07T2CNZY2"
+  ],
+  "DISHWARE_BOWL": [
+    "https://www.amazon.com.mx/dp/B07QC6XNTH",
+    "https://www.amazon.es/dp/B07QHJW4QW",
+    "https://www.amazon.co.uk/dp/B07ZL4JSSM"
+  ],
+  "VEGETABLE": [
+    "https://www.amazon.com/dp/B08331ZYB2",
+    "https://www.primenow.amazon.com/dp/B07WJGM4NB",
+    "https://www.amazon.com/dp/B074M9NTBN"
+  ],
+  "RAZOR_BLADE_CARTRIDGE": [
+    "https://www.amazon.ae/dp/B07BCB2FN4",
+    "https://www.amazon.ca/dp/B07BC9XZZ6",
+    "https://www.amazon.ca/dp/B07BC8NBH4"
+  ],
+  "HAIR_CLEANER_CONDITIONER": [
+    "https://www.amazon.com/dp/B083V9C8D2",
+    "https://www.primenow.amazon.it/dp/B07NGM2NGT",
+    "https://www.amazon.com/dp/B083V9WJQM"
+  ],
+  "OFFICE_ELECTRONICS": [
+    "https://www.amazon.com/dp/B01N7IA6UM",
+    "https://www.amazon.nl/dp/B07VDFPV5Q",
+    "https://www.primenow.amazon.co.jp/dp/B00H8KCMPG"
+  ],
+  "DAIRY_BASED_DRINK": [
+    "https://www.primenow.amazon.com/dp/B07YSWZ444",
+    "https://www.primenow.amazon.com/dp/B07TV66398",
+    "https://www.amazon.com/dp/B07HCM5NGL"
+  ],
+  "STOOL_SEATING": [
+    "https://www.amazon.com/dp/B07L8DQQ4Q",
+    "https://www.amazon.com/dp/B075YP4WVQ",
+    "https://www.amazon.se/dp/B07TC2NL5T"
+  ],
+  "CAMERA_BAGS_AND_CASES": [
+    "https://www.amazon.it/dp/B084CGC6WK",
+    "https://www.amazon.ca/dp/B07KS37249",
+    "https://www.amazon.com.mx/dp/B00YX5JB4E"
+  ],
+  "SAUCE": [
+    "https://www.amazon.com/dp/B074MH3FM1",
+    "https://www.amazon.com/dp/B07ZKVPZY5",
+    "https://www.amazon.com/dp/B07Q13FT2N"
+  ],
+  "BLANK_MEDIA": [
+    "https://www.amazon.com/dp/B07T3TZ76J",
+    "https://www.amazon.it/dp/B07H8F36W5",
+    "https://www.amazon.com.au/dp/B07N7JFNY2"
+  ],
+  "WINE": [
+    "https://www.amazon.it/dp/B086B489GZ",
+    "https://www.amazon.it/dp/B07XRVYZ72",
+    "https://www.amazon.de/dp/B086B4Z4GF"
+  ],
+  "VIDEO_GAME_ACCESSORIES": [
+    "https://www.amazon.co.uk/dp/B07CQ24QHW",
+    "https://www.amazon.com/dp/B07348JQ3L",
+    "https://www.amazon.fr/dp/B00BI9MDNO"
+  ],
+  "LAUNDRY_DETERGENT": [
+    "https://www.amazon.com/dp/B07FKPN65D",
+    "https://www.amazon.nl/dp/B07CCWJD95",
+    "https://www.amazon.com/dp/B076C5M499"
+  ],
+  "PAPER_PRODUCT": [
+    "https://www.amazon.sg/dp/B07TQ8567K",
+    "https://www.amazon.ae/dp/B07HRDHWMV",
+    "https://www.amazon.fr/dp/B07RN1QLC8"
+  ],
+  "PHONE_ACCESSORY": [
+    "https://www.amazon.fr/dp/B01CI7BGK0",
+    "https://www.amazon.co.uk/dp/B0093VGUFG",
+    "https://www.amazon.fr/dp/B00MGSL47M"
+  ],
+  "CANDLE_HOLDER": [
+    "https://www.amazon.ca/dp/B078JFFX4S",
+    "https://www.amazon.com/dp/B07HK3TLJJ",
+    "https://www.amazon.com/dp/B075HXHKTZ"
+  ],
+  "DAIRY_BASED_CHEESE": [
+    "https://www.amazon.com/dp/B07GL6G724",
+    "https://www.primenow.amazon.com/dp/B074H5CNCM",
+    "https://www.primenow.amazon.com/dp/B0883R3BW7"
+  ],
+  "ACCESSORY_OR_PART_OR_SUPPLY": [
+    "https://www.amazon.co.jp/dp/B01CZ6ELZG",
+    "https://www.fresh.amazon.com/dp/B00NO73Q84",
+    "https://www.amazon.fr/dp/B07GRYBC8M"
+  ],
+  "CARGO_STRAP": [
+    "https://www.amazon.in/dp/B07ZKZR7G1",
+    "https://www.amazon.co.uk/dp/B07ZJRRDJR",
+    "https://www.amazon.in/dp/B07ZL1R6FZ"
+  ],
+  "SPIRITS": [
+    "https://www.amazon.co.uk/dp/B0876JF6MW",
+    "https://www.amazon.de/dp/B07V3D9RM5",
+    "https://www.amazon.de/dp/B07WQJ3DZ8"
+  ],
+  "MICROPHONE": [
+    "https://www.amazon.com/dp/B07MJKKS5T",
+    "https://www.amazon.de/dp/B07V36W17M",
+    "https://www.amazon.it/dp/B07V593X86"
+  ],
+  "TEACHING_EQUIPMENT": [
+    "https://www.amazon.com.mx/dp/B07FK8CZXL",
+    "https://www.amazon.com/dp/B07THV4NVV",
+    "https://www.amazon.in/dp/B07HJW2PYQ"
+  ],
+  "BRACELET": [
+    "https://www.amazon.co.jp/dp/B06XHF5BK2",
+    "https://www.amazon.co.jp/dp/B07HCSTTZX",
+    "https://www.amazon.co.uk/dp/B06Y2GRVC1"
+  ],
+  "AUTO_OIL": [
+    "https://www.amazon.ca/dp/B07C5PRQHN",
+    "https://www.amazon.com/dp/B07C5S1D15",
+    "https://www.amazon.in/dp/B07C38VLZQ"
+  ],
+  "DUTCH_OVENS": [
+    "https://www.amazon.fr/dp/B08141JJ5P",
+    "https://www.amazon.co.uk/dp/B081413MS8",
+    "https://www.amazon.in/dp/B07VGGLDYN"
+  ],
+  "LEOTARD": [
+    "https://www.amazon.co.jp/dp/B07RHCD19X",
+    "https://www.amazon.com.mx/dp/B07ZPQCLGC",
+    "https://www.amazon.de/dp/B07FM56BF9"
+  ],
+  "DESK": [
+    "https://www.amazon.com/dp/B07QC85X9C",
+    "https://www.amazon.de/dp/B07K6S2G6J",
+    "https://www.amazon.com/dp/B07QD6V1VT"
+  ],
+  "RING": [
+    "https://www.amazon.co.jp/dp/B07HFVGS2X",
+    "https://www.amazon.co.jp/dp/B07HFT7RKP",
+    "https://www.amazon.co.jp/dp/B07HFXLYKX"
+  ],
+  "WRITING_BOARD": [
+    "https://www.amazon.com/dp/B085PHBGXS",
+    "https://www.amazon.fr/dp/B07DDFGFDF",
+    "https://www.amazon.com.tr/dp/B078C9XLVH"
+  ],
+  "COFFEE_MAKER": [
+    "https://www.amazon.in/dp/B07DFTS8C2",
+    "https://www.amazon.in/dp/B08FC4PCZF",
+    "https://www.amazon.in/dp/B084ZH769P"
+  ],
+  "HOME_LIGHTING_ACCESSORY": [
+    "https://www.amazon.com/dp/B082Q21DTJ",
+    "https://www.amazon.com/dp/B082Q1LC5W",
+    "https://www.fresh.amazon.com/dp/B00OS7ELK6"
+  ],
+  "MUSCLE_ROLLER": [
+    "https://www.amazon.co.uk/dp/B07N43V3JR",
+    "https://www.amazon.es/dp/B07RKZH8HS",
+    "https://www.amazon.com/dp/B07BH1PSXL"
+  ],
+  "FINEOTHER": [
+    "https://www.amazon.it/dp/B07DNX9XND",
+    "https://www.amazon.ae/dp/B01HGKTM5A",
+    "https://www.amazon.ca/dp/B074CG1WGL"
+  ],
+  "SCREEN_PROTECTOR": [
+    "https://www.amazon.in/dp/B07NKZ77HN",
+    "https://www.amazon.de/dp/B0050SVN26",
+    "https://www.amazon.in/dp/B07VRBX3FP"
+  ],
+  "OUTDOOR_RECREATION_PRODUCT": [
+    "https://www.amazon.com/dp/B00IXJMQ8E",
+    "https://www.amazon.in/dp/B07ZPGLKPX",
+    "https://www.amazon.fr/dp/B0749MRCPG"
+  ],
+  "FASHIONEARRING": [
+    "https://www.amazon.es/dp/B07ZH3GGB8",
+    "https://www.amazon.com/dp/B07ZH1RXHJ",
+    "https://www.amazon.com/dp/B01HTF8Y10"
+  ],
+  "PORTABLE_ELECTRONIC_DEVICE_STAND": [
+    "https://www.amazon.se/dp/B07KYR2DKC",
+    "https://www.amazon.com.mx/dp/B07T5ML29D",
+    "https://www.amazon.de/dp/B01D4KFAG6"
+  ],
+  "SHELF": [
+    "https://www.amazon.de/dp/B07TZ9BMJG",
+    "https://www.amazon.es/dp/B07RT5PDJG",
+    "https://www.amazon.it/dp/B07W918SNZ"
+  ],
+  "STRING_LIGHT": [
+    "https://www.amazon.es/dp/B07TV73X9C",
+    "https://www.amazon.co.uk/dp/B07WGWQDG7",
+    "https://www.amazon.in/dp/B07TT6H1RF"
+  ],
+  "SHAMPOO": [
+    "https://www.amazon.com.mx/dp/B07ST82369",
+    "https://www.amazon.com/dp/B074Y5GYKM",
+    "https://www.amazon.com/dp/B0752LHJMZ"
+  ],
+  "SKIN_CLEANING_AGENT": [
+    "https://www.amazon.sg/dp/B07RW5FWV4",
+    "https://www.amazon.de/dp/B07NGHQF5C",
+    "https://www.primenow.amazon.es/dp/B07NGFVGM3"
+  ],
+  "CLOCK": [
+    "https://www.amazon.in/dp/B082DS7PJY",
+    "https://www.amazon.in/dp/B07QVL4P91",
+    "https://www.amazon.in/dp/B07R2YF1PY"
+  ],
+  "TOOTHBRUSH_HOLDER": [
+    "https://www.amazon.it/dp/B073Q5HG91",
+    "https://www.amazon.com/dp/B073Q66Y9N",
+    "https://www.amazon.de/dp/B073Q6277G"
+  ],
+  "NUT_BUTTER": [
+    "https://www.amazon.com/dp/B074Y6WZH5",
+    "https://www.primenow.amazon.com/dp/B074H6G8CH",
+    "https://www.primenow.amazon.fr/dp/B07JK9D2CF"
+  ],
+  "MINERAL_SUPPLEMENT": [
+    "https://www.amazon.com.au/dp/B074KLCGC7",
+    "https://www.amazon.com/dp/B083V9JX4H",
+    "https://www.amazon.com/dp/B077PBGBV9"
+  ],
+  "SAUTE_FRY_PAN": [
+    "https://www.amazon.in/dp/B07F2P4PRS",
+    "https://www.amazon.fr/dp/B07CWDLR6P",
+    "https://www.amazon.de/dp/B07HKL877Y"
+  ],
+  "EXERCISE_BAND": [
+    "https://www.amazon.de/dp/B07GZFZFD8",
+    "https://www.amazon.co.uk/dp/B07D58TLCG",
+    "https://www.amazon.com.mx/dp/B07H8J1MNZ"
+  ],
+  "RADIO": [
+    "https://www.amazon.fr/dp/B07XBFPJ22",
+    "https://www.amazon.in/dp/B07XLR2W2S",
+    "https://www.amazon.com/dp/B07VXLS8K6"
+  ],
+  "SKIN_MOISTURIZER": [
+    "https://www.amazon.com/dp/B07CJQBDHJ",
+    "https://www.amazon.com/dp/B083V9ZX4F",
+    "https://www.amazon.ca/dp/B07SM1JPQV"
+  ],
+  "PAINT_BRUSH": [
+    "https://www.amazon.co.uk/dp/B08935ZYSB",
+    "https://www.amazon.co.jp/dp/B0893731DR",
+    "https://www.amazon.ca/dp/B08933RV1D"
+  ],
+  "CLOTHES_RACK": [
+    "https://www.amazon.it/dp/B07QV18T5Y",
+    "https://www.amazon.in/dp/B07PV391X6",
+    "https://www.amazon.it/dp/B07WVF78SY"
+  ],
+  "POWER_STRIP": [
+    "https://www.amazon.com/dp/B07SZHH5KF",
+    "https://www.amazon.com.mx/dp/B07Q54SMY8",
+    "https://www.primenow.amazon.com/dp/B00TP1C1UC"
+  ],
+  "EYELID_COLOR": [
+    "https://www.amazon.co.uk/dp/B07CTN8ZDC",
+    "https://www.amazon.it/dp/B07CTN98BN",
+    "https://www.amazon.de/dp/B07CTRNSRK"
+  ],
+  "POWER_SUPPLIES_OR_PROTECTION": [
+    "https://www.amazon.in/dp/B07VYJVMYY",
+    "https://www.amazon.ca/dp/B081YJ2V99",
+    "https://www.amazon.com.mx/dp/B07H9RYVZ4"
+  ],
+  "FRUIT": [
+    "https://www.amazon.com/dp/B074MFQS9B",
+    "https://www.amazon.in/dp/B07GQWRZKN",
+    "https://www.amazon.in/dp/B07GR82XJR"
+  ],
+  "TOTE_BAG": [
+    "https://www.amazon.it/dp/B07BK36R2P",
+    "https://www.amazon.es/dp/B07QTHYQD7",
+    "https://www.amazon.nl/dp/B07BK4W445"
+  ],
+  "ABIS_LAWN_AND_GARDEN": [
+    "https://www.amazon.es/dp/B07H28TL2R",
+    "https://www.amazon.com.au/dp/B07VYKZFVF",
+    "https://www.amazon.co.uk/dp/B07H25TPQ8"
+  ],
+  "INPUT_MOUSE": [
+    "https://www.amazon.co.jp/dp/B07TCQVDQ7",
+    "https://www.amazon.com.tr/dp/B0787GB9T4",
+    "https://www.amazon.com.mx/dp/B073VRVHBG"
+  ],
+  "COMPUTER_ADD_ON": [
+    "https://www.amazon.com/dp/B07CM5NZRC",
+    "https://www.amazon.com.mx/dp/B00X3O9BKK",
+    "https://www.amazon.sa/dp/B06XD6NWH8"
+  ],
+  "INCENSE": [
+    "https://www.amazon.in/dp/B07RNL1XZZ",
+    "https://www.amazon.in/dp/B07RM4C64J",
+    "https://www.amazon.in/dp/B07RHTYWSG"
+  ],
+  "JAR": [
+    "https://www.amazon.in/dp/B084KV5BZL",
+    "https://www.amazon.in/dp/B0823G4R76",
+    "https://www.amazon.in/dp/B07G4M4BK8"
+  ],
+  "DRESSER": [
+    "https://www.amazon.com/dp/B075YZ16V7",
+    "https://www.amazon.es/dp/B07H8TNM7H",
+    "https://www.amazon.fr/dp/B07H8SFZR8"
+  ],
+  "UMBRELLA": [
+    "https://www.primenow.amazon.de/dp/B07BHFPG21",
+    "https://www.amazon.com/dp/B07BHFLJGV",
+    "https://www.amazon.in/dp/B07XZKBMLS"
+  ],
+  "CE_ACCESSORY": [
+    "https://www.amazon.com/dp/B08HC95KQ2",
+    "https://www.amazon.com/dp/B08HLPZLBQ",
+    "https://www.amazon.fr/dp/B07L9KTZQ9"
+  ],
+  "PANTRY": [
+    "https://www.amazon.it/dp/B07K23TFMH",
+    "https://www.amazon.de/dp/B01MCZHOXG",
+    "https://www.amazon.it/dp/B07M6RSD52"
+  ],
+  "CARRYING_CASE_OR_BAG": [
+    "https://www.amazon.in/dp/B07Z8HRQPN",
+    "https://www.amazon.com.mx/dp/B07NBW3QBT",
+    "https://www.amazon.in/dp/B07JPWXK3D"
+  ],
+  "SNACK_CHIP_AND_CRISP": [
+    "https://www.primenow.amazon.com/dp/B07DWDBPQX",
+    "https://www.amazon.com/dp/B074MFX93R",
+    "https://www.primenow.amazon.com/dp/B074J67WMG"
+  ],
+  "JEWELRY_SET": [
+    "https://www.amazon.co.jp/dp/B0028N6VAA",
+    "https://www.amazon.co.jp/dp/B001HZYB5W",
+    "https://www.amazon.co.jp/dp/B0727RK4B8"
+  ],
+  "MULTIPORT_HUB": [
+    "https://www.amazon.com.mx/dp/B076YJ41XD",
+    "https://www.amazon.co.uk/dp/B07V7QSW4V",
+    "https://www.amazon.com/dp/B076YFNTRR"
+  ],
+  "ABIS_HOME_IMPROVEMENT": [
+    "https://www.amazon.ca/dp/B07R8F5R2V",
+    "https://www.amazon.fr/dp/B07R8DTMF6",
+    "https://www.amazon.ae/dp/B07R66LCPW"
+  ],
+  "MOUTHWASH": [
+    "https://www.amazon.com/dp/B07WDYYL7N",
+    "https://www.amazon.com/dp/B083V9Q466",
+    "https://www.amazon.com/dp/B07R49PG8T"
+  ],
+  "TRASH_CAN": [
+    "https://www.amazon.sg/dp/B07FQ4NTT3",
+    "https://www.amazon.de/dp/B07MJ9NSC2",
+    "https://www.amazon.co.uk/dp/B07SGQ2W3J"
+  ],
+  "INSTRUMENT_PARTS_AND_ACCESSORIES": [
+    "https://www.amazon.it/dp/B07TTQVGQR",
+    "https://www.amazon.it/dp/B085CB24GD",
+    "https://www.amazon.com/dp/B07TDMZHRM"
+  ],
+  "FISH": [
+    "https://www.primenow.amazon.com/dp/B07NRDZTR3",
+    "https://www.amazon.com/dp/B074MFQSRM",
+    "https://www.primenow.amazon.com/dp/B07DF3XKFK"
+  ],
+  "CASSEROLES": [
+    "https://www.amazon.com.au/dp/B07B4Y45MD",
+    "https://www.amazon.sg/dp/B07B4Y45M8",
+    "https://www.amazon.sa/dp/B07B4YXWMS"
+  ],
+  "FILE_FOLDER": [
+    "https://www.amazon.in/dp/B07TNVLBVZ",
+    "https://www.amazon.co.jp/dp/B07K8YX7VK",
+    "https://www.amazon.it/dp/B07H2G4J2L"
+  ],
+  "NON_DAIRY_CREAM": [
+    "https://www.primenow.amazon.com/dp/B07WKLBVMR",
+    "https://www.amazon.com/dp/B07K77XXXR",
+    "https://www.primenow.amazon.com/dp/B07NVF329J"
+  ],
+  "PERSONAL_COMPUTER": [
+    "https://www.amazon.fr/dp/B082GBCQRC",
+    "https://www.amazon.com/dp/B08F79X94T",
+    "https://www.amazon.ca/dp/B07V2BGM4R"
+  ],
+  "TEA": [
+    "https://www.amazon.com/dp/B083VB8M2D",
+    "https://www.amazon.com/dp/B07WZD5GCT",
+    "https://www.primenow.amazon.com/dp/B07X3M7BSW"
+  ],
+  "BED_FRAME": [
+    "https://www.amazon.in/dp/B07Y2CNMZN",
+    "https://www.amazon.co.uk/dp/B07QSLPKWM",
+    "https://www.amazon.com/dp/B00AZ0MS8C"
+  ],
+  "WIRELESS_ACCESSORY": [
+    "https://www.amazon.fr/dp/B081K4FPSR",
+    "https://www.amazon.ca/dp/B0176XCD1W",
+    "https://www.amazon.com.mx/dp/B07XS3K1C2"
+  ],
+  "BOTTLE": [
+    "https://www.amazon.in/dp/B072WX12JW",
+    "https://www.amazon.in/dp/B072WW22SH",
+    "https://www.amazon.com.mx/dp/B07HKBS44Q"
+  ],
+  "WRITING_INSTRUMENT": [
+    "https://www.amazon.ca/dp/B086R97RYT",
+    "https://www.amazon.nl/dp/B087B69598",
+    "https://www.amazon.com.mx/dp/B07BDWD8B7"
+  ],
+  "SCREWDRIVER": [
+    "https://www.amazon.it/dp/B07V3TDP49",
+    "https://www.amazon.se/dp/B07SV44SKR",
+    "https://www.amazon.co.uk/dp/B08638T247"
+  ],
+  "DOORSTOP": [
+    "https://www.amazon.com.mx/dp/B07PQS4G5V",
+    "https://www.amazon.sg/dp/B07PDHMHD6",
+    "https://www.amazon.sg/dp/B07PJTYNJ7"
+  ],
+  "STORAGE_DRAWER": [
+    "https://www.amazon.it/dp/B07TX2D4WW",
+    "https://www.amazon.nl/dp/B07SFZLWHQ",
+    "https://www.amazon.co.jp/dp/B07SFZLWHQ"
+  ],
+  "MEAT": [
+    "https://www.primenow.amazon.com/dp/B07NRL7W31",
+    "https://www.primenow.amazon.com/dp/B07YVMNBRZ",
+    "https://www.primenow.amazon.com/dp/B074H7KL22"
+  ],
+  "STORAGE_HOOK": [
+    "https://www.amazon.co.uk/dp/B07WJ7D9LL",
+    "https://www.amazon.es/dp/B07WM1QT5L",
+    "https://www.amazon.de/dp/B0775Z9ZC6"
+  ],
+  "WATCH": [
+    "https://www.amazon.co.uk/dp/B07YQFCGXX",
+    "https://www.amazon.ae/dp/B07YQFHVJF",
+    "https://www.amazon.de/dp/B07YQFST6X"
+  ],
+  "NUTS": [
+    "https://www.fresh.amazon.com/dp/B072MR7PPJ",
+    "https://www.amazon.com/dp/B07MNMCZWP",
+    "https://www.amazon.com/dp/B074MG2JRB"
+  ],
+  "MAJOR_HOME_APPLIANCES": [
+    "https://www.amazon.com/dp/B07ZP6W8BS",
+    "https://www.amazon.com/dp/B07W4KZKGX",
+    "https://www.amazon.ca/dp/B07DPQTK31"
+  ],
+  "ABIS_KITCHEN": [
+    "https://www.amazon.se/dp/B07NX2JNYX",
+    "https://www.amazon.fr/dp/B07WLY2ZQ3",
+    "https://www.amazon.se/dp/B07TXQXFB2"
+  ],
+  "FOUNTAIN": [
+    "https://www.amazon.it/dp/B0797KPWY4",
+    "https://www.amazon.es/dp/B076VYS7QG",
+    "https://www.amazon.co.jp/dp/B07227RQJ9"
+  ],
+  "TECHNICAL_SPORT_SHOE": [
+    "https://www.amazon.com/dp/B07PHRTW54",
+    "https://www.amazon.sg/dp/B07PHRTPT5",
+    "https://www.amazon.com.au/dp/B07PGN13CV"
+  ],
+  "SAFETY_GLASSES": [
+    "https://www.amazon.de/dp/B07TC8GTR7",
+    "https://www.amazon.nl/dp/B07JLWZQ4L",
+    "https://www.amazon.de/dp/B07TFGK7QW"
+  ],
+  "RECREATION_BALL": [
+    "https://www.amazon.de/dp/B07SC9NY5R",
+    "https://www.amazon.se/dp/B07TD75KV1",
+    "https://www.amazon.com.mx/dp/B07SDG7H8M"
+  ],
+  "SNACK_FOOD_BAR": [
+    "https://www.amazon.com/dp/B074MF89HN",
+    "https://www.amazon.com.au/dp/B07NHPC4D8",
+    "https://www.amazon.com/dp/B0785FL7NN"
+  ],
+  "HOME_LIGHTING_AND_LAMPS": [
+    "https://www.amazon.com/dp/B089QZJRP4",
+    "https://www.amazon.com.au/dp/B07T5G19FG",
+    "https://www.amazon.com/dp/B07HK3W6ZP"
+  ],
+  "PAPER_TOWEL_HOLDER": [
+    "https://www.amazon.it/dp/B07WTP3MJ6",
+    "https://www.amazon.ca/dp/B07PRLMQFV",
+    "https://www.amazon.in/dp/B077K5WM71"
+  ],
+  "ANTENNA": [
+    "https://www.amazon.com/dp/B01IN2777A",
+    "https://www.primenow.amazon.it/dp/B0767KMHXS",
+    "https://www.amazon.com.tr/dp/B00X4R9VBA"
+  ],
+  "CE_CARRYING_CASE_OR_BAG": [
+    "https://www.amazon.de/dp/B07XLS8Z2Z",
+    "https://www.amazon.in/dp/B07D4LK8Z9",
+    "https://www.amazon.nl/dp/B082BFNPZV"
+  ],
+  "MEDICATION": [
+    "https://www.amazon.com/dp/B07Z12KRNS",
+    "https://www.amazon.sg/dp/B0779D4BTN",
+    "https://www.primenow.amazon.com/dp/B074F297S7"
+  ],
+  "GPS_OR_NAVIGATION_SYSTEM": [
+    "https://www.amazon.fr/dp/B017KJGVZG",
+    "https://www.amazon.de/dp/B01LSWIDSO",
+    "https://www.amazon.co.uk/dp/B01DABUV1S"
+  ],
+  "SHOE_INSERT": [
+    "https://www.amazon.in/dp/B07TGD3GQM",
+    "https://www.amazon.com.mx/dp/B07BWCTB9K",
+    "https://www.amazon.com.mx/dp/B07BWQ9DSN"
+  ],
+  "STORAGE_BOX": [
+    "https://www.amazon.ca/dp/B07ZC8581G",
+    "https://www.amazon.com/dp/B07B4ZFC5H",
+    "https://www.amazon.in/dp/B081FHHB4R"
+  ],
+  "DAIRY_BASED_BUTTER": [
+    "https://www.amazon.in/dp/B07SNRM6VP",
+    "https://www.amazon.in/dp/B07R7G8W8X",
+    "https://www.amazon.in/dp/B07R4DCC9P"
+  ],
+  "PLACEMAT": [
+    "https://www.amazon.com.mx/dp/B00OUFX5AS",
+    "https://www.amazon.it/dp/B08D8VC7XX",
+    "https://www.amazon.in/dp/B07QTTVX2P"
+  ],
+  "FLOUR": [
+    "https://www.amazon.com/dp/B079WXCV7Y",
+    "https://www.amazon.com/dp/B07Z7DY1N8",
+    "https://www.amazon.in/dp/B07DDKST12"
+  ],
+  "JEWELRY_STORAGE": [
+    "https://www.amazon.ae/dp/B07W81PFD3",
+    "https://www.amazon.sg/dp/B07W81PFCV",
+    "https://www.amazon.in/dp/B07QPZQ85F"
+  ],
+  "DRINK_FLAVORED": [
+    "https://www.amazon.com/dp/B07X1HW325",
+    "https://www.amazon.com/dp/B074VDW72Q",
+    "https://www.amazon.com/dp/B075M4K9P8"
+  ],
+  "DEHUMIDIFIER": [
+    "https://www.amazon.com.au/dp/B074DDQ629",
+    "https://www.amazon.com/dp/B07XKGLMR8",
+    "https://www.amazon.com/dp/B07XMRCXJ7"
+  ],
+  "TOYS_AND_GAMES": [
+    "https://www.amazon.co.uk/dp/B07K2NHJ5Z",
+    "https://www.amazon.in/dp/B07ZDPST4B",
+    "https://www.amazon.co.uk/dp/B07DC3JYSG"
+  ],
+  "SECURITY_ELECTRONICS": [
+    "https://www.amazon.com.au/dp/B07QYTNK1M",
+    "https://www.amazon.es/dp/B07QWSGQM4",
+    "https://www.amazon.de/dp/B07W42KQ3M"
+  ],
+  "KEYBOARDS": [
+    "https://www.amazon.com/dp/B08HKSWD64",
+    "https://www.amazon.com.au/dp/B07CM7RQ46",
+    "https://www.amazon.com/dp/B08HJRHBK1"
+  ],
+  "FREESTANDING_SHELTER": [
+    "https://www.amazon.com/dp/B07YM1FJ1M",
+    "https://www.amazon.es/dp/B07VZ7Y8N3",
+    "https://www.amazon.com/dp/B07YM19Q9K"
+  ],
+  "JUICER": [
+    "https://www.amazon.fr/dp/B07PH385H9",
+    "https://www.amazon.com.mx/dp/B07ZHMLNCH",
+    "https://www.amazon.de/dp/B07PKCQKKV"
+  ],
+  "FRUIT_SNACK": [
+    "https://www.amazon.com/dp/B074H81MJC",
+    "https://www.primenow.amazon.com/dp/B07H7MSJPT",
+    "https://www.amazon.com/dp/B08222YHKM"
+  ],
+  "PLIERS": [
+    "https://www.amazon.ae/dp/B015X2NHOK",
+    "https://www.amazon.es/dp/B07WLMQ5CN",
+    "https://www.amazon.sg/dp/B07TVBL77X"
+  ],
+  "ELECTRIC_FAN": [
+    "https://www.amazon.com/dp/B08CBKMR51",
+    "https://www.amazon.com/dp/B07HK8YJ69",
+    "https://www.amazon.in/dp/B07YJD9K21"
+  ],
+  "HOME_MIRROR": [
+    "https://www.amazon.fr/dp/B07K7NYB8K",
+    "https://www.amazon.com/dp/B073WH6N3R",
+    "https://www.amazon.com/dp/B07B8NW6GG"
+  ],
+  "COOKIE": [
+    "https://www.primenow.amazon.com/dp/B01LXM40Z0",
+    "https://www.primenow.amazon.com/dp/B078J13FYT",
+    "https://www.primenow.amazon.com/dp/B078W5Q4ZP"
+  ],
+  "CHARM": [
+    "https://www.amazon.co.uk/dp/B0183VW12C",
+    "https://www.amazon.co.uk/dp/B014USS4IW",
+    "https://www.amazon.com.mx/dp/B01M1L63ZU"
+  ],
+  "BARBELL": [
+    "https://www.amazon.co.uk/dp/B07D51QF8K",
+    "https://www.amazon.es/dp/B07D5BKMBF",
+    "https://www.amazon.it/dp/B07D56B8W7"
+  ],
+  "ELECTRONIC_ADAPTER": [
+    "https://www.amazon.in/dp/B07VZVPS75",
+    "https://www.amazon.in/dp/B08BCBMDKG",
+    "https://www.amazon.in/dp/B07KRBK7QT"
+  ],
+  "LOCK": [
+    "https://www.amazon.com/dp/B07PHPNS1B",
+    "https://www.amazon.de/dp/B07J51L7MG",
+    "https://www.amazon.sg/dp/B07GDWV5WT"
+  ],
+  "EXERCISE_MAT": [
+    "https://www.amazon.de/dp/B0713Y7MX2",
+    "https://www.amazon.com/dp/B01LP0V4JY",
+    "https://www.amazon.com/dp/B01N9851CO"
+  ],
+  "PITCHER": [
+    "https://www.amazon.com.mx/dp/B0898C14F2",
+    "https://www.amazon.ca/dp/B0896KFQ2D",
+    "https://www.amazon.de/dp/B01MXUTXKJ"
+  ],
+  "ELECTRIC_WATER_BOILER": [
+    "https://www.amazon.ca/dp/B084Q5J45H",
+    "https://www.amazon.in/dp/B087X76Z3W",
+    "https://www.amazon.com.mx/dp/B07W19L1V6"
+  ],
+  "CURTAIN": [
+    "https://www.amazon.com/dp/B073P648NH",
+    "https://www.amazon.com/dp/B073P5Y9TC",
+    "https://www.amazon.com/dp/B073P5DMVR"
+  ],
+  "STAPLER": [
+    "https://www.amazon.com/dp/B01F2RAV4U",
+    "https://www.amazon.de/dp/B07S8QY88V",
+    "https://www.amazon.co.jp/dp/B07S7FN9D2"
+  ],
+  "NOODLE": [
+    "https://www.amazon.com/dp/B074MFTWL1",
+    "https://www.amazon.com/dp/B074MFZ9F3",
+    "https://www.amazon.com/dp/B074MGFZ6Z"
+  ],
+  "CAMERA_TRIPOD": [
+    "https://www.amazon.fr/dp/B00CF1LS94",
+    "https://www.amazon.co.jp/dp/B07GWYVLN6",
+    "https://www.amazon.sg/dp/B07GXKPRTC"
+  ],
+  "SKIN_CLEANING_WIPE": [
+    "https://www.amazon.se/dp/B073HSH3S8",
+    "https://www.amazon.sg/dp/B07H53Y33R",
+    "https://www.amazon.in/dp/B07RL83812"
+  ],
+  "DRYING_RACK": [
+    "https://www.amazon.in/dp/B07QJ5QGNV",
+    "https://www.amazon.com.mx/dp/B07QJ5Q6TY",
+    "https://www.amazon.co.jp/dp/B07QJ5S1YL"
+  ],
+  "SALWAR_SUIT_SET": [
+    "https://www.amazon.in/dp/B07GLTNHNQ",
+    "https://www.amazon.in/dp/B07TK4165P",
+    "https://www.amazon.in/dp/B07G78XXVR"
+  ],
+  "SUNGLASSES": [
+    "https://www.amazon.com.mx/dp/B07PRN66LS",
+    "https://www.amazon.com.mx/dp/B06Y41Q7Z8",
+    "https://www.amazon.com.mx/dp/B06Y42V6VG"
+  ],
+  "CONDITIONER": [
+    "https://www.primenow.amazon.co.jp/dp/B07CNNSFCP",
+    "https://www.amazon.com/dp/B074MHPDPG",
+    "https://www.amazon.fr/dp/B07NGJK1HY"
+  ],
+  "EYEWEAR": [
+    "https://www.amazon.ca/dp/B0764FBWJ1",
+    "https://www.amazon.ca/dp/B076VSCNLN",
+    "https://www.amazon.com.mx/dp/B0764FCXKW"
+  ],
+  "PICTURE_FRAME": [
+    "https://www.amazon.com/dp/B075YLXVDS",
+    "https://www.amazon.com/dp/B073P1CJTZ",
+    "https://www.amazon.com/dp/B075YLWP9X"
+  ],
+  "CAMCORDER": [
+    "https://www.amazon.de/dp/B07S85CRGF",
+    "https://www.amazon.de/dp/B01J9QDYRG",
+    "https://www.amazon.it/dp/B07VD8X6XQ"
+  ],
+  "BATHWATER_ADDITIVE": [
+    "https://www.primenow.amazon.com/dp/B07DFW27DB",
+    "https://www.primenow.amazon.com/dp/B074H5J94Q",
+    "https://www.amazon.ae/dp/B0837HYQ6T"
+  ],
+  "SWATCH": [
+    "https://www.amazon.com/dp/B07P55N9DF",
+    "https://www.amazon.com/dp/B07P2YMFHL",
+    "https://www.amazon.com/dp/B07PBJ67Y5"
+  ],
+  "FACIAL_TISSUE": [
+    "https://www.amazon.co.jp/dp/B07YWGRT9W",
+    "https://www.amazon.in/dp/B07RSRBZ26",
+    "https://www.amazon.com/dp/B074H5J2VR"
+  ],
+  "WEIGH_SCALE": [
+    "https://www.amazon.es/dp/B07W7V682K",
+    "https://www.amazon.es/dp/B07S8FY18G",
+    "https://www.primenow.amazon.de/dp/B06X9NQ8GX"
+  ],
+  "DISHWASHER_DETERGENT": [
+    "https://www.amazon.com/dp/B083VB2NPN",
+    "https://www.amazon.in/dp/B07D4CVH4M",
+    "https://www.amazon.fr/dp/B07BQ24YZX"
+  ],
+  "HONEY": [
+    "https://www.amazon.de/dp/B081SBN6D2",
+    "https://www.amazon.com/dp/B07CVWD7NL",
+    "https://www.amazon.com.au/dp/B07CVW97KZ"
+  ],
+  "BOTTLE_RACK": [
+    "https://www.amazon.com/dp/B075YNL7R3",
+    "https://www.amazon.ca/dp/B07GFWLLGK",
+    "https://www.amazon.com.tr/dp/B07XYMJRHM"
+  ],
+  "CAMERA_OTHER_ACCESSORIES": [
+    "https://www.amazon.ca/dp/B003ES61EE",
+    "https://www.amazon.co.uk/dp/B07QPC8GR7",
+    "https://www.amazon.nl/dp/B082BDGQCS"
+  ],
+  "CHOCOLATE_CANDY": [
+    "https://www.amazon.it/dp/B07ZRSNF7S",
+    "https://www.amazon.it/dp/B07ZRSZZL5",
+    "https://www.amazon.fr/dp/B07W5T9YRG"
+  ],
+  "BAKING_PAN": [
+    "https://www.amazon.com/dp/B00GYVBQU2",
+    "https://www.amazon.ae/dp/B073Q8LMLT",
+    "https://www.amazon.es/dp/B07CNCX11W"
+  ],
+  "FOOD_BLENDER": [
+    "https://www.amazon.sg/dp/B07PYM538T",
+    "https://www.amazon.in/dp/B071GKY7HV",
+    "https://www.amazon.es/dp/B07PYM54X4"
+  ],
+  "SALAD_DRESSING": [
+    "https://www.primenow.amazon.com/dp/B074HDZ33D",
+    "https://www.amazon.com/dp/B074HCR478",
+    "https://www.amazon.com/dp/B07FWN39N4"
+  ],
+  "BUILDING_MATERIAL": [
+    "https://www.amazon.com/dp/B07WQ4P35G",
+    "https://www.amazon.com/dp/B07WGNQVGM",
+    "https://www.amazon.com/dp/B07WHRXD58"
+  ],
+  "TOY_FIGURE": [
+    "https://www.amazon.in/dp/B081ZKCDZM",
+    "https://www.amazon.in/dp/B081ZKMNN3",
+    "https://www.amazon.in/dp/B081ZK5BL7"
+  ],
+  "COSMETIC_BRUSH": [
+    "https://www.amazon.co.uk/dp/B07RKXKJHB",
+    "https://www.amazon.ca/dp/B07CZCQ481",
+    "https://www.amazon.co.uk/dp/B07JCPJR5K"
+  ],
+  "DISHWARE_PLACE_SETTING": [
+    "https://www.amazon.sg/dp/B07QGDW913",
+    "https://www.amazon.fr/dp/B07F817ZHZ",
+    "https://www.amazon.com.mx/dp/B07N9LXBGG"
+  ],
+  "FASHIONRING": [
+    "https://www.amazon.com/dp/B07XVNZNKV",
+    "https://www.amazon.co.uk/dp/B00XW2GITK",
+    "https://www.amazon.com/dp/B07XVPBX2T"
+  ],
+  "CRACKER": [
+    "https://www.primenow.amazon.com/dp/B074H5ZK4J",
+    "https://www.amazon.com/dp/B074MGLHF1",
+    "https://www.primenow.amazon.com/dp/B074H5Z5MD"
+  ],
+  "ENVELOPE": [
+    "https://www.amazon.nl/dp/B06WLH1JQJ",
+    "https://www.amazon.com/dp/B074FZ3LHX",
+    "https://www.amazon.co.uk/dp/B0869Q9HVP"
+  ],
+  "ELECTROMECHANICAL_GAUGE": [
+    "https://www.amazon.com/dp/B07T916YQ6",
+    "https://www.amazon.co.uk/dp/B07GL3HNT6",
+    "https://www.amazon.com.mx/dp/B07GS9S778"
+  ],
+  "CONSUMER_ELECTRONICS": [
+    "https://www.amazon.de/dp/B07H3WNZPB",
+    "https://www.amazon.es/dp/B002SSU36S",
+    "https://www.amazon.it/dp/B07H3RP7PN"
+  ],
+  "NOTEBOOK_COMPUTER": [
+    "https://www.amazon.co.uk/dp/B010UMFTRG",
+    "https://www.amazon.com.mx/dp/B07SBG19PC",
+    "https://www.amazon.it/dp/B00SLB0R9Y"
+  ],
+  "PORTABLE_ELECTRONIC_DEVICE_MOUNT": [
+    "https://www.amazon.in/dp/B07DQS8GFG",
+    "https://www.amazon.com.tr/dp/B07W19BB9C",
+    "https://www.primenow.amazon.com/dp/B00XNKW45I"
+  ],
+  "VIDEO_PROJECTOR": [
+    "https://www.amazon.it/dp/B07LFGS1T6",
+    "https://www.amazon.com/dp/B08HGX1DD8",
+    "https://www.amazon.it/dp/B07Q8MLZG4"
+  ],
+  "BODY_POSITIONER": [
+    "https://www.amazon.sa/dp/B07T37RW48",
+    "https://www.amazon.co.uk/dp/B07GN2GG77",
+    "https://www.amazon.co.uk/dp/B0733FGLVZ"
+  ],
+  "EYEBROW_COLOR": [
+    "https://www.primenow.amazon.fr/dp/B07CTM988R",
+    "https://www.amazon.se/dp/B07CTN8X1W",
+    "https://www.amazon.nl/dp/B07CTM942G"
+  ],
+  "SHEET_PAN": [
+    "https://www.amazon.it/dp/B0764KR98C",
+    "https://www.amazon.co.jp/dp/B08DJNYX8Y",
+    "https://www.amazon.com/dp/B08DJP1WJV"
+  ],
+  "STEERING_WHEEL_COVER": [
+    "https://www.amazon.ca/dp/B07FPMYPPZ",
+    "https://www.amazon.in/dp/B07J5FZQVN",
+    "https://www.amazon.co.jp/dp/B07X76SJJV"
+  ],
+  "FASHIONNECKLACEBRACELETANKLET": [
+    "https://www.amazon.com.au/dp/B00MHO1N0S",
+    "https://www.amazon.com/dp/B071FS1QRJ",
+    "https://www.amazon.com/dp/B072M65V1Y"
+  ],
+  "TOY_SLIME": [
+    "https://www.amazon.com/dp/B07ZDPY389",
+    "https://www.amazon.in/dp/B07ZDQ32MQ",
+    "https://www.amazon.com.mx/dp/B07Y5KMYRB"
+  ],
+  "WALLPAPER": [
+    "https://www.amazon.com.mx/dp/B07RCZ5Q87",
+    "https://www.amazon.com.mx/dp/B07RH2RTYX"
+  ],
+  "STRINGED_INSTRUMENTS": [
+    "https://www.amazon.sa/dp/B07RG6YBXC",
+    "https://www.amazon.fr/dp/B07R2X3GG9",
+    "https://www.amazon.fr/dp/B07QWMK4H9"
+  ],
+  "CAMERA_LENS_FILTERS": [
+    "https://www.amazon.com/dp/B01FJFWFO4",
+    "https://www.amazon.com/dp/B01FJFXZAM",
+    "https://www.amazon.com.tr/dp/B00XNMYES6"
+  ],
+  "DIETARY_SUPPLEMENTS": [
+    "https://www.primenow.amazon.fr/dp/B07GT9YXQ2",
+    "https://www.amazon.nl/dp/B07D1HCGHW",
+    "https://www.amazon.it/dp/B07GTFSCFP"
+  ],
+  "VEHICLE_SEAT_COVER": [
+    "https://www.primenow.amazon.com/dp/B00QHC041A",
+    "https://www.amazon.sg/dp/B00QHC02EY",
+    "https://www.amazon.se/dp/B07X67MKV1"
+  ],
+  "LAB_SUPPLY": [
+    "https://www.amazon.com/dp/B078WR6TQK",
+    "https://www.amazon.com.mx/dp/B078WRPMMB",
+    "https://www.amazon.sg/dp/B07TQSS1JK"
+  ],
+  "STICKER_DECAL": [
+    "https://www.amazon.com/dp/B07CMHGRX3",
+    "https://www.amazon.in/dp/B073RM6HSF",
+    "https://www.amazon.in/dp/B073RLQTQW"
+  ],
+  "MEAL_HOLDER": [
+    "https://www.amazon.in/dp/B06X93NDFF",
+    "https://www.amazon.fr/dp/B07BK4MQVN",
+    "https://www.amazon.in/dp/B07GLMGGTM"
+  ],
+  "EARMUFF": [
+    "https://www.amazon.ca/dp/B07KCT6738",
+    "https://www.amazon.ca/dp/B01DK90A3O",
+    "https://www.amazon.sg/dp/B07H2DP3ZN"
+  ],
+  "NAIL_POLISH": [
+    "https://www.primenow.amazon.de/dp/B07CTNTBGH",
+    "https://www.amazon.co.uk/dp/B07CTRNCQQ",
+    "https://www.primenow.amazon.co.uk/dp/B07CTQQ7QD"
+  ],
+  "COMPUTER": [
+    "https://www.amazon.com/dp/B06WWJJPRW",
+    "https://www.amazon.ca/dp/B07PY4TX8B",
+    "https://www.amazon.com/dp/B00MIBN16O"
+  ],
+  "UTILITY_CART_WAGON": [
+    "https://www.amazon.com/dp/B07WMQ8P8Q",
+    "https://www.amazon.com/dp/B07VVQ12D9"
+  ],
+  "LADDER": [
+    "https://www.amazon.com/dp/B07WJWRDFW",
+    "https://www.amazon.com/dp/B07WMRJ68R",
+    "https://www.amazon.com/dp/B07WFNW44K"
+  ],
+  "HARDWARE_TUBING": [
+    "https://www.amazon.in/dp/B07DFVTFS8",
+    "https://www.amazon.it/dp/B07H37MGW1",
+    "https://www.amazon.nl/dp/B07DG61GZV"
+  ],
+  "CHANGING_PAD_COVER": [
+    "https://www.amazon.com.mx/dp/B00A73FWBC",
+    "https://www.amazon.com.mx/dp/B00A73FVOA",
+    "https://www.amazon.com.mx/dp/B07NB3MW58"
+  ],
+  "COMPUTER_INPUT_DEVICE_ACCESSORY": [
+    "https://www.amazon.co.jp/dp/B01N8WQLHX",
+    "https://www.amazon.co.jp/dp/B01MSIOMH0"
+  ],
+  "JERKY": [
+    "https://www.amazon.com/dp/B00TCBG6DI",
+    "https://www.amazon.com/dp/B07QKGCTBT",
+    "https://www.amazon.com/dp/B00TCBOFGI"
+  ],
+  "SUNSCREEN": [
+    "https://www.amazon.com/dp/B086BSZXB1",
+    "https://www.amazon.sg/dp/B07N6N3P15",
+    "https://www.amazon.com/dp/B07YBS7MH7"
+  ],
+  "AUTO_PART": [
+    "https://www.amazon.de/dp/B083ZNSMF8",
+    "https://www.amazon.co.jp/dp/B083T49HBP",
+    "https://www.amazon.co.uk/dp/B07V2NZZKT"
+  ],
+  "HOME_ORGANIZERS_AND_STORAGE": [
+    "https://www.amazon.in/dp/B08C2XWMD3"
+  ],
+  "VACUUM_SEALER_MACHINE": [
+    "https://www.amazon.com/dp/B07VCJ9MTC",
+    "https://www.amazon.ca/dp/B088RM155V",
+    "https://www.amazon.co.uk/dp/B073DC31R5"
+  ],
+  "BAKING_PAPER": [
+    "https://www.amazon.in/dp/B07JKBK4QV",
+    "https://www.amazon.sg/dp/B074J6TFGD",
+    "https://www.amazon.co.jp/dp/B00V5IM0EU"
+  ],
+  "BARBECUE_GRILL": [
+    "https://www.amazon.nl/dp/B081D8DC93",
+    "https://www.amazon.com.tr/dp/B074N1W4G8",
+    "https://www.amazon.it/dp/B081D8DC8Z"
+  ],
+  "WATER_PURIFICATION_UNIT": [
+    "https://www.amazon.com/dp/B082D177MX",
+    "https://www.amazon.com.au/dp/B07QJNK5PF",
+    "https://www.amazon.com/dp/B07P1XFYJP"
+  ],
+  "PERSONAL_PILL_DISPENSER": [
+    "https://www.amazon.de/dp/B07YZ4XRN1",
+    "https://www.amazon.de/dp/B07YZ44L4P",
+    "https://www.amazon.de/dp/B07YZ4P4K8"
+  ],
+  "INK_OR_TONER": [
+    "https://www.amazon.es/dp/B084BBYCHJ",
+    "https://www.amazon.co.jp/dp/B001T9NT1I",
+    "https://www.amazon.ca/dp/B084DPXH9S"
+  ],
+  "MATTRESS": [
+    "https://www.amazon.it/dp/B07SX37TCM",
+    "https://www.amazon.fr/dp/B07STV5ZY1",
+    "https://www.amazon.it/dp/B07SSSBKPQ"
+  ],
+  "KITCHEN_KNIFE": [
+    "https://www.amazon.in/dp/B071SDYY6N",
+    "https://www.amazon.in/dp/B07PBBWVHY",
+    "https://www.amazon.in/dp/B0719QB6HX"
+  ],
+  "POWER_BANK": [
+    "https://www.amazon.com.au/dp/B08443JQ7W",
+    "https://www.amazon.com/dp/B07C7Q1KH9"
+  ],
+  "PORTABLE_AUDIO": [
+    "https://www.amazon.com/dp/B01FJEZSDU",
+    "https://www.primenow.amazon.com/dp/B00K367Q6C",
+    "https://www.amazon.com/dp/B01FJECR34"
+  ],
+  "CAKE": [
+    "https://www.amazon.com/dp/B086L31BZS",
+    "https://www.amazon.com/dp/B074Y74CCR",
+    "https://www.primenow.amazon.com/dp/B0841S7WL5"
+  ],
+  "PROFESSIONAL_HEALTHCARE": [
+    "https://www.amazon.in/dp/B07Y3QSCQ8",
+    "https://www.amazon.com.mx/dp/B07G7DDHX6",
+    "https://www.amazon.com.mx/dp/B07Q8LSV4M"
+  ],
+  "BAKING_CUP": [
+    "https://www.amazon.fr/dp/B07S6H4BK4",
+    "https://www.amazon.com.tr/dp/B01KWTGIBS",
+    "https://www.amazon.in/dp/B07GLMHCKN"
+  ],
+  "TOY_BUILDING_BLOCK": [
+    "https://www.amazon.ca/dp/B07TC3P4TD",
+    "https://www.amazon.com/dp/B07THDN2ZS",
+    "https://www.amazon.ca/dp/B07TGD3W79"
+  ],
+  "BUCKET": [
+    "https://www.amazon.ca/dp/B07THK7BCR",
+    "https://www.amazon.com/dp/B07TK3YY8H",
+    "https://www.amazon.es/dp/B07WSPJ99C"
+  ],
+  "BAKING_MIX": [
+    "https://www.amazon.com/dp/B081ZT39MS",
+    "https://www.primenow.amazon.com/dp/B07FWJ5NYY",
+    "https://www.amazon.com/dp/B07NRLL25V"
+  ],
+  "FOOD_PREPARATION_MOLD": [
+    "https://www.amazon.in/dp/B07GDSDSSD",
+    "https://www.amazon.de/dp/B07CN7B2H1",
+    "https://www.amazon.in/dp/B07GDKJVTN"
+  ],
+  "AIR_CONDITIONER": [
+    "https://www.amazon.com/dp/B07N6Q9JB1",
+    "https://www.amazon.com/dp/B07N6KTC5V",
+    "https://www.amazon.com/dp/B07N6RT9SM"
+  ],
+  "ABIS_BEAUTY": [
+    "https://www.amazon.co.uk/dp/B07SDFXTS8",
+    "https://www.amazon.de/dp/B0876PCJXQ",
+    "https://www.amazon.de/dp/B088RGMFS9"
+  ],
+  "SLEEPING_BAG": [
+    "https://www.amazon.ca/dp/B079LD81KC",
+    "https://www.amazon.com.mx/dp/B07HK65QM8",
+    "https://www.amazon.com/dp/B07CTS3Q7Y"
+  ],
+  "FASTENER_DRIVE_BIT": [
+    "https://www.amazon.co.uk/dp/B01MD2GSUV",
+    "https://www.amazon.de/dp/B07SFMCYHR",
+    "https://www.amazon.de/dp/B07V91S5XC"
+  ],
+  "AIR_MATTRESS": [
+    "https://www.amazon.co.uk/dp/B01JGHHFXM",
+    "https://www.amazon.se/dp/B07R7TQC8Z",
+    "https://www.amazon.fr/dp/B07LFY5G6J"
+  ],
+  "PERCUSSION_INSTRUMENTS": [
+    "https://www.amazon.com/dp/B087MKMPX1",
+    "https://www.amazon.com.au/dp/B087MK9KCV",
+    "https://www.amazon.in/dp/B087MLNCXW"
+  ],
+  "INPUT_PEN": [
+    "https://www.amazon.com/dp/B00JKQKAYG",
+    "https://www.amazon.it/dp/B00BZG6MIM",
+    "https://www.amazon.it/dp/B00BIBQW7K"
+  ],
+  "ABIS_ELECTRONICS": [
+    "https://www.amazon.it/dp/B016KLZ336",
+    "https://www.amazon.ca/dp/B07CBMG3SB",
+    "https://www.primenow.amazon.com/dp/B004GCJEZU"
+  ],
+  "SAFE": [
+    "https://www.amazon.se/dp/B077JSL9FQ",
+    "https://www.amazon.com.au/dp/B07T9MC9LC",
+    "https://www.amazon.co.uk/dp/B074WRKM4V"
+  ],
+  "WATER": [
+    "https://www.amazon.com/dp/B074Y5GYVH",
+    "https://www.amazon.ca/dp/B074Y6X1J6",
+    "https://www.amazon.com/dp/B07SR5LV87"
+  ],
+  "WHEEL_CUTTER": [
+    "https://www.amazon.com/dp/B0894QLYGM",
+    "https://www.amazon.se/dp/B07VWWJ4T6"
+  ],
+  "LIP_COLOR": [
+    "https://www.amazon.fr/dp/B07CTNTL3F",
+    "https://www.amazon.de/dp/B07CTM8WHB",
+    "https://www.primenow.amazon.fr/dp/B07CTN81N5"
+  ],
+  "SCANNER": [
+    "https://www.amazon.nl/dp/B00872DG18"
+  ],
+  "HAIR_IRON": [
+    "https://www.amazon.es/dp/B08315XQ9P",
+    "https://www.amazon.fr/dp/B083165B1B",
+    "https://www.amazon.co.uk/dp/B08315ZXFV"
+  ],
+  "ICE_CHEST": [
+    "https://www.amazon.in/dp/B07YX8FBXV",
+    "https://www.amazon.co.uk/dp/B07YX7TCJP",
+    "https://www.amazon.se/dp/B0843862CB"
+  ],
+  "DRINKING_STRAW": [
+    "https://www.amazon.ca/dp/B08DJ5N92Q",
+    "https://www.amazon.sg/dp/B07HGMR17K",
+    "https://www.amazon.com/dp/B07HGSTNY2"
+  ],
+  "WOUND_DRESSING": [
+    "https://www.amazon.sg/dp/B07JVPF4CX",
+    "https://www.amazon.sg/dp/B07K7QYMZK",
+    "https://www.amazon.com.mx/dp/B07N4PP64T"
+  ],
+  "FOOD_STORAGE_BAG": [
+    "https://www.amazon.com/dp/B074MFDRP9",
+    "https://www.amazon.com/dp/B074XXSSCV",
+    "https://www.amazon.ae/dp/B07BJ4BY9H"
+  ],
+  "CAN_OPENER": [
+    "https://www.amazon.fr/dp/B07T4KW8G9",
+    "https://www.amazon.se/dp/B07T1D64N4",
+    "https://www.amazon.fr/dp/B086D41RTP"
+  ],
+  "HAIR_COLORING_AGENT": [
+    "https://www.amazon.in/dp/B07RTXJT4G",
+    "https://www.amazon.in/dp/B07RVYG4HW",
+    "https://www.amazon.in/dp/B07RQL3K4F"
+  ],
+  "PUMP_DISPENSER": [
+    "https://www.amazon.es/dp/B07TLJJD6B",
+    "https://www.amazon.com/dp/B073Q4WMKH",
+    "https://www.amazon.ca/dp/B07TMFBL9W"
+  ],
+  "WATER_FLOTATION_DEVICE": [
+    "https://www.amazon.fr/dp/B07DC5NBJC",
+    "https://www.amazon.com.mx/dp/B07CYJW1SS",
+    "https://www.amazon.com.mx/dp/B07CYJW1SR"
+  ],
+  "SUGAR_CANDY": [
+    "https://www.amazon.com/dp/B074MFYHBS",
+    "https://www.primenow.amazon.com/dp/B07FW8NSSV",
+    "https://www.amazon.com.mx/dp/B07GX19VJL"
+  ],
+  "MARKING_PEN": [
+    "https://www.amazon.ca/dp/B088GG6B91",
+    "https://www.amazon.com.mx/dp/B087TY5ZWJ",
+    "https://www.amazon.fr/dp/B00T3ROM9G"
+  ],
+  "MEASURING_CUP": [
+    "https://www.amazon.co.uk/dp/B08BP61ZY9",
+    "https://www.amazon.com/dp/B08BP9Y1HF",
+    "https://www.amazon.com.mx/dp/B08BP8W6HS"
+  ],
+  "PACKAGED_SOUP_AND_STEW": [
+    "https://www.amazon.it/dp/B07T8G3D49",
+    "https://www.amazon.com/dp/B07KQWY8KB",
+    "https://www.amazon.com/dp/B078K3GNJB"
+  ],
+  "ROWING_MACHINE": [
+    "https://www.amazon.com.tr/dp/B07HFDXYX6",
+    "https://www.amazon.com.mx/dp/B07J2LR5C1",
+    "https://www.amazon.de/dp/B07HFDKMDP"
+  ],
+  "SUGAR": [
+    "https://www.amazon.in/dp/B07DDGHY45",
+    "https://www.amazon.com/dp/B07WJGLBBL",
+    "https://www.amazon.in/dp/B07J9N1BP7"
+  ],
+  "LIGHT_SOURCE": [
+    "https://www.amazon.es/dp/B076FBWWG3",
+    "https://www.amazon.co.uk/dp/B076FB29S6",
+    "https://www.amazon.co.uk/dp/B07TB78XRL"
+  ],
+  "COMPUTER_DRIVE_OR_STORAGE": [
+    "https://www.amazon.de/dp/B01NBH6PKW",
+    "https://www.amazon.de/dp/B01BKQZ94E",
+    "https://www.amazon.de/dp/B01N1OX2YA"
+  ],
+  "RICE_MIX": [
+    "https://www.amazon.com/dp/B074H7LF99",
+    "https://www.primenow.amazon.com/dp/B074VD6QT7",
+    "https://www.amazon.com/dp/B074MFG6JM"
+  ],
+  "VALVE": [
+    "https://www.amazon.com.mx/dp/B07VQJ2CZY",
+    "https://www.amazon.es/dp/B07VQJB5NV",
+    "https://www.amazon.com.mx/dp/B07VQHQ4PF"
+  ],
+  "BADGE_HOLDER": [
+    "https://www.amazon.de/dp/B07MLQCLYQ",
+    "https://www.amazon.co.uk/dp/B01DN8THN6",
+    "https://www.amazon.com.au/dp/B01DN8TK3I"
+  ],
+  "RICE_COOKERS": [
+    "https://www.amazon.com/dp/B07T82P735",
+    "https://www.amazon.ca/dp/B0849H91KJ",
+    "https://www.amazon.in/dp/B087LV8VLQ"
+  ],
+  "ICE_CUBE_TRAY": [
+    "https://www.amazon.in/dp/B07GL5STNY",
+    "https://www.amazon.in/dp/B07GF12S2P"
+  ],
+  "PRETZEL": [
+    "https://www.amazon.com/dp/B07NSV47DL",
+    "https://www.amazon.ca/dp/B07X2M4FW3",
+    "https://www.amazon.com/dp/B07RF235T3"
+  ],
+  "PHONE": [
+    "https://www.amazon.co.uk/dp/B07PGJR7MG",
+    "https://www.amazon.de/dp/B07PHNQQR4",
+    "https://www.amazon.de/dp/B07PGJTY6P"
+  ],
+  "CANDY": [
+    "https://www.amazon.com/dp/B075MBSCX4",
+    "https://www.amazon.com/dp/B07NR26B9R",
+    "https://www.amazon.com/dp/B07FWCR8QX"
+  ],
+  "REMOTE_CONTROL": [
+    "https://www.amazon.com/dp/B089ZD9QQR",
+    "https://www.primenow.amazon.es/dp/B003L1ZYZ6",
+    "https://www.amazon.com/dp/B07HX81816"
+  ],
+  "HUMIDIFIER": [
+    "https://www.amazon.de/dp/B07VJHDTL4",
+    "https://www.amazon.sg/dp/B07VGHD4SS",
+    "https://www.amazon.com.mx/dp/B07VKWZ63Z"
+  ],
+  "SCISSORS": [
+    "https://www.amazon.de/dp/B07VXHGF2D",
+    "https://www.amazon.es/dp/B07VXHGG97",
+    "https://www.amazon.fr/dp/B07W2QRKV8"
+  ],
+  "MILK_SUBSTITUTE": [
+    "https://www.primenow.amazon.com/dp/B07FWJ8CRM",
+    "https://www.amazon.com/dp/B084DGHBKH",
+    "https://www.amazon.com/dp/B074H6M4M4"
+  ],
+  "ART_AND_CRAFT_SUPPLY": [
+    "https://www.amazon.com.au/dp/B085CXVW4B",
+    "https://www.amazon.fr/dp/B088GG6DSF",
+    "https://www.amazon.it/dp/B085CY76VL"
+  ],
+  "HAIR_REMOVAL_AGENT": [
+    "https://www.amazon.es/dp/B07ZPGX333",
+    "https://www.amazon.nl/dp/B07ZPGZ9FP",
+    "https://www.amazon.nl/dp/B07ZPGG9J4"
+  ],
+  "COMPUTER_SPEAKER": [
+    "https://www.amazon.it/dp/B07KCVYXVZ",
+    "https://www.primenow.amazon.com/dp/B00TTC9164"
+  ],
+  "LANDLINE_PHONE": [
+    "https://www.amazon.de/dp/B07PHNNWPX",
+    "https://www.amazon.it/dp/B07PDGZ8X7",
+    "https://www.amazon.es/dp/B07PGJTRSJ"
+  ],
+  "SHOWERHEAD": [
+    "https://www.amazon.com.au/dp/B07F2NC2G4",
+    "https://www.amazon.co.uk/dp/B07H36422Q",
+    "https://www.amazon.ae/dp/B07F2C7JK4"
+  ],
+  "PERSONAL_CARE_APPLIANCE": [
+    "https://www.amazon.co.uk/dp/B086YHZBL4",
+    "https://www.primenow.amazon.fr/dp/B07D8SXWGN",
+    "https://www.amazon.in/dp/B07ZTVHHL1"
+  ],
+  "LIP_BALM": [
+    "https://www.amazon.com/dp/B07TLG513B",
+    "https://www.amazon.com/dp/B074HBYMPR",
+    "https://www.primenow.amazon.com/dp/B074J7V3YX"
+  ],
+  "SWEATBAND": [
+    "https://www.amazon.ca/dp/B08DK6N6XR",
+    "https://www.amazon.ca/dp/B08FMLK59D",
+    "https://www.amazon.ca/dp/B089W7LB8K"
+  ],
+  "HAIR_STYLING_AGENT": [
+    "https://www.amazon.com/dp/B081SH4772",
+    "https://www.amazon.com.mx/dp/B078XK3CR2",
+    "https://www.amazon.com/dp/B081SG8FBW"
+  ],
+  "PRESSURE_COOKER": [
+    "https://www.primenow.amazon.de/dp/B071WPLND2",
+    "https://www.amazon.in/dp/B07P824Z6B",
+    "https://www.amazon.se/dp/B079LNTDQV"
+  ],
+  "PUZZLES": [
+    "https://www.amazon.ca/dp/B07TF91Y4N",
+    "https://www.amazon.com/dp/B07TD5BPYV",
+    "https://www.amazon.com/dp/B07TD5BN58"
+  ],
+  "TOASTER": [
+    "https://www.amazon.com/dp/B07ST1Y3TN",
+    "https://www.amazon.com.mx/dp/B07SW6TGQR",
+    "https://www.amazon.ca/dp/B088Z2TS5K"
+  ],
+  "MICROWAVE_OVEN": [
+    "https://www.amazon.nl/dp/B07F1WPFZ8",
+    "https://www.amazon.in/dp/B07RTCNM3N",
+    "https://www.amazon.es/dp/B07F1WPZ3W"
+  ],
+  "POT_HOLDER": [
+    "https://www.amazon.in/dp/B06X3R55N3",
+    "https://www.amazon.com/dp/B01L7XWEQQ",
+    "https://www.amazon.in/dp/B06X3R35DM"
+  ],
+  "FOOD_PROCESSOR": [
+    "https://www.amazon.es/dp/B085MHZYD6",
+    "https://www.amazon.ca/dp/B086DVRNB4",
+    "https://www.amazon.in/dp/B071X441F1"
+  ],
+  "VINEGAR": [
+    "https://www.amazon.de/dp/B076KQQ647",
+    "https://www.primenow.amazon.com/dp/B07NS85MM2",
+    "https://www.primenow.amazon.com/dp/B074H5TNJW"
+  ],
+  "SUSPENDER": [
+    "https://www.amazon.com/dp/B07ZKL8V2B"
+  ],
+  "MONITOR": [
+    "https://www.amazon.sg/dp/B076B2BC19"
+  ],
+  "BODY_DEODORANT": [
+    "https://www.amazon.it/dp/B07ZPGLQMR",
+    "https://www.amazon.in/dp/B07R9NBLRL",
+    "https://www.amazon.it/dp/B07ZPG6TK2"
+  ],
+  "SEALS": [
+    "https://www.amazon.se/dp/B089WS8LTV",
+    "https://www.amazon.in/dp/B088BZTYFP",
+    "https://www.amazon.com.mx/dp/B089WW4M1J"
+  ],
+  "MASSAGER": [
+    "https://www.amazon.com.mx/dp/B07FTMFG1H",
+    "https://www.amazon.in/dp/B07MQWLWXR",
+    "https://www.amazon.in/dp/B07MMMQJZF"
+  ],
+  "TOILET_SEAT": [
+    "https://www.amazon.com.mx/dp/B07VPDCY1M",
+    "https://www.amazon.ca/dp/B07VN9PW5Z",
+    "https://www.amazon.co.uk/dp/B07VN9N9C4"
+  ],
+  "VEHICLE_INTERIOR_SHADE": [
+    "https://www.amazon.ae/dp/B07TNLMMD4",
+    "https://www.amazon.ca/dp/B07RR9G2WR",
+    "https://www.amazon.nl/dp/B07TNLM93N"
+  ],
+  "DAIRY_BASED_ICE_CREAM": [
+    "https://www.primenow.amazon.com/dp/B07FWN7W4K",
+    "https://www.amazon.com/dp/B074H77YZC",
+    "https://www.primenow.amazon.com/dp/B07FWCW17B"
+  ],
+  "STATIONARY_BICYCLE": [
+    "https://www.amazon.es/dp/B07K4XGSJY",
+    "https://www.amazon.com.mx/dp/B07SHJZH7X",
+    "https://www.amazon.com.mx/dp/B07J2DGZPJ"
+  ],
+  "WHEEL": [
+    "https://www.amazon.ca/dp/B07RDGN1YW",
+    "https://www.amazon.it/dp/B07NY7YHMB",
+    "https://www.amazon.es/dp/B07RKSNPZM"
+  ],
+  "MULTITOOL": [
+    "https://www.amazon.ca/dp/B07TQ8GNWT",
+    "https://www.amazon.sg/dp/B07TP4WPGD",
+    "https://www.amazon.com/dp/B087NBB31P"
+  ],
+  "AV_FURNITURE": [
+    "https://www.amazon.in/dp/B003LN2KL0",
+    "https://www.amazon.com/dp/B07PSNJG6D",
+    "https://www.amazon.se/dp/B07S646XYL"
+  ],
+  "TOOTHBRUSH": [
+    "https://www.primenow.amazon.fr/dp/B07D8Z4RG7",
+    "https://www.amazon.com/dp/B07CMHRZRT",
+    "https://www.amazon.sg/dp/B07QF798HC"
+  ],
+  "RUG_PAD": [
+    "https://www.amazon.co.uk/dp/B07V7G8L8Y",
+    "https://www.amazon.co.uk/dp/B07VC4JCLP",
+    "https://www.amazon.fr/dp/B07V9ZCTY3"
+  ],
+  "SYSTEM_POWER_DEVICE": [
+    "https://www.amazon.de/dp/B07QPSNDLW",
+    "https://www.amazon.es/dp/B07QT2VKB5",
+    "https://www.amazon.se/dp/B07QT2ZP3R"
+  ],
+  "PACIFIER": [
+    "https://www.amazon.com/dp/B07FPBB5P2",
+    "https://www.amazon.sg/dp/B07FP2YMS2",
+    "https://www.amazon.in/dp/B07FP2RZ9F"
+  ],
+  "CAR_ELECTRONICS": [
+    "https://www.primenow.amazon.co.jp/dp/B003MAJMXQ",
+    "https://www.amazon.com/dp/B07KGKW4Q8",
+    "https://www.amazon.de/dp/B07TPLLSJG"
+  ],
+  "FASHIONOTHER": [
+    "https://www.amazon.de/dp/B08DV5NDKS",
+    "https://www.amazon.de/dp/B08D9D28NM",
+    "https://www.amazon.de/dp/B08D9HNQHS"
+  ],
+  "DAIRY_BASED_CREAM": [
+    "https://www.primenow.amazon.com/dp/B07FW6Y4Y4",
+    "https://www.primenow.amazon.com/dp/B07DGVCKY6",
+    "https://www.amazon.com/dp/B074VDX7FV"
+  ],
+  "PET_PEST_CONTROL": [
+    "https://www.amazon.com/dp/B07P488YBD",
+    "https://www.amazon.ae/dp/B07NXTTM4W",
+    "https://www.amazon.com.au/dp/B07NXTSRCX"
+  ],
+  "CAR_AUDIO_OR_THEATER": [
+    "https://www.amazon.co.uk/dp/B07QC8SXZ2"
+  ],
+  "MASSAGE_STICK": [
+    "https://www.amazon.es/dp/B07NQY2TX1",
+    "https://www.amazon.se/dp/B07NR47HBJ",
+    "https://www.amazon.com/dp/B07NQZJML9"
+  ],
+  "WASHER_DRYER_COMBINATION": [
+    "https://www.amazon.in/dp/B07V83782M",
+    "https://www.amazon.in/dp/B07QHKPGMK",
+    "https://www.amazon.in/dp/B07V6Z1HH2"
+  ],
+  "VEHICLE_LIGHT_BULB": [
+    "https://www.amazon.nl/dp/B01MR5VULS",
+    "https://www.amazon.it/dp/B01MS7BWOI",
+    "https://www.amazon.co.uk/dp/B01N22APBZ"
+  ],
+  "UTILITY_KNIFE": [
+    "https://www.amazon.es/dp/B07TFXSZS8",
+    "https://www.amazon.in/dp/B07MVN9VYX",
+    "https://www.amazon.ae/dp/B07TDTLFPT"
+  ],
+  "ARTIFICIAL_PLANT": [
+    "https://www.amazon.com/dp/B07B8PXSGV"
+  ],
+  "CAMERA_FLASH": [
+    "https://www.primenow.amazon.co.jp/dp/B00E7XNOQS",
+    "https://www.amazon.fr/dp/B01N6NVDLS",
+    "https://www.amazon.es/dp/B01N310UBT"
+  ],
+  "EDUCATIONAL_SUPPLIES": [
+    "https://www.amazon.es/dp/B07TBPTB6Y",
+    "https://www.amazon.es/dp/B07HGKNCR5",
+    "https://www.amazon.ca/dp/B07HGJKP7F"
+  ],
+  "BABY_BOTTLE": [
+    "https://www.amazon.ca/dp/B07SPX7GFY",
+    "https://www.amazon.com.mx/dp/B07SNFM5R3",
+    "https://www.amazon.com.mx/dp/B07SQYLTJG"
+  ],
+  "FOOD_MIXER": [
+    "https://www.amazon.es/dp/B082GH9JL1",
+    "https://www.amazon.in/dp/B072KDGQJD",
+    "https://www.amazon.in/dp/B086TB2VCN"
+  ],
+  "RECEIVER_OR_AMPLIFIER": [
+    "https://www.amazon.com.au/dp/B07PTKB9RV",
+    "https://www.amazon.com.mx/dp/B07QLNS1JD",
+    "https://www.amazon.co.uk/dp/B07TVPVC7N"
+  ],
+  "VEHICLE_LIGHT_ASSEMBLY": [
+    "https://www.amazon.fr/dp/B01N9RH8E8",
+    "https://www.amazon.com.mx/dp/B07GSDX955",
+    "https://www.amazon.se/dp/B01NAST75P"
+  ],
+  "PASTRY": [
+    "https://www.amazon.com/dp/B084JC56WT",
+    "https://www.amazon.com/dp/B084JRF8CD",
+    "https://www.amazon.com/dp/B084RLF71Z"
+  ],
+  "PET_APPAREL": [
+    "https://www.amazon.de/dp/B07GWGFZV4",
+    "https://www.amazon.se/dp/B07GWH3PKL",
+    "https://www.amazon.co.uk/dp/B07GWSF422"
+  ],
+  "ABIS_PET_PRODUCTS": [
+    "https://www.amazon.com.mx/dp/B07MSBJKLV",
+    "https://www.amazon.com.mx/dp/B07M6ZPP3S",
+    "https://www.amazon.com.mx/dp/B07MHXXB54"
+  ],
+  "BINOCULAR": [
+    "https://www.amazon.es/dp/B081L9HQRN",
+    "https://www.amazon.it/dp/B081L9RY5Z",
+    "https://www.amazon.co.uk/dp/B081L4R69S"
+  ],
+  "ABIS_BOOK": [
+    "https://www.amazon.com/dp/B014I8SIJY",
+    "https://www.amazon.com/dp/B0773JY6T2",
+    "https://www.amazon.com/dp/B017YEAR0C"
+  ],
+  "POULTRY": [
+    "https://www.amazon.com/dp/B0892B8TH1",
+    "https://www.primenow.amazon.com/dp/B07ZWVW9BP",
+    "https://www.primenow.amazon.com/dp/B07NRCC5QL"
+  ],
+  "ANIMAL_LITTER": [
+    "https://www.primenow.amazon.co.jp/dp/B07K7QYZ9W",
+    "https://www.amazon.ca/dp/B075GFXFY1",
+    "https://www.amazon.de/dp/B07VTKP2Y6"
+  ],
+  "NETWORKING_DEVICE": [
+    "https://www.amazon.com/dp/B017DAWKU2",
+    "https://www.amazon.fr/dp/B00JJRR1GQ",
+    "https://www.amazon.com.mx/dp/B00GGYU46O"
+  ],
+  "ELECTRONIC_DEVICE_DOCKING_STATION": [
+    "https://www.primenow.amazon.co.uk/dp/B073HG8M86",
+    "https://www.amazon.fr/dp/B073HF9BB4",
+    "https://www.amazon.co.jp/dp/B073787QMY"
+  ],
+  "POPCORN": [
+    "https://www.amazon.sg/dp/B07C7J9Y4N",
+    "https://www.amazon.co.uk/dp/B081QR6VW4",
+    "https://www.amazon.com/dp/B074V3VTD9"
+  ],
+  "BAG": [
+    "https://www.amazon.ca/dp/B00W4ZH2S2",
+    "https://www.amazon.ca/dp/B07YDQRZKF",
+    "https://www.amazon.ca/dp/B089K3RZXQ"
+  ],
+  "TOOTH_CLEANING_AGENT": [
+    "https://www.amazon.com/dp/B07NR2L4X2",
+    "https://www.amazon.com/dp/B07NR6QPC4",
+    "https://www.amazon.de/dp/B07ZD9CQZ9"
+  ],
+  "EARPLUG": [
+    "https://www.amazon.ca/dp/B07GZG1VBF",
+    "https://www.amazon.com.mx/dp/B07KFQS3C8",
+    "https://www.amazon.co.uk/dp/B07KG568MC"
+  ],
+  "VIDEO_DEVICE": [
+    "https://www.amazon.it/dp/B00EQ5J8GM"
+  ],
+  "LAUNDRY_APPLIANCE": [
+    "https://www.amazon.in/dp/B08CN3Z6JF",
+    "https://www.amazon.in/dp/B07QD6G7GD",
+    "https://www.amazon.in/dp/B08CH99RNP"
+  ],
+  "CHILDRENS_COSTUME": [
+    "https://www.amazon.com/dp/B088BWJLJ1",
+    "https://www.amazon.com.mx/dp/B088BX2HJY",
+    "https://www.amazon.ca/dp/B088CJKJZC"
+  ],
+  "VEST": [
+    "https://www.amazon.com.mx/dp/B07HG9HPH8",
+    "https://www.amazon.com.mx/dp/B07HGCDD5X",
+    "https://www.amazon.com.mx/dp/B07HG9JCHL"
+  ],
+  "MEDIA_STORAGE": [
+    "https://www.amazon.co.uk/dp/B07VTLB396",
+    "https://www.amazon.com.mx/dp/B076PYLZQX",
+    "https://www.amazon.com/dp/B00DIHVL2I"
+  ],
+  "THERMOS": [
+    "https://www.amazon.de/dp/B07H7RPJ7P",
+    "https://www.amazon.se/dp/B07T5DD1XX",
+    "https://www.amazon.se/dp/B07TB37Q7K"
+  ],
+  "INKJET_PRINTER_INK": [
+    "https://www.amazon.com.au/dp/B0757ZKR2K",
+    "https://www.amazon.com.tr/dp/B0757YLKC3",
+    "https://www.amazon.es/dp/B07583XGHJ"
+  ],
+  "FISHING_EQUIPMENT": [
+    "https://www.amazon.fr/dp/B076DC57H2",
+    "https://www.amazon.com.mx/dp/B07CY4X781",
+    "https://www.amazon.com/dp/B00HZJ8IVM"
+  ],
+  "SKATEBOARD": [
+    "https://www.amazon.com.mx/dp/B07GJ7SV7N",
+    "https://www.amazon.com.mx/dp/B07GJ433LK",
+    "https://www.amazon.com.mx/dp/B07GJQL1PF"
+  ],
+  "MASCARA": [
+    "https://www.amazon.nl/dp/B07CTN8SCJ",
+    "https://www.amazon.co.uk/dp/B07CTN95GB",
+    "https://www.primenow.amazon.es/dp/B07CTQPXJ1"
+  ],
+  "DISHWASHER": [
+    "https://www.amazon.in/dp/B07S1V4L7S",
+    "https://www.amazon.in/dp/B07S41FH4T"
+  ],
+  "PORTABLE_AV_DEVICE": [
+    "https://www.amazon.fr/dp/B0872L8VJX",
+    "https://www.amazon.es/dp/B07V8RDJP2",
+    "https://www.amazon.es/dp/B0872KQR8Z"
+  ],
+  "LITTER_BOX": [
+    "https://www.amazon.in/dp/B07DZVX96B",
+    "https://www.amazon.com.au/dp/B07DZMY8CZ",
+    "https://www.amazon.co.jp/dp/B075357QFB"
+  ],
+  "NETWORK_INTERFACE_CONTROLLER_ADAPTER": [
+    "https://www.primenow.amazon.co.uk/dp/B00M77HMU0",
+    "https://www.amazon.com.mx/dp/B00M77HLII",
+    "https://www.primenow.amazon.co.uk/dp/B071Y6Y83W"
+  ],
+  "COOKIE_CUTTER": [
+    "https://www.amazon.in/dp/B07P82MGLY",
+    "https://www.amazon.it/dp/B07GJVWHD4"
+  ],
+  "TELESCOPE": [
+    "https://www.amazon.es/dp/B0817W92KN",
+    "https://www.amazon.de/dp/B0817SXMR5"
+  ],
+  "SKIN_EXFOLIANT": [
+    "https://www.amazon.in/dp/B07G5QWNBP",
+    "https://www.amazon.com/dp/B083V9N44C",
+    "https://www.amazon.se/dp/B07V37ZGXT"
+  ],
+  "BOTTLE_OPENER": [
+    "https://www.amazon.ca/dp/B001BXBILA",
+    "https://www.amazon.in/dp/B07P82MMQF",
+    "https://www.amazon.ca/dp/B001CDWTE4"
+  ],
+  "PRINTER": [
+    "https://www.amazon.de/dp/B018PEJE7M",
+    "https://www.amazon.de/dp/B018PEDHPC",
+    "https://www.amazon.de/dp/B017BDCHK4"
+  ],
+  "NECKTIE": [
+    "https://www.amazon.com.mx/dp/B016PYXFII",
+    "https://www.amazon.ca/dp/B016PYXJ2A"
+  ],
+  "ELECTRONIC_CABLE": [
+    "https://www.amazon.co.uk/dp/B01GGKYT7M",
+    "https://www.amazon.co.uk/dp/B01GGKYUKI",
+    "https://www.amazon.co.uk/dp/B01GGKZ0V6"
+  ],
+  "AIR_PURIFIER": [
+    "https://www.amazon.co.uk/dp/B07DD45PSL"
+  ],
+  "FACE_SHAPING_MAKEUP": [
+    "https://www.amazon.de/dp/B07CTPNNZ6",
+    "https://www.amazon.se/dp/B07CTPNNYY",
+    "https://www.amazon.fr/dp/B07CTQB2FW"
+  ],
+  "THERMOMETER": [
+    "https://www.amazon.es/dp/B07G1CQ11Y",
+    "https://www.amazon.com.mx/dp/B07W3BHNDC",
+    "https://www.amazon.de/dp/B07G1TBYMV"
+  ],
+  "SELF_STICK_NOTE": [
+    "https://www.amazon.com.au/dp/B079XGGD2P",
+    "https://www.amazon.fr/dp/B079X89896",
+    "https://www.amazon.es/dp/B079X75FFV"
+  ],
+  "TREADMILL": [
+    "https://www.amazon.fr/dp/B07RQYNVFR"
+  ],
+  "MANUAL_SHAVING_RAZOR": [
+    "https://www.amazon.co.jp/dp/B07D4MPJNN",
+    "https://www.amazon.co.jp/dp/B07HLXRWBZ",
+    "https://www.amazon.co.jp/dp/B07D4M3CBT"
+  ],
+  "WALKING_STICK": [
+    "https://www.amazon.it/dp/B07HNWBT63",
+    "https://www.amazon.se/dp/B07HNWFLKT"
+  ],
+  "KNIFE_BLOCK_SET": [
+    "https://www.primenow.amazon.com/dp/B00R3Z49G6",
+    "https://www.amazon.ca/dp/B00R3Z3ZF2"
+  ],
+  "TRANSPORT_RACK": [
+    "https://www.amazon.in/dp/B074PBSSFV",
+    "https://www.amazon.in/dp/B083T4NV3D",
+    "https://www.amazon.ca/dp/B07SMGZFFN"
+  ],
+  "AIR_FRYER": [
+    "https://www.amazon.com.mx/dp/B07VZ65M7H",
+    "https://www.amazon.com.mx/dp/B07W197T5J"
+  ],
+  "COUNTERTOP_OVEN": [
+    "https://www.amazon.com/dp/B0846BX9NG",
+    "https://www.amazon.in/dp/B07JDBJHF3",
+    "https://www.amazon.in/dp/B07JCVZD9X"
+  ],
+  "ASTRINGENT_SUBSTANCE": [
+    "https://www.amazon.com.mx/dp/B07P3KDD6Q",
+    "https://www.amazon.co.uk/dp/B07SHYXHLY",
+    "https://www.amazon.com/dp/B07TNML888"
+  ],
+  "SECURITY_CAMERA": [
+    "https://www.amazon.com.mx/dp/B07F3ZXT3V",
+    "https://www.amazon.fr/dp/B06Y4JV7H3"
+  ],
+  "MEMORY_READER": [
+    "https://www.amazon.in/dp/B003JBHQP4"
+  ],
+  "DRINK_COASTER": [
+    "https://www.amazon.com/dp/B075HXJY3Y",
+    "https://www.amazon.com/dp/B075HWDSV2",
+    "https://www.amazon.com.mx/dp/B078JFDT9T"
+  ],
+  "SPORT_TABLE_GAME": [
+    "https://www.amazon.com.mx/dp/B07H87WZXX",
+    "https://www.amazon.com.mx/dp/B07H8DS84Y",
+    "https://www.amazon.com.mx/dp/B07H881KFQ"
+  ],
+  "DVD_PLAYER_OR_RECORDER": [
+    "https://www.amazon.com.mx/dp/B089ZFGQ2Y"
+  ],
+  "FLASH_DRIVE": [
+    "https://www.amazon.in/dp/B07M5JSQWZ",
+    "https://www.amazon.in/dp/B07MN19HJ7",
+    "https://www.amazon.nl/dp/B076JBWWHD"
+  ],
+  "POWER_CONVERTER": [
+    "https://www.amazon.com.au/dp/B07RN8DJ7C",
+    "https://www.amazon.fr/dp/B07RSFRMH2",
+    "https://www.amazon.es/dp/B07RTLS234"
+  ],
+  "SMALL_HOME_APPLIANCES": [
+    "https://www.amazon.it/dp/B013R5UO0A",
+    "https://www.amazon.com.mx/dp/B07H9H6LHH"
+  ],
+  "HARDWARE_HINGE": [
+    "https://www.amazon.co.jp/dp/B01N4Q9810",
+    "https://www.amazon.es/dp/B01MTB9X1Z",
+    "https://www.amazon.com/dp/B01MS9NU4J"
+  ],
+  "DIGITAL_DEVICE_3": [
+    "https://www.amazon.com/dp/B07894S727"
+  ],
+  "AIR_COMPRESSOR": [
+    "https://www.amazon.com.au/dp/B074DD8NVY",
+    "https://www.amazon.es/dp/B074DDJFTH"
+  ],
+  "COUNTERTOP_GRIDDLE_APPLIANCE": [
+    "https://www.amazon.in/dp/B071GKXRGN",
+    "https://www.amazon.se/dp/B013R5TR44",
+    "https://www.amazon.in/dp/B071K5ZC5H"
+  ],
+  "MOUSE_PAD": [
+    "https://www.amazon.co.uk/dp/B003QTD4Y6",
+    "https://www.amazon.it/dp/B074FJDG4D",
+    "https://www.amazon.com/dp/B06X6H2WF7"
+  ],
+  "SUGAR_SUBSTITUTE": [
+    "https://www.amazon.com/dp/B074H76C48",
+    "https://www.amazon.com/dp/B07883HXX7",
+    "https://www.amazon.com/dp/B074H6F6QL"
+  ],
+  "AMAZON_TABLET_ACCESSORY": [
+    "https://www.amazon.co.uk/dp/B0151JF8ZQ",
+    "https://www.amazon.it/dp/B00N49EN5C",
+    "https://www.amazon.in/dp/B009CNHZKO"
+  ],
+  "SHELLFISH": [
+    "https://www.amazon.com/dp/B084LNX9RD",
+    "https://www.amazon.com/dp/B07X4BF5M2",
+    "https://www.primenow.amazon.com/dp/B07N1Q138M"
+  ],
+  "ESSENTIAL_OIL": [
+    "https://www.amazon.com.mx/dp/B07D2DW188",
+    "https://www.amazon.com/dp/B07PPV8PNH",
+    "https://www.amazon.com.mx/dp/B07D2HBWV1"
+  ],
+  "VEHICLE_SAFETY_CAMERA": [
+    "https://www.amazon.com.mx/dp/B07GSKM1SG"
+  ],
+  "BOOKEND": [
+    "https://www.amazon.ca/dp/B07WN2Q1JX",
+    "https://www.amazon.fr/dp/B078JPW9DX",
+    "https://www.amazon.com/dp/B07K91GV6S"
+  ],
+  "LEAVENING_AGENT": [
+    "https://www.amazon.com/dp/B074H54M4B",
+    "https://www.amazon.com/dp/B075MDL42T",
+    "https://www.amazon.com/dp/B074MGT98T"
+  ],
+  "CADDY": [
+    "https://www.amazon.sg/dp/B07JG37BJW",
+    "https://www.amazon.in/dp/B07JP4M9ZD",
+    "https://www.amazon.in/dp/B07JFQ33MQ"
+  ],
+  "TRACK_SUIT": [
+    "https://www.amazon.ca/dp/B08DXZ4FCC",
+    "https://www.amazon.ca/dp/B08DXDXB59"
+  ],
+  "CAMERA_SUPPORT": [
+    "https://www.amazon.in/dp/B06XJ9MWZ8",
+    "https://www.amazon.com.au/dp/B00PMMB4X8",
+    "https://www.amazon.fr/dp/B06XJ7RYDP"
+  ],
+  "BODY_LUBRICANT": [
+    "https://www.amazon.com/dp/B07HD682Z2",
+    "https://www.amazon.com/dp/B07PPV8DTJ",
+    "https://www.amazon.com/dp/B07NRK948N"
+  ],
+  "BLOOD_PRESSURE_MONITOR": [
+    "https://www.amazon.com.mx/dp/B07G3LTRBP"
+  ],
+  "VEHICLE_MIRROR": [
+    "https://www.amazon.com.mx/dp/B07CTM51XC",
+    "https://www.amazon.com.mx/dp/B07CSW9YKY",
+    "https://www.amazon.com.mx/dp/B07MDRNF3M"
+  ],
+  "TENT": [
+    "https://www.amazon.sa/dp/B077Y8DLSN",
+    "https://www.amazon.fr/dp/B01881TG20",
+    "https://www.amazon.com/dp/B01N55WZ8T"
+  ],
+  "FITNESS_BENCH": [
+    "https://www.amazon.com.mx/dp/B07SHJZH28",
+    "https://www.amazon.com.mx/dp/B07SJJJMZ9",
+    "https://www.amazon.nl/dp/B07G59T5TD"
+  ],
+  "AIR_PUMP": [
+    "https://www.amazon.es/dp/B07KZRTS92",
+    "https://www.amazon.com.au/dp/B019ZJRXWY"
+  ],
+  "BREAD_MAKING_MACHINE": [
+    "https://www.amazon.com.mx/dp/B07VCFD13V",
+    "https://www.amazon.de/dp/B07TLL83ZZ",
+    "https://www.amazon.com.mx/dp/B07VB8Y1MD"
+  ],
+  "INFANT_TODDLER_CAR_SEAT": [
+    "https://www.amazon.com.mx/dp/B07CTLZKKK",
+    "https://www.amazon.com.mx/dp/B06X9HC6F9"
+  ],
+  "GPS_OR_NAVIGATION_ACCESSORY": [
+    "https://www.amazon.de/dp/B00EUICCS6",
+    "https://www.amazon.com.au/dp/B00N31XYME",
+    "https://www.amazon.com/dp/B00XJBH0Z0"
+  ],
+  "KITCHEN_TOOLS": [
+    "https://www.amazon.com/dp/B01KQ8SN22",
+    "https://www.amazon.in/dp/B087F2NC2R",
+    "https://www.amazon.in/dp/B083Y5MKYV"
+  ],
+  "PROTEIN_DRINK": [
+    "https://www.amazon.com.mx/dp/B07G2DNB39",
+    "https://www.amazon.com/dp/B07G2DNB3Q"
+  ],
+  "BROOM": [
+    "https://www.amazon.ca/dp/B072KLFCRZ",
+    "https://www.amazon.es/dp/B07V482QK3",
+    "https://www.amazon.in/dp/B07V7J3W77"
+  ],
+  "GOLF_CLUB_BAG": [
+    "https://www.amazon.fr/dp/B07N2XF473",
+    "https://www.amazon.fr/dp/B07N2X3YSR",
+    "https://www.amazon.com/dp/B07KPFS5LJ"
+  ],
+  "VEHICLE_SCAN_TOOL": [
+    "https://www.amazon.com.mx/dp/B07F8HYSFQ"
+  ],
+  "ROASTING_PAN": [
+    "https://www.amazon.es/dp/B07HK9ZLLN",
+    "https://www.amazon.it/dp/B07BLD3HZF",
+    "https://www.amazon.fr/dp/B07HK5QTDP"
+  ],
+  "BOXING_GLOVE": [
+    "https://www.amazon.ae/dp/B07T5V9PJ6",
+    "https://www.amazon.nl/dp/B07SZFSY1B",
+    "https://www.amazon.in/dp/B07NQ5MLGJ"
+  ],
+  "AUTO_CHEMICAL": [
+    "https://www.amazon.co.uk/dp/B084GWQ3C4",
+    "https://www.amazon.fr/dp/B084P5BGZ7",
+    "https://www.amazon.es/dp/B084GW831W"
+  ],
+  "SLOW_COOKER": [
+    "https://www.amazon.co.uk/dp/B07RFQMK6G",
+    "https://www.amazon.es/dp/B07RFQNTJ8"
+  ],
+  "HAIR_BRUSH": [
+    "https://www.amazon.se/dp/B07JD73XLY",
+    "https://www.amazon.in/dp/B07GJR9WRW",
+    "https://www.amazon.com.mx/dp/B07P7WY7G1"
+  ],
+  "ARTIFICIAL_TREE": [
+    "https://www.amazon.es/dp/B07ZS7ZRV6",
+    "https://www.amazon.es/dp/B07YTS73GC",
+    "https://www.amazon.co.uk/dp/B07YTTLS22"
+  ],
+  "PET_TOY": [
+    "https://www.amazon.co.uk/dp/B082HFRCQB",
+    "https://www.amazon.de/dp/B082HFFDK4",
+    "https://www.amazon.de/dp/B082HDYYJ3"
+  ],
+  "GOLF_CLUB": [
+    "https://www.amazon.com.mx/dp/B07H4TBKBD"
+  ],
+  "FLAVORED_DRINK_CONCENTRATE": [
+    "https://www.amazon.com/dp/B07FLYS4N1",
+    "https://www.amazon.com/dp/B07FLY2V91",
+    "https://www.amazon.com/dp/B07FFH7XZT"
+  ],
+  "SCULPTURE": [
+    "https://www.amazon.com/dp/B078H1JC3C"
+  ],
+  "REFRIGERATOR": [
+    "https://www.amazon.in/dp/B08CMLHKKP",
+    "https://www.amazon.in/dp/B07RBMRPB1",
+    "https://www.amazon.in/dp/B07R9NJCVZ"
+  ],
+  "NON_RIDING_TOY_VEHICLE": [
+    "https://www.amazon.in/dp/B0784CLWZS",
+    "https://www.amazon.de/dp/B07K2GD75T"
+  ],
+  "FUEL_PUMP": [
+    "https://www.amazon.com/dp/B07T3STPD1",
+    "https://www.amazon.ca/dp/B07SZM1F15",
+    "https://www.amazon.es/dp/B07T2R3666"
+  ],
+  "CELLULAR_PHONE": [
+    "https://www.amazon.de/dp/B07S9692CN"
+  ],
+  "TWO_WAY_RADIO": [
+    "https://www.amazon.de/dp/B07PRCRQXG",
+    "https://www.amazon.nl/dp/B07PP3LCZ9",
+    "https://www.amazon.co.uk/dp/B07PTMFR8N"
+  ],
+  "SLEEP_MASK": [
+    "https://www.amazon.ca/dp/B08DNQ6F7H"
+  ],
+  "LICENSE_PLATE_ATTACHMENT": [
+    "https://www.amazon.ae/dp/B07T3G6NPW",
+    "https://www.amazon.com.mx/dp/B07T3G5Q2H",
+    "https://www.amazon.in/dp/B07SZ85L33"
+  ],
+  "WRITING_PAPER": [
+    "https://www.amazon.nl/dp/B07D2PMCBL",
+    "https://www.amazon.com.au/dp/B07D2Q4CY7"
+  ],
+  "PUNCHING_BAG": [
+    "https://www.amazon.com/dp/B07SZFVB4D",
+    "https://www.amazon.com.mx/dp/B07H4NVWGP",
+    "https://www.amazon.sg/dp/B07T4QY4K4"
+  ],
+  "COOKING_OVEN": [
+    "https://www.amazon.in/dp/B084BZ6BDG"
+  ],
+  "AGRICULTURAL_SUPPLIES": [
+    "https://www.amazon.co.uk/dp/B0861VLH28"
+  ],
+  "FURNITURE_LINER": [
+    "https://www.amazon.com/dp/B07TP57ZJB",
+    "https://www.amazon.co.uk/dp/B07TQ8TS5F",
+    "https://www.amazon.com/dp/B082BCK9KR"
+  ],
+  "AMAZON_BOOK_READER_ACCESSORY": [
+    "https://www.amazon.co.uk/dp/B006GWO72I"
+  ],
+  "CARD_STOCK": [
+    "https://www.amazon.com.mx/dp/B086Q8MC2K",
+    "https://www.amazon.co.uk/dp/B06XSRLP51",
+    "https://www.amazon.com.tr/dp/B06XSXXKFZ"
+  ],
+  "AUDIO_OR_VIDEO": [
+    "https://www.amazon.com/dp/B003MAJHB8",
+    "https://www.amazon.de/dp/B01LZ7BMJB"
+  ],
+  "FIGURINE": [
+    "https://www.amazon.in/dp/B00TDCVM6W",
+    "https://www.amazon.com/dp/B078JF8588",
+    "https://www.amazon.com/dp/B07B8PXMTK"
+  ],
+  "JEWELRY": [
+    "https://www.amazon.com/dp/B00NLE4HMO",
+    "https://www.amazon.com/dp/B000V7UXLI"
+  ],
+  "ABIS_VIDEO_GAMES": [
+    "https://www.amazon.sg/dp/B01M9FCQ14",
+    "https://www.amazon.com/dp/B01MCY00G6"
+  ],
+  "HAIRBAND": [
+    "https://www.amazon.ca/dp/B08DKRGCG1",
+    "https://www.amazon.ca/dp/B08B12JRW4",
+    "https://www.amazon.ca/dp/B08B1832RW"
+  ],
+  "DINNERWARE": [
+    "https://www.amazon.com.mx/dp/B07RF92H98"
+  ],
+  "CYCLING_EQUIPMENT": [
+    "https://www.amazon.co.jp/dp/B01E7815LS"
+  ],
+  "SKIN_TREATMENT_MASK": [
+    "https://www.amazon.nl/dp/B07XZL9N2F"
+  ],
+  "CUTTING_BOARD": [
+    "https://www.amazon.in/dp/B07P5ZBPGH"
+  ],
+  "STROLLER": [
+    "https://www.amazon.co.uk/dp/B07D49NNWK"
+  ],
+  "SURVEILANCE_SYSTEMS": [
+    "https://www.amazon.fr/dp/B00J2QTVOE",
+    "https://www.amazon.com.mx/dp/B07F3V5ZKS"
+  ],
+  "COUNTERTOP_BURNER": [
+    "https://www.amazon.in/dp/B07H2X58XS",
+    "https://www.amazon.com/dp/B07S2628R9",
+    "https://www.amazon.in/dp/B07H2WGSMD"
+  ],
+  "MECHANICAL_LIGHTER": [
+    "https://www.amazon.in/dp/B07PCDH33Z"
+  ],
+  "CALCULATOR": [
+    "https://www.amazon.com/dp/B07KQ3457Q",
+    "https://www.amazon.it/dp/B0050BPX10",
+    "https://www.amazon.es/dp/B004LH885W"
+  ],
+  "DEEP_FRYER": [
+    "https://www.amazon.com.mx/dp/B07DR85F7F",
+    "https://www.amazon.es/dp/B087GHPDVF",
+    "https://www.amazon.com/dp/B087GJQB1P"
+  ],
+  "OVERALLS": [
+    "https://www.amazon.ca/dp/B075NQS4XF",
+    "https://www.amazon.ca/dp/B075NP1X8L",
+    "https://www.amazon.fr/dp/B075NP1X8L"
+  ],
+  "BLANKET": [
+    "https://www.amazon.com/dp/B07HSGP5PS"
+  ],
+  "THICKENING_AGENT": [
+    "https://www.amazon.com/dp/B074MFLXHL"
+  ],
+  "TABLETOP_GAME": [
+    "https://www.amazon.ca/dp/B07TC3M75V",
+    "https://www.amazon.de/dp/B07TVPPHNT"
+  ],
+  "WAIST_CINCHER": [
+    "https://www.amazon.it/dp/B085HDXKGQ"
+  ],
+  "KICK_SCOOTER": [
+    "https://www.amazon.ca/dp/B000HDHGWU"
+  ],
+  "LEHENGA_CHOLI_SET": [
+    "https://www.amazon.in/dp/B0846BV8ZN"
+  ],
+  "AV_RECEIVER": [
+    "https://www.amazon.de/dp/B07FJ49MRL"
+  ],
+  "PINBOARD": [
+    "https://www.amazon.co.uk/dp/B075NHVPPN",
+    "https://www.amazon.sa/dp/B07K67LVTG"
+  ],
+  "REFRIGERATION_APPLIANCE": [
+    "https://www.amazon.in/dp/B07R59V5SD"
+  ],
+  "HARDWARE_CLAMP_VISE": [
+    "https://www.amazon.nl/dp/B07SD371XM"
+  ],
+  "PORTABLE_TOOL_BOX": [
+    "https://www.amazon.de/dp/B07WR41L4K",
+    "https://www.amazon.co.jp/dp/B074MGD4S8",
+    "https://www.amazon.com.au/dp/B074MGJRKH"
+  ],
+  "COSMETIC_POWDER": [
+    "https://www.primenow.amazon.com/dp/B000UGZD9M"
+  ],
+  "ELECTRONIC_SWITCH": [
+    "https://www.amazon.it/dp/B00GBWFCKE",
+    "https://www.amazon.de/dp/B01LY87OUE",
+    "https://www.amazon.se/dp/B004FNPVS4"
+  ],
+  "SHOVEL_SPADE": [
+    "https://www.amazon.fr/dp/B07VWHYZTZ"
+  ],
+  "COMPUTER_COOLING_DEVICE": [
+    "https://www.amazon.com/dp/B004HYFOZQ"
+  ],
+  "BAKEWARE": [
+    "https://www.amazon.com.mx/dp/B07N9J45KC"
+  ],
+  "SKIN_FOUNDATION_CONCEALER": [
+    "https://www.amazon.de/dp/B07RJSN94Z"
+  ],
+  "SWING": [
+    "https://www.amazon.com.mx/dp/B07YPNN5T2"
+  ],
+  "GUITARS": [
+    "https://www.amazon.it/dp/B07QKJNPB2",
+    "https://www.amazon.de/dp/B07QLZ32FB"
+  ],
+  "ANIMAL_COLLAR": [
+    "https://www.amazon.com/dp/B073P17RRM",
+    "https://www.amazon.com/dp/B073NZPPSX"
+  ],
+  "VINE": [
+    "https://www.amazon.ae/dp/B07KVYZNMC",
+    "https://www.amazon.sg/dp/B07KVYZNMC"
+  ],
+  "CONDIMENT": [
+    "https://www.amazon.com/dp/B074M9BXL7"
+  ],
+  "ROOM_DIVIDER": [
+    "https://www.amazon.co.uk/dp/B07YTLX7MV",
+    "https://www.amazon.co.uk/dp/B07YTP7FL6"
+  ],
+  "ROBOTIC_VACUUM_CLEANER": [
+    "https://www.amazon.de/dp/B07KFRZHPG"
+  ],
+  "TIMER": [
+    "https://www.amazon.com.mx/dp/B001CDWTG2"
+  ],
+  "GAME_DICE": [
+    "https://www.amazon.in/dp/B07TVPPJYN"
+  ],
+  "OTC_MEDICATION": [
+    "https://www.amazon.com.mx/dp/B07MX1KZ1G"
+  ],
+  "SOUS_VIDE_MACHINE": [
+    "https://www.amazon.com.mx/dp/B07D54NRN6"
+  ],
+  "SPORT_RACKET": [
+    "https://www.amazon.nl/dp/B07GXS216T",
+    "https://www.amazon.com.mx/dp/B07GCHM1X7"
+  ],
+  "FOOD_DEHYDRATOR": [
+    "https://www.amazon.com.mx/dp/B07H9QVN24"
+  ],
+  "NETWORKING_ROUTER": [
+    "https://www.amazon.fr/dp/B01N8TQ4VC"
+  ],
+  "POWERSPORTS_VEHICLE_PART": [
+    "https://www.amazon.com/dp/B00VJBJF8M"
+  ],
+  "OUTBUILDING": [
+    "https://www.amazon.de/dp/B07H28FD5N"
+  ],
+  "TERMINAL_BLOCK": [
+    "https://www.amazon.com/dp/B07TGD9PNX"
+  ],
+  "VIVARIUM": [
+    "https://www.amazon.com.mx/dp/B01N4MSTLD"
+  ],
+  "DRILL": [
+    "https://www.amazon.com/dp/B000HDMU9E"
+  ],
+  "FIREPLACE": [
+    "https://www.amazon.it/dp/B076BW8W62"
+  ],
+  "GARLIC_PRESS": [
+    "https://www.amazon.in/dp/B07P5ZBCPY"
+  ],
+  "WIRELESS_LOCKED_PHONE": [
+    "https://www.amazon.ca/dp/B002VPE1NY"
+  ]
+}

@@ -1,0 +1,10 @@
+flask
+python-dotenv
+flask-cors
+flask-socketio
+numpy
+opencv-python
+torch
+pandas
+requests
+pillow

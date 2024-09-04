@@ -1,0 +1,962 @@
+{
+	"person": {
+		"url": [
+			"https://www.amazon.com/Person-Interest-S1-5-Various/dp/B01FKR4HO2/ref=sr_1_1?dib=eyJ2IjoiMSJ9.zV5yRIKisO4LoaVYWhpPv0Zgg6MPtecIP01O5ZuXcF15d4XwqRAFtPmAO-TWNaIN7gn-FGCkiscGcCFvQq5pwMcWKJAeYMHoJ7y2siyaVObNzhRnLdFsn0xD3uhN3CsPI1bZDWmbXVIFSywE05kQlVnn7KGvkpDXkLlZ1lqFR6h7_xQLyqO3FmcR7CgKv4LMG4xZbp9qVQHl2nBSpqybctEL-6qJzj8NsKG5phMlJ1k.ZWh_QICAakAQEb-gh_NVFLCs8AgM1RpDJC7KSvHklyA&dib_tag=se&keywords=person&qid=1718980259&sr=8-1",
+			"https://www.amazon.com/Mission-Creep/dp/B0095R3M72/ref=sr_1_2?dib=eyJ2IjoiMSJ9.zV5yRIKisO4LoaVYWhpPv0Zgg6MPtecIP01O5ZuXcF15d4XwqRAFtPmAO-TWNaIN7gn-FGCkiscGcCFvQq5pwMcWKJAeYMHoJ7y2siyaVObNzhRnLdFsn0xD3uhN3CsPI1bZDWmbXVIFSywE05kQlVnn7KGvkpDXkLlZ1lqFR6h7_xQLyqO3FmcR7CgKv4LMG4xZbp9qVQHl2nBSpqybctEL-6qJzj8NsKG5phMlJ1k.ZWh_QICAakAQEb-gh_NVFLCs8AgM1RpDJC7KSvHklyA&dib_tag=se&keywords=person&qid=1718980259&sr=8-2",
+			"https://www.amazon.com/Synecdoche/dp/B01F4L45XW/ref=sr_1_3?dib=eyJ2IjoiMSJ9.zV5yRIKisO4LoaVYWhpPv0Zgg6MPtecIP01O5ZuXcF15d4XwqRAFtPmAO-TWNaIN7gn-FGCkiscGcCFvQq5pwMcWKJAeYMHoJ7y2siyaVObNzhRnLdFsn0xD3uhN3CsPI1bZDWmbXVIFSywE05kQlVnn7KGvkpDXkLlZ1lqFR6h7_xQLyqO3FmcR7CgKv4LMG4xZbp9qVQHl2nBSpqybctEL-6qJzj8NsKG5phMlJ1k.ZWh_QICAakAQEb-gh_NVFLCs8AgM1RpDJC7KSvHklyA&dib_tag=se&keywords=person&qid=1718980259&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/913EpH-U-4L._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/916ibibMHKL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81anHGd9lRL._AC_UY218_.jpg"
+		]
+	},
+	"bicycle": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTQxMTY3ODE0MTcwNDUzOjE3MTg5ODAyNjQ6c3BfYXRmOjMwMDIzNjY5OTc3MjgwMjo6MDo6&url=%2FGASLIKE-16-Inch-Balance-Bike%2Fdp%2FB0C2XYFS7L%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.XMVnOGM5lcxymxnlrnVCyfJtwZa0Ppi7czdbtRM9BSIC8wiv8GxLEGbN8KtCv4QixtqvjCTv-BUT_k6_Qyl2oT-2znN7GGthyUD5TpDXMVaD-aaZ4fyFclKPCJLyRKy22uTaNbM5TdCTz31gmGA8L5bKRjReNGgCxoqnxmCoqGKoT3_9ForRc4kGnbkKPkw67GWFqF9xH0rP2NrqXCrcbcRtn-rK0LYPBW0-9KA66Kg.OBUUXxpC3u7EfVUPAaD9sG7jugesfbFIyTvcAS8L4T4%26dib_tag%3Dse%26keywords%3Dbicycle%26qid%3D1718980264%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTQxMTY3ODE0MTcwNDUzOjE3MTg5ODAyNjQ6c3BfYXRmOjIwMDA1NTgxNTc4ODUxMTo6MDo6&url=%2FRoyalbaby-RB12G-1P-Stargirl-Training-Wheels%2Fdp%2FB00H5FGZG6%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.XMVnOGM5lcxymxnlrnVCyfJtwZa0Ppi7czdbtRM9BSIC8wiv8GxLEGbN8KtCv4QixtqvjCTv-BUT_k6_Qyl2oT-2znN7GGthyUD5TpDXMVaD-aaZ4fyFclKPCJLyRKy22uTaNbM5TdCTz31gmGA8L5bKRjReNGgCxoqnxmCoqGKoT3_9ForRc4kGnbkKPkw67GWFqF9xH0rP2NrqXCrcbcRtn-rK0LYPBW0-9KA66Kg.OBUUXxpC3u7EfVUPAaD9sG7jugesfbFIyTvcAS8L4T4%26dib_tag%3Dse%26keywords%3Dbicycle%26qid%3D1718980264%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTQxMTY3ODE0MTcwNDUzOjE3MTg5ODAyNjQ6c3BfYXRmOjIwMDA1NTgxNTc4ODUxMTo6MDo6&url=%2FRoyalbaby-RB12G-1P-Stargirl-Training-Wheels%2Fdp%2FB00H5FGZG6%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.XMVnOGM5lcxymxnlrnVCyfJtwZa0Ppi7czdbtRM9BSIC8wiv8GxLEGbN8KtCv4QixtqvjCTv-BUT_k6_Qyl2oT-2znN7GGthyUD5TpDXMVaD-aaZ4fyFclKPCJLyRKy22uTaNbM5TdCTz31gmGA8L5bKRjReNGgCxoqnxmCoqGKoT3_9ForRc4kGnbkKPkw67GWFqF9xH0rP2NrqXCrcbcRtn-rK0LYPBW0-9KA66Kg.OBUUXxpC3u7EfVUPAaD9sG7jugesfbFIyTvcAS8L4T4%26dib_tag%3Dse%26keywords%3Dbicycle%26qid%3D1718980264%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71Y6mNxgpdL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81HBJm8p3zL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71PyGlehAFL._AC_UY218_.jpg"
+		]
+	},
+	"car": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MDg2OTY1OTgyNDY4OTgzOjE3MTg5ODAyNjk6c3BfYXRmOjMwMDI0MTQ2MjYzMDgwMjo6MDo6&url=%2FWJWMIRC-Control-Gesture-Birthday-6-12%25EF%25BC%2588Red%25EF%25BC%2589%2Fdp%2FB0D2K4R3MM%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.BbhzYxQ3kdUib5MtYPSTWfyHdTNTFtz315aIYyt2jdgNfMA4kg7WLPxesLjSb3l7_bp_eDiu4kxVvxcOR3uevetBAhD889M5oIsAIfUjANU7ROWe93ufblAW5J9Kq3PvvGpvLm4YHWr26ukfujI9XNBemFcoBTTX3IOn6PN_b7eo31BPE3NgAxrOI3kgpb4Q2K3jnsJIRO3aNhDcwCyY-bmqO8lC9QrZL1tqbNLfkLf8zCM5f72pqlCnQuAYNursTjBqDOUkh9jCYPivyK_id__Jsv9WXXYr-VWmRd_W6pU.7HDH7Co9dqI6BmzsUS1I8cScC2KWKVyqnisXWirScjs%26dib_tag%3Dse%26keywords%3Dcar%26qid%3D1718980269%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Jada-Toys-Pixar-Cars-Lightning/dp/B0925KYMCK/ref=sr_1_2?dib=eyJ2IjoiMSJ9.BbhzYxQ3kdUib5MtYPSTWfyHdTNTFtz315aIYyt2jdgNfMA4kg7WLPxesLjSb3l7_bp_eDiu4kxVvxcOR3uevetBAhD889M5oIsAIfUjANU7ROWe93ufblAW5J9Kq3PvvGpvLm4YHWr26ukfujI9XNBemFcoBTTX3IOn6PN_b7eo31BPE3NgAxrOI3kgpb4Q2K3jnsJIRO3aNhDcwCyY-bmqO8lC9QrZL1tqbNLfkLf8zCM5f72pqlCnQuAYNursTjBqDOUkh9jCYPivyK_id__Jsv9WXXYr-VWmRd_W6pU.7HDH7Co9dqI6BmzsUS1I8cScC2KWKVyqnisXWirScjs&dib_tag=se&keywords=car&qid=1718980269&sr=8-2",
+			"https://www.amazon.com/Jada-Toys-Pixar-Cars-Lightning/dp/B0925KYMCK/ref=sr_1_2?dib=eyJ2IjoiMSJ9.BbhzYxQ3kdUib5MtYPSTWfyHdTNTFtz315aIYyt2jdgNfMA4kg7WLPxesLjSb3l7_bp_eDiu4kxVvxcOR3uevetBAhD889M5oIsAIfUjANU7ROWe93ufblAW5J9Kq3PvvGpvLm4YHWr26ukfujI9XNBemFcoBTTX3IOn6PN_b7eo31BPE3NgAxrOI3kgpb4Q2K3jnsJIRO3aNhDcwCyY-bmqO8lC9QrZL1tqbNLfkLf8zCM5f72pqlCnQuAYNursTjBqDOUkh9jCYPivyK_id__Jsv9WXXYr-VWmRd_W6pU.7HDH7Co9dqI6BmzsUS1I8cScC2KWKVyqnisXWirScjs&dib_tag=se&keywords=car&qid=1718980269&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81Mm3kh-fhL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71fTdt7HheL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81JB21Lr4BL._AC_UL320_.jpg"
+		]
+	},
+	"motorcycle": {
+		"url": [
+			"https://www.amazon.com/LEGO-Kawasaki-Motorcycle-Collectible-Independent/dp/B0CGY4B3GB/ref=sr_1_1?dib=eyJ2IjoiMSJ9.VKnAyGorweuiZ66z1rCchdAl_5EfbipJmC0ftnAPBzpCQHuC-TV3NOgvRhBTmqrcYnJEOgE66zb3IixOOa6fL14HdFhf0ZMj5BVzDfFc5Gqi0z9Kquma3O1J64YMpx6XPbKHUccK5bJDI6RnZ669m3sPRDR1iIhOq8ZG6z_BC5FwAmmVzLqb9VABuBg50ZCsTWhHeszixG7qs-RjmpGvmGjpsU329qWyvv0fw_e5558.8oX6p5sPnFbrRfN93rrDsyyo17yI5DpRfrdarpodVhQ&dib_tag=se&keywords=motorcycle&qid=1718980276&sr=8-1",
+			"https://www.amazon.com/WEPLAN-Motorcycle-Backpack-Backpacks-Waterproof/dp/B0B5H5ZPRW/ref=sr_1_2?dib=eyJ2IjoiMSJ9.VKnAyGorweuiZ66z1rCchdAl_5EfbipJmC0ftnAPBzpCQHuC-TV3NOgvRhBTmqrcYnJEOgE66zb3IixOOa6fL14HdFhf0ZMj5BVzDfFc5Gqi0z9Kquma3O1J64YMpx6XPbKHUccK5bJDI6RnZ669m3sPRDR1iIhOq8ZG6z_BC5FwAmmVzLqb9VABuBg50ZCsTWhHeszixG7qs-RjmpGvmGjpsU329qWyvv0fw_e5558.8oX6p5sPnFbrRfN93rrDsyyo17yI5DpRfrdarpodVhQ&dib_tag=se&keywords=motorcycle&qid=1718980276&sr=8-2",
+			"https://www.amazon.com/WEPLAN-Motorcycle-Backpack-Backpacks-Waterproof/dp/B0B5H5ZPRW/ref=sr_1_2?dib=eyJ2IjoiMSJ9.VKnAyGorweuiZ66z1rCchdAl_5EfbipJmC0ftnAPBzpCQHuC-TV3NOgvRhBTmqrcYnJEOgE66zb3IixOOa6fL14HdFhf0ZMj5BVzDfFc5Gqi0z9Kquma3O1J64YMpx6XPbKHUccK5bJDI6RnZ669m3sPRDR1iIhOq8ZG6z_BC5FwAmmVzLqb9VABuBg50ZCsTWhHeszixG7qs-RjmpGvmGjpsU329qWyvv0fw_e5558.8oX6p5sPnFbrRfN93rrDsyyo17yI5DpRfrdarpodVhQ&dib_tag=se&keywords=motorcycle&qid=1718980276&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/812ayBeUg0L._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/61tSthmVGYL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/61MCfLDUNOL._AC_UY218_.jpg"
+		]
+	},
+	"airplane": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTY5MDAyOTE3NjExMjI6MTcxODk4MDI4MTpzcF9hdGY6MzAwMjA1MjQyMjc4NTAyOjowOjo&url=%2FAirplane-Fighter-Diecast-Military-Lights%2Fdp%2FB0D3FKD5HX%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.zrcUnLyK7Lo1dlTq7tukHz1O_F20-Fx_kOv5Mo_lcT0Q_EmfEYejrPsej_phjPZzqLUDfh_hdkv_KxxFSmkZyrU9mhLWouJCG5W76gJIF0d5zySldz1TiX3ZfkgKRXYzdKCzVMOTCHhzK_jogpqNdilDGp2NohVwYdtkEmRPyR78vQ8kp90_TiKM9WpLvnM1d_eGiIz7ab7TofBfZU-vGaxMPhb0xda8zzZXyrsy3_M.M5rmEP32NkzhEzoij37Bo66E6N9qT2hSUULUSkPu3RY%26dib_tag%3Dse%26keywords%3Dairplane%26qid%3D1718980281%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTY5MDAyOTE3NjExMjI6MTcxODk4MDI4MTpzcF9hdGY6MzAwMDA0MTA4MjkzMzAyOjowOjo&url=%2FJoylluoan-AirForceOne-Diecast-Airplanes-Airplane%2Fdp%2FB0BNNF9B4M%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.zrcUnLyK7Lo1dlTq7tukHz1O_F20-Fx_kOv5Mo_lcT0Q_EmfEYejrPsej_phjPZzqLUDfh_hdkv_KxxFSmkZyrU9mhLWouJCG5W76gJIF0d5zySldz1TiX3ZfkgKRXYzdKCzVMOTCHhzK_jogpqNdilDGp2NohVwYdtkEmRPyR78vQ8kp90_TiKM9WpLvnM1d_eGiIz7ab7TofBfZU-vGaxMPhb0xda8zzZXyrsy3_M.M5rmEP32NkzhEzoij37Bo66E6N9qT2hSUULUSkPu3RY%26dib_tag%3Dse%26keywords%3Dairplane%26qid%3D1718980281%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Airplane-Throwing-Gliders-Aircraft-Birthday/dp/B07Y1257KV/ref=sr_1_3?dib=eyJ2IjoiMSJ9.zrcUnLyK7Lo1dlTq7tukHz1O_F20-Fx_kOv5Mo_lcT0Q_EmfEYejrPsej_phjPZzqLUDfh_hdkv_KxxFSmkZyrU9mhLWouJCG5W76gJIF0d5zySldz1TiX3ZfkgKRXYzdKCzVMOTCHhzK_jogpqNdilDGp2NohVwYdtkEmRPyR78vQ8kp90_TiKM9WpLvnM1d_eGiIz7ab7TofBfZU-vGaxMPhb0xda8zzZXyrsy3_M.M5rmEP32NkzhEzoij37Bo66E6N9qT2hSUULUSkPu3RY&dib_tag=se&keywords=airplane&qid=1718980281&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61OFsok7-GL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/61Zn-TTvX1L._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/61aym4Fs96S._AC_UY218_.jpg"
+		]
+	},
+	"bus": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTc5Mzc0OTMyMDYwNjAzOjE3MTg5ODAyODc6c3BfYXRmOjIwMDAxNzU0OTY4OTk2MTo6MDo6&url=%2Ffisca-Acceleration-Deceleration-Rechargeable-Electronic%2Fdp%2FB071D19B9F%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.D6FmyOSoRmgMxo1oNmR2ptEso1JznmypgD4rqiztb2516uflvsMgQthcekQXMrdRUAzvAgMIFoecl4nu22qaER7EMFBE3T5u3xw0wJm4jZHj5ka0yK6YXRRmCe0dONflpde-rhtxIojDVTEN_jkAX7jllvCDr5jny6qk6GNWsXOCqctb5NQ0SQI7S0TA_uGx3EIu6GnG3h4iU88nBTubCNliWxk1oadr0Ch-CtNzKUAVwfrurbVX3KPorbYUrIwABGXpySpLuL27Um231FuwlOnpbQUwxy4PPNrn_gUdpTc.Dam9oi-u-89LFpCwY9cOtWLZWe3WOfpLz9usOad0r_Y%26dib_tag%3Dse%26keywords%3Dbus%26qid%3D1718980287%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Fisher-Price-Little-People-Yellow-Multicolor/dp/B083W22G83/ref=sr_1_2?dib=eyJ2IjoiMSJ9.D6FmyOSoRmgMxo1oNmR2ptEso1JznmypgD4rqiztb2516uflvsMgQthcekQXMrdRUAzvAgMIFoecl4nu22qaER7EMFBE3T5u3xw0wJm4jZHj5ka0yK6YXRRmCe0dONflpde-rhtxIojDVTEN_jkAX7jllvCDr5jny6qk6GNWsXOCqctb5NQ0SQI7S0TA_uGx3EIu6GnG3h4iU88nBTubCNliWxk1oadr0Ch-CtNzKUAVwfrurbVX3KPorbYUrIwABGXpySpLuL27Um231FuwlOnpbQUwxy4PPNrn_gUdpTc.Dam9oi-u-89LFpCwY9cOtWLZWe3WOfpLz9usOad0r_Y&dib_tag=se&keywords=bus&qid=1718980287&sr=8-2",
+			"https://www.amazon.com/Fisher-Price-Little-People-Yellow-Multicolor/dp/B083W22G83/ref=sr_1_2?dib=eyJ2IjoiMSJ9.D6FmyOSoRmgMxo1oNmR2ptEso1JznmypgD4rqiztb2516uflvsMgQthcekQXMrdRUAzvAgMIFoecl4nu22qaER7EMFBE3T5u3xw0wJm4jZHj5ka0yK6YXRRmCe0dONflpde-rhtxIojDVTEN_jkAX7jllvCDr5jny6qk6GNWsXOCqctb5NQ0SQI7S0TA_uGx3EIu6GnG3h4iU88nBTubCNliWxk1oadr0Ch-CtNzKUAVwfrurbVX3KPorbYUrIwABGXpySpLuL27Um231FuwlOnpbQUwxy4PPNrn_gUdpTc.Dam9oi-u-89LFpCwY9cOtWLZWe3WOfpLz9usOad0r_Y&dib_tag=se&keywords=bus&qid=1718980287&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61eMbxbhYwL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71qnaEGZvDL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81caMoYhMCL._AC_UL320_.jpg"
+		]
+	},
+	"train": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTA5MzIxODA3NzQwMDM1OjE3MTg5ODAyOTQ6c3BfYXRmOjIwMDEzMDE1ODgyMTM5ODo6MDo6&url=%2FAmazon-Basics-65-Piece-Railway-Construction%2Fdp%2FB09ZHF2MPM%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.39gKsl8PXfQOchEN4H8tF5hKNDAqJ2OGfrIZA2e9XiP7dUUje_pxKcxNd84LA87hHP8SR7mwxnAlJWvq7N6cJMzk6hPQkW9seLHCNKgr0OjOS4OoeSnyhlUwUGlaG27QaLCbRAxQo_rF9nyFk-d1suXUs13db-zFkaqdICWIlbV63KLBXnakkoIJ0P8G4Qwf99A3n2DLNh7eNb-ls7aa1K9xYPlnJiUhrpXw9_J0w145vokLFWwaDJc6umvyZhKiXEzn1_flzEjF9Sr3-JomKwwjr_K63JgpQlUXSHZycxY.BJDEfD-FOBVvJ17WPkboOGxayJL4eLJKDfIXHE90d5E%26dib_tag%3Dse%26keywords%3Dtrain%26qid%3D1718980294%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTA5MzIxODA3NzQwMDM1OjE3MTg5ODAyOTQ6c3BfYXRmOjIwMDEzMDE1ODgyMTM5ODo6MDo6&url=%2FAmazon-Basics-65-Piece-Railway-Construction%2Fdp%2FB09ZHF2MPM%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.39gKsl8PXfQOchEN4H8tF5hKNDAqJ2OGfrIZA2e9XiP7dUUje_pxKcxNd84LA87hHP8SR7mwxnAlJWvq7N6cJMzk6hPQkW9seLHCNKgr0OjOS4OoeSnyhlUwUGlaG27QaLCbRAxQo_rF9nyFk-d1suXUs13db-zFkaqdICWIlbV63KLBXnakkoIJ0P8G4Qwf99A3n2DLNh7eNb-ls7aa1K9xYPlnJiUhrpXw9_J0w145vokLFWwaDJc6umvyZhKiXEzn1_flzEjF9Sr3-JomKwwjr_K63JgpQlUXSHZycxY.BJDEfD-FOBVvJ17WPkboOGxayJL4eLJKDfIXHE90d5E%26dib_tag%3Dse%26keywords%3Dtrain%26qid%3D1718980294%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTA5MzIxODA3NzQwMDM1OjE3MTg5ODAyOTQ6c3BfYXRmOjMwMDIyMTM1NzgxNTgwMjo6MDo6&url=%2FDiffuser-Ultrasonic-Waterless-Protection-Whimsical%2Fdp%2FB0CR6W7VTB%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.39gKsl8PXfQOchEN4H8tF5hKNDAqJ2OGfrIZA2e9XiP7dUUje_pxKcxNd84LA87hHP8SR7mwxnAlJWvq7N6cJMzk6hPQkW9seLHCNKgr0OjOS4OoeSnyhlUwUGlaG27QaLCbRAxQo_rF9nyFk-d1suXUs13db-zFkaqdICWIlbV63KLBXnakkoIJ0P8G4Qwf99A3n2DLNh7eNb-ls7aa1K9xYPlnJiUhrpXw9_J0w145vokLFWwaDJc6umvyZhKiXEzn1_flzEjF9Sr3-JomKwwjr_K63JgpQlUXSHZycxY.BJDEfD-FOBVvJ17WPkboOGxayJL4eLJKDfIXHE90d5E%26dib_tag%3Dse%26keywords%3Dtrain%26qid%3D1718980294%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71f0E9d7y9L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/712Ma+FciGL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71nBh-HAz+S._AC_UL320_.jpg"
+		]
+	},
+	"truck": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNDUyNjk4MjQyNDkxMzExOjE3MTg5ODAzMDA6c3BfYXRmOjMwMDE3NTc5MzE2NzYwMjo6MDo6&url=%2FPower-K5143-36-Front-Truck-Brake%2Fdp%2FB00AN5RMVM%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.NOqn00pOs8TFVfoEY_oczxLXsO5mOETeLbBHAqVX7hS_h1gO8_virLc83-uPA08_M7h4jZJxiEQYanW7JNwuT1boqv735AxSWhfBWC3ays5-VUKOQtis8j_wiuUZW-h0hhOsPQCBWqcGWBLT_NjSyzWRR8nuLmzkMVBIIuT4d1_Lm3VefWBbg_kpXBcFhyXIjJbgjtg9nDblX_3EckLUpEEBEiQYxal6pymWNT_gbogpyVp3BeDYbnIteK14PVkF8oZ69Smhsu6gjbEj1cfWD_dqWmmx4A-Lor5mRyJI-w8.Ez1tvp19em98wPdgsdwYPHonrk-9nk1CUoocShztnUE%26dib_tag%3Dse%26keywords%3Dtruck%26qid%3D1718980300%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNDUyNjk4MjQyNDkxMzExOjE3MTg5ODAzMDA6c3BfYXRmOjMwMDE3NTc5MzE2NzYwMjo6MDo6&url=%2FPower-K5143-36-Front-Truck-Brake%2Fdp%2FB00AN5RMVM%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.NOqn00pOs8TFVfoEY_oczxLXsO5mOETeLbBHAqVX7hS_h1gO8_virLc83-uPA08_M7h4jZJxiEQYanW7JNwuT1boqv735AxSWhfBWC3ays5-VUKOQtis8j_wiuUZW-h0hhOsPQCBWqcGWBLT_NjSyzWRR8nuLmzkMVBIIuT4d1_Lm3VefWBbg_kpXBcFhyXIjJbgjtg9nDblX_3EckLUpEEBEiQYxal6pymWNT_gbogpyVp3BeDYbnIteK14PVkF8oZ69Smhsu6gjbEj1cfWD_dqWmmx4A-Lor5mRyJI-w8.Ez1tvp19em98wPdgsdwYPHonrk-9nk1CUoocShztnUE%26dib_tag%3Dse%26keywords%3Dtruck%26qid%3D1718980300%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNDUyNjk4MjQyNDkxMzExOjE3MTg5ODAzMDA6c3BfYXRmOjMwMDE3NTc5MzE2MzAwMjo6MDo6&url=%2FPower-K138-36-Front-Truck-Brake%2Fdp%2FB005UB90J6%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.NOqn00pOs8TFVfoEY_oczxLXsO5mOETeLbBHAqVX7hS_h1gO8_virLc83-uPA08_M7h4jZJxiEQYanW7JNwuT1boqv735AxSWhfBWC3ays5-VUKOQtis8j_wiuUZW-h0hhOsPQCBWqcGWBLT_NjSyzWRR8nuLmzkMVBIIuT4d1_Lm3VefWBbg_kpXBcFhyXIjJbgjtg9nDblX_3EckLUpEEBEiQYxal6pymWNT_gbogpyVp3BeDYbnIteK14PVkF8oZ69Smhsu6gjbEj1cfWD_dqWmmx4A-Lor5mRyJI-w8.Ez1tvp19em98wPdgsdwYPHonrk-9nk1CUoocShztnUE%26dib_tag%3Dse%26keywords%3Dtruck%26qid%3D1718980300%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81XDJPx5NKL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71qfATXwGML._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81v9Co6Hs7L._AC_UL320_.jpg"
+		]
+	},
+	"boat": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNTQwODUxOTQ2NDU3OTUyOjE3MTg5ODAzMDY6c3BfYXRmOjMwMDE0Njk0NzMyMzkwMjo6MDo6&url=%2FRAVE-Sports-Person-Warrior-Boat%2Fdp%2FB009VR9C7A%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.eijGv3NQONDCz12HSXsZuoTWabcBU8swr_Vbd2WqRS4ho8k9hAky4AZk8pXv1li75Fsym_5lirvw66RhxQB-X2Pk1dGqEox2OP-Q8O4r1cWrPwayva__1QIwWOOfUE5mJAh_kt9MnqwhXyPv6AuZw4v9E3qi_FNsOjCNm36OTijao4qAz6nde674gttf6-wEB66w8XdxTmWVIejlNRbk-HVKNIyMbC1ZMoTf3H4fak-57ef39hroBwlapDwdUXv4kAN9ZZ0m-33t_ZlGzZW2RAeM13UXNGuBS_XTKUudzF4.1EtmqeBX_FaE9dSmAgsQBOna5r42TBYdeoTZxiq4QnA%26dib_tag%3Dse%26keywords%3Dboat%26qid%3D1718980306%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNTQwODUxOTQ2NDU3OTUyOjE3MTg5ODAzMDY6c3BfYXRmOjMwMDE0Njk0NzMyMzkwMjo6MDo6&url=%2FRAVE-Sports-Person-Warrior-Boat%2Fdp%2FB009VR9C7A%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.eijGv3NQONDCz12HSXsZuoTWabcBU8swr_Vbd2WqRS4ho8k9hAky4AZk8pXv1li75Fsym_5lirvw66RhxQB-X2Pk1dGqEox2OP-Q8O4r1cWrPwayva__1QIwWOOfUE5mJAh_kt9MnqwhXyPv6AuZw4v9E3qi_FNsOjCNm36OTijao4qAz6nde674gttf6-wEB66w8XdxTmWVIejlNRbk-HVKNIyMbC1ZMoTf3H4fak-57ef39hroBwlapDwdUXv4kAN9ZZ0m-33t_ZlGzZW2RAeM13UXNGuBS_XTKUudzF4.1EtmqeBX_FaE9dSmAgsQBOna5r42TBYdeoTZxiq4QnA%26dib_tag%3Dse%26keywords%3Dboat%26qid%3D1718980306%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Intex-Excursion-4-Person-Inflatable-Aluminum/dp/B005S6GY74/ref=sr_1_2?dib=eyJ2IjoiMSJ9.eijGv3NQONDCz12HSXsZuoTWabcBU8swr_Vbd2WqRS4ho8k9hAky4AZk8pXv1li75Fsym_5lirvw66RhxQB-X2Pk1dGqEox2OP-Q8O4r1cWrPwayva__1QIwWOOfUE5mJAh_kt9MnqwhXyPv6AuZw4v9E3qi_FNsOjCNm36OTijao4qAz6nde674gttf6-wEB66w8XdxTmWVIejlNRbk-HVKNIyMbC1ZMoTf3H4fak-57ef39hroBwlapDwdUXv4kAN9ZZ0m-33t_ZlGzZW2RAeM13UXNGuBS_XTKUudzF4.1EtmqeBX_FaE9dSmAgsQBOna5r42TBYdeoTZxiq4QnA&dib_tag=se&keywords=boat&qid=1718980306&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81rmDl07t8L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71Jeeams3oL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61Pq3n2ZCSL._AC_UL320_.jpg"
+		]
+	},
+	"traffic light": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NzIwNTc2NjM0MDEwNTk6MTcxODk4MDMxMzpzcF9hdGY6MzAwMjIwOTA3MjY5MTAyOjowOjo&url=%2FTraffic-AC85-265V-Waterproof-Industrial-Indicator%2Fdp%2FB087CW4J4C%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.dafw41Clbi1r_fHbs18F-WJpO1O24KaRGCNUpYKCndPRRBUKie6iiME0OLTMJm28AMkctzD87J8IafZ5B7v6NaOsrCDgAwrrzTcByAvIXJTYNgP_cnRtWYXupw6P58vcXgOwYBc0MDbEnOaBxaf81zPTsEhThzG4cQy3aR2bdaoG3kg0DCqV-7yuW7NMwlDlz3X_NfEghMZJI-HJjaaSq4Jr5inMe9390tx86ffOOXjXRLd04cHof9935zywwW_2RQFtDjPfRjCOvPoCrUrr42oxPXVyq1xIKLZ-NugFZ-E.OxXn4Myx5WMM0M3EYJ0cubn-Qprt18UAZmv2cdToMeM%26dib_tag%3Dse%26keywords%3Dtraffic%2Blight%26qid%3D1718980313%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NzIwNTc2NjM0MDEwNTk6MTcxODk4MDMxMzpzcF9hdGY6MzAwMjIwNTEwMzAzMjAyOjowOjo&url=%2FTraffic-DC9-30V-Waterproof-Industrial-Indicator%2Fdp%2FB0875WTY7T%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.dafw41Clbi1r_fHbs18F-WJpO1O24KaRGCNUpYKCndPRRBUKie6iiME0OLTMJm28AMkctzD87J8IafZ5B7v6NaOsrCDgAwrrzTcByAvIXJTYNgP_cnRtWYXupw6P58vcXgOwYBc0MDbEnOaBxaf81zPTsEhThzG4cQy3aR2bdaoG3kg0DCqV-7yuW7NMwlDlz3X_NfEghMZJI-HJjaaSq4Jr5inMe9390tx86ffOOXjXRLd04cHof9935zywwW_2RQFtDjPfRjCOvPoCrUrr42oxPXVyq1xIKLZ-NugFZ-E.OxXn4Myx5WMM0M3EYJ0cubn-Qprt18UAZmv2cdToMeM%26dib_tag%3Dse%26keywords%3Dtraffic%2Blight%26qid%3D1718980313%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NzIwNTc2NjM0MDEwNTk6MTcxODk4MDMxMzpzcF9hdGY6MzAwMDgyOTU3OTAyMTAyOjowOjo&url=%2Fyeesport-Traffic-Controller-Bedroom-Vintage%2Fdp%2FB0C4NHMZB8%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.dafw41Clbi1r_fHbs18F-WJpO1O24KaRGCNUpYKCndPRRBUKie6iiME0OLTMJm28AMkctzD87J8IafZ5B7v6NaOsrCDgAwrrzTcByAvIXJTYNgP_cnRtWYXupw6P58vcXgOwYBc0MDbEnOaBxaf81zPTsEhThzG4cQy3aR2bdaoG3kg0DCqV-7yuW7NMwlDlz3X_NfEghMZJI-HJjaaSq4Jr5inMe9390tx86ffOOXjXRLd04cHof9935zywwW_2RQFtDjPfRjCOvPoCrUrr42oxPXVyq1xIKLZ-NugFZ-E.OxXn4Myx5WMM0M3EYJ0cubn-Qprt18UAZmv2cdToMeM%26dib_tag%3Dse%26keywords%3Dtraffic%2Blight%26qid%3D1718980313%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/714aRDhvBUL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61ayAri9auL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61YEheMgHkL._AC_UL320_.jpg"
+		]
+	},
+	"fire hydrant": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjQ4NTUzMzgzMTE0ODc5OjE3MTg5ODAzMjA6c3BfYXRmOjIwMDAwMzA3NDA4NjMxMTo6MDo6&url=%2FDesign-Toscano-Hydrant-Container-Metalware%2Fdp%2FB00CW2PT28%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.v8yxTA1afBalYepkHlGTgboUgOY7WffmSmc51dm5p_fv6O_EQagzbDp5p7fmiwa1KWgUqPHLd2NXDGlCjnMitbAJbopObcK96p2zLvk_Qg5HFq0iDe5DsKsMK4O069KZDMYLrm56qRQEBJbbM80dyY7SnzFDSzSLOib5-Ke7OvFdsMHyN5jjtCCmM6wob05OyTfGozGCRyD2j7J2H_LwPjqxTWZr5vwLf7xrjVNc7zADt53cZCrNQRLHQecZBsf5qOsjknSovlBku-WvWzlpzPJxKDcnRtPf2WxP7qrRJOo.8t-7iZjuy0lUiCJXH7CmRbreuLs8hsHEyfJYuadJ8xY%26dib_tag%3Dse%26keywords%3Dfire%2Bhydrant%26qid%3D1718980320%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjQ4NTUzMzgzMTE0ODc5OjE3MTg5ODAzMjA6c3BfYXRmOjIwMDAwMzA3NDA4NjMxMTo6MDo6&url=%2FDesign-Toscano-Hydrant-Container-Metalware%2Fdp%2FB00CW2PT28%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.v8yxTA1afBalYepkHlGTgboUgOY7WffmSmc51dm5p_fv6O_EQagzbDp5p7fmiwa1KWgUqPHLd2NXDGlCjnMitbAJbopObcK96p2zLvk_Qg5HFq0iDe5DsKsMK4O069KZDMYLrm56qRQEBJbbM80dyY7SnzFDSzSLOib5-Ke7OvFdsMHyN5jjtCCmM6wob05OyTfGozGCRyD2j7J2H_LwPjqxTWZr5vwLf7xrjVNc7zADt53cZCrNQRLHQecZBsf5qOsjknSovlBku-WvWzlpzPJxKDcnRtPf2WxP7qrRJOo.8t-7iZjuy0lUiCJXH7CmRbreuLs8hsHEyfJYuadJ8xY%26dib_tag%3Dse%26keywords%3Dfire%2Bhydrant%26qid%3D1718980320%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjQ4NTUzMzgzMTE0ODc5OjE3MTg5ODAzMjA6c3BfYXRmOjMwMDE0NDUyOTI4NTcwMjo6MDo6&url=%2FHydrant-Backyard-Outdoor-Statues-Firefighter%2Fdp%2FB08SWKWL21%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.v8yxTA1afBalYepkHlGTgboUgOY7WffmSmc51dm5p_fv6O_EQagzbDp5p7fmiwa1KWgUqPHLd2NXDGlCjnMitbAJbopObcK96p2zLvk_Qg5HFq0iDe5DsKsMK4O069KZDMYLrm56qRQEBJbbM80dyY7SnzFDSzSLOib5-Ke7OvFdsMHyN5jjtCCmM6wob05OyTfGozGCRyD2j7J2H_LwPjqxTWZr5vwLf7xrjVNc7zADt53cZCrNQRLHQecZBsf5qOsjknSovlBku-WvWzlpzPJxKDcnRtPf2WxP7qrRJOo.8t-7iZjuy0lUiCJXH7CmRbreuLs8hsHEyfJYuadJ8xY%26dib_tag%3Dse%26keywords%3Dfire%2Bhydrant%26qid%3D1718980320%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81Nuf3Rv+hL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81pHy-oVA4L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61961bK17AL._AC_UL320_.jpg"
+		]
+	},
+	"stop sign": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MjYyNDc3OTM1NDczNjE3OjE3MTg5ODAzMjc6c3BfYXRmOjIwMDEwNTIzNDM3ODE5ODo6MDo6&url=%2FOLANZU-Sign-High-Intensity-Reflective-Protected%2Fdp%2FB0B1MS9QWZ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.JHdro-fNAuN-hWgAn2LK23g8BYzCJaEN7apuB2rp6LIfM0MpBI2sBhnTnw08JEw8pqyPkJeT0Bfe5SNcdbjb-0Ze5nltNXCrSry9c1WMYPgLV4ZBjJ0zjVYbvMdrJh2Zut04pYyZDn5TWMGGBAELyx0j_eBMhgRuk-ACU_feVDwD1MrLbe1YNh_SJAfRT5i6tLpnGs1eALzHxwiNARN4XeBEoITX4mYjEv8kdBVXN1c.oYkd0Ge4REAIm-eNsMXflZwLVY2WpcTlWv5b_GJq9LU%26dib_tag%3Dse%26keywords%3Dstop%2Bsign%26qid%3D1718980326%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MjYyNDc3OTM1NDczNjE3OjE3MTg5ODAzMjc6c3BfYXRmOjMwMDI1MDA4Nzc3MDcwMjo6MDo6&url=%2Foctagonal-strength-reflective-waterproof-resistant%2Fdp%2FB0CXQ4CPNZ%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.JHdro-fNAuN-hWgAn2LK23g8BYzCJaEN7apuB2rp6LIfM0MpBI2sBhnTnw08JEw8pqyPkJeT0Bfe5SNcdbjb-0Ze5nltNXCrSry9c1WMYPgLV4ZBjJ0zjVYbvMdrJh2Zut04pYyZDn5TWMGGBAELyx0j_eBMhgRuk-ACU_feVDwD1MrLbe1YNh_SJAfRT5i6tLpnGs1eALzHxwiNARN4XeBEoITX4mYjEv8kdBVXN1c.oYkd0Ge4REAIm-eNsMXflZwLVY2WpcTlWv5b_GJq9LU%26dib_tag%3Dse%26keywords%3Dstop%2Bsign%26qid%3D1718980326%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Reflective-Warning-Aluminum-Protected-Weatherproof/dp/B0B1ZPC4D6/ref=sr_1_3?dib=eyJ2IjoiMSJ9.JHdro-fNAuN-hWgAn2LK23g8BYzCJaEN7apuB2rp6LIfM0MpBI2sBhnTnw08JEw8pqyPkJeT0Bfe5SNcdbjb-0Ze5nltNXCrSry9c1WMYPgLV4ZBjJ0zjVYbvMdrJh2Zut04pYyZDn5TWMGGBAELyx0j_eBMhgRuk-ACU_feVDwD1MrLbe1YNh_SJAfRT5i6tLpnGs1eALzHxwiNARN4XeBEoITX4mYjEv8kdBVXN1c.oYkd0Ge4REAIm-eNsMXflZwLVY2WpcTlWv5b_GJq9LU&dib_tag=se&keywords=stop+sign&qid=1718980326&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71X-TZcuJ1L._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71qhy819PuL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/51oG2tCjGwL._AC_UY218_.jpg"
+		]
+	},
+	"parking meter": {
+		"url": [
+			"https://www.amazon.com/3dRose-lsp_89014_2-Antique-Parking-Florida/dp/B00AE12NWS/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nEeum5v2KECDEZIrTfgH5CxQI0XSJwkmusWs_sUIOGeCybeDfcucww5DjVA1mJLBSOscnye6GKz2XmfLto6lxez3ZycuutW-JZSHedCX_V8y13oJMF1kmPtXSF2gKH-OGGnERu_Ivs1TrbgsizuH0RNGl7YfkHB2fL82xkagb09fHGLmIxK67MFTm5zLKLQQEmVv7Ci1QG6gqEVumwzDaHAvewqEtBua_qGUl_wgjg0SnZ4zNQbiRC_VfIom3AOCdGv3gB2-E8Pe5AFUuPFv9iIYxxFUlVWX9Nz8McIvSiw.QcosIukZx-SdnZISnxDk9KreqRvqQ1BQL_ogC8URu70&dib_tag=se&keywords=parking+meter&qid=1718980333&sr=8-1",
+			"https://www.amazon.com/3dRose-lsp_89014_2-Antique-Parking-Florida/dp/B00AE12NWS/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nEeum5v2KECDEZIrTfgH5CxQI0XSJwkmusWs_sUIOGeCybeDfcucww5DjVA1mJLBSOscnye6GKz2XmfLto6lxez3ZycuutW-JZSHedCX_V8y13oJMF1kmPtXSF2gKH-OGGnERu_Ivs1TrbgsizuH0RNGl7YfkHB2fL82xkagb09fHGLmIxK67MFTm5zLKLQQEmVv7Ci1QG6gqEVumwzDaHAvewqEtBua_qGUl_wgjg0SnZ4zNQbiRC_VfIom3AOCdGv3gB2-E8Pe5AFUuPFv9iIYxxFUlVWX9Nz8McIvSiw.QcosIukZx-SdnZISnxDk9KreqRvqQ1BQL_ogC8URu70&dib_tag=se&keywords=parking+meter&qid=1718980333&sr=8-1",
+			"https://www.amazon.com/KENMIC-EMF-Meter-Rechargeable-Electromagnetic/dp/B0CKHKYMXJ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.nEeum5v2KECDEZIrTfgH5CxQI0XSJwkmusWs_sUIOGeCybeDfcucww5DjVA1mJLBSOscnye6GKz2XmfLto6lxez3ZycuutW-JZSHedCX_V8y13oJMF1kmPtXSF2gKH-OGGnERu_Ivs1TrbgsizuH0RNGl7YfkHB2fL82xkagb09fHGLmIxK67MFTm5zLKLQQEmVv7Ci1QG6gqEVumwzDaHAvewqEtBua_qGUl_wgjg0SnZ4zNQbiRC_VfIom3AOCdGv3gB2-E8Pe5AFUuPFv9iIYxxFUlVWX9Nz8McIvSiw.QcosIukZx-SdnZISnxDk9KreqRvqQ1BQL_ogC8URu70&dib_tag=se&keywords=parking+meter&qid=1718980333&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81NvOzHDOiL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71vq2dSI18L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/8105Sg1HL7L._AC_UL320_.jpg"
+		]
+	},
+	"bench": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTY3NDg3MTE5NzYyNzkwOjE3MTg5ODAzMzk6c3BfYXRmOjIwMDAxMDUwNDU2MDAzMTo6MDo6&url=%2FAmazon-Basics-Workout-Exercise-Bench-41-3x19x17-7%2Fdp%2FB072Z1WN4S%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.SqOHWKb8qIJv2FI5e1hWwfIouXZ3Q02OUYljtKQoLKBJIdR-Rt4Fom09RnVbyGDNKYhE45JBWI9-p83nhpEkDD4Xgv9ILEhwkJeKwfvcPvCWPKjC3bVS6MU3trclOfECWUs-cUOBA5GehmlBVU79QvsEBBUJOQOal8E8v5uVAIozbh5WdYftVGA4aJBML_5JQRQWaGhHllUphk3ithK789Jcf01LFJpw3d7mqejj4oQbvTlteVO5e2bLrXWei0sfMQKQlEqWS5wGEZyl5YY64n1KsOCu9wW905N9dfT98JM.k1I2mdX1vbFHQHUUlKe1QDjV1jVx8kNeuYJF7Y-WdsA%26dib_tag%3Dse%26keywords%3Dbench%26qid%3D1718980339%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTY3NDg3MTE5NzYyNzkwOjE3MTg5ODAzMzk6c3BfYXRmOjIwMDA5NDU1MjM1Nzc4MTo6MDo6&url=%2FFLYBIRD-Adjustable-Workout-Multi-Purpose-Foldable%2Fdp%2FB07DNYSJ8W%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.SqOHWKb8qIJv2FI5e1hWwfIouXZ3Q02OUYljtKQoLKBJIdR-Rt4Fom09RnVbyGDNKYhE45JBWI9-p83nhpEkDD4Xgv9ILEhwkJeKwfvcPvCWPKjC3bVS6MU3trclOfECWUs-cUOBA5GehmlBVU79QvsEBBUJOQOal8E8v5uVAIozbh5WdYftVGA4aJBML_5JQRQWaGhHllUphk3ithK789Jcf01LFJpw3d7mqejj4oQbvTlteVO5e2bLrXWei0sfMQKQlEqWS5wGEZyl5YY64n1KsOCu9wW905N9dfT98JM.k1I2mdX1vbFHQHUUlKe1QDjV1jVx8kNeuYJF7Y-WdsA%26dib_tag%3Dse%26keywords%3Dbench%26qid%3D1718980339%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTY3NDg3MTE5NzYyNzkwOjE3MTg5ODAzMzk6c3BfYXRmOjMwMDE2MDg4MDg3ODMwMjo6MDo6&url=%2FYagud-Adjustable-Dumbbell-Exercise-Strength%2Fdp%2FB0CD1RR138%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.SqOHWKb8qIJv2FI5e1hWwfIouXZ3Q02OUYljtKQoLKBJIdR-Rt4Fom09RnVbyGDNKYhE45JBWI9-p83nhpEkDD4Xgv9ILEhwkJeKwfvcPvCWPKjC3bVS6MU3trclOfECWUs-cUOBA5GehmlBVU79QvsEBBUJOQOal8E8v5uVAIozbh5WdYftVGA4aJBML_5JQRQWaGhHllUphk3ithK789Jcf01LFJpw3d7mqejj4oQbvTlteVO5e2bLrXWei0sfMQKQlEqWS5wGEZyl5YY64n1KsOCu9wW905N9dfT98JM.k1I2mdX1vbFHQHUUlKe1QDjV1jVx8kNeuYJF7Y-WdsA%26dib_tag%3Dse%26keywords%3Dbench%26qid%3D1718980339%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/611cJ5LuVvL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71xKc97n3JL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/715quewKCPL._AC_UL320_.jpg"
+		]
+	},
+	"bird": {
+		"url": [
+			"https://www.amazon.com/Field-Guide-Birds-North-America/dp/1452174032/ref=sr_1_1?dib=eyJ2IjoiMSJ9.VMBMw5rsQEZyQ8DWX-IStkv5F2Xp4qZAvAWnDiy1Fs6He7fBCHwaNMq3QE9YungU0tmGoP28C3lUrstVvWhWCDBhr22Koee4OMa7l8t3Y3p4f7Snbcb-V74R0-MaAe3jIOIjUzlvoV-ppUZ1zEKDB1LEejrkgT0ztwRc0qWBsEKoGqMNFTfgiqQhRJEC-WneX9nEZ1JCmq3CaMsMybxdfm9igphlnzA8GXctb1Im8YI.xCPBUlbttm8Ny0O58ve8px0C8UOcd0eirot-ptzH4rQ&dib_tag=se&keywords=bird&qid=1718980345&sr=8-1",
+			"https://www.amazon.com/Field-Guide-Birds-North-America/dp/1452174032/ref=sr_1_1?dib=eyJ2IjoiMSJ9.VMBMw5rsQEZyQ8DWX-IStkv5F2Xp4qZAvAWnDiy1Fs6He7fBCHwaNMq3QE9YungU0tmGoP28C3lUrstVvWhWCDBhr22Koee4OMa7l8t3Y3p4f7Snbcb-V74R0-MaAe3jIOIjUzlvoV-ppUZ1zEKDB1LEejrkgT0ztwRc0qWBsEKoGqMNFTfgiqQhRJEC-WneX9nEZ1JCmq3CaMsMybxdfm9igphlnzA8GXctb1Im8YI.xCPBUlbttm8Ny0O58ve8px0C8UOcd0eirot-ptzH4rQ&dib_tag=se&keywords=bird&qid=1718980345&sr=8-1",
+			"https://www.amazon.com/Field-Guide-Birds-North-America/dp/1452174032/ref=sr_1_1?dib=eyJ2IjoiMSJ9.VMBMw5rsQEZyQ8DWX-IStkv5F2Xp4qZAvAWnDiy1Fs6He7fBCHwaNMq3QE9YungU0tmGoP28C3lUrstVvWhWCDBhr22Koee4OMa7l8t3Y3p4f7Snbcb-V74R0-MaAe3jIOIjUzlvoV-ppUZ1zEKDB1LEejrkgT0ztwRc0qWBsEKoGqMNFTfgiqQhRJEC-WneX9nEZ1JCmq3CaMsMybxdfm9igphlnzA8GXctb1Im8YI.xCPBUlbttm8Ny0O58ve8px0C8UOcd0eirot-ptzH4rQ&dib_tag=se&keywords=bird&qid=1718980345&sr=8-1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71Yq96HGKlL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71g0+XUidzL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81u5GVzzozL._AC_UY218_.jpg"
+		]
+	},
+	"cat": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3ODI1NzEzMzQ5NDU2MDE4OjE3MTg5ODAzNTE6c3BfYXRmOjIwMDAxMzExOTg3NzQyMTo6MDo6&url=%2FAmazonBasics-Litter-Pads-Unscented-40-Count%2Fdp%2FB07K8Y256B%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.qE8bE1mKWuOjTasjC5WKkmiI2Lq-HhPt_7JNMZqrtIHlMXFHxizHNjbFgOp16v-7k2jRWVCcDc1ADDPKzanRyRCFDJoIuNu1oarB95NmzXBLuzoZaOuwXYlpV7Kmznjump6vU_USvTViDaCIVItQrEqGgRDVXCOmNOHgze61ozDD_9pKtamuXnebFDWg7SLsC99wQ2IJQJnDPmeSsfvG5ttlGeluLI7O3s5NaAmtojgoj_8vw7FswjcrU9rHjp5ZNgOxlrA2R8ydCjT3-PCHfYVtTUpExEDpiauVT0Gq-k0.tx74cPixBp7CURxcvpoaCcqaBbKHJW7ZFJDoIM7yNY0%26dib_tag%3Dse%26keywords%3Dcat%26qid%3D1718980351%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3ODI1NzEzMzQ5NDU2MDE4OjE3MTg5ODAzNTE6c3BfYXRmOjIwMDAxMzExOTg3NzQyMTo6MDo6&url=%2FAmazonBasics-Litter-Pads-Unscented-40-Count%2Fdp%2FB07K8Y256B%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.qE8bE1mKWuOjTasjC5WKkmiI2Lq-HhPt_7JNMZqrtIHlMXFHxizHNjbFgOp16v-7k2jRWVCcDc1ADDPKzanRyRCFDJoIuNu1oarB95NmzXBLuzoZaOuwXYlpV7Kmznjump6vU_USvTViDaCIVItQrEqGgRDVXCOmNOHgze61ozDD_9pKtamuXnebFDWg7SLsC99wQ2IJQJnDPmeSsfvG5ttlGeluLI7O3s5NaAmtojgoj_8vw7FswjcrU9rHjp5ZNgOxlrA2R8ydCjT3-PCHfYVtTUpExEDpiauVT0Gq-k0.tx74cPixBp7CURxcvpoaCcqaBbKHJW7ZFJDoIM7yNY0%26dib_tag%3Dse%26keywords%3Dcat%26qid%3D1718980351%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Veken-Fountain-Automatic-Dispenser-Replacement/dp/B08NCDBT7Q/ref=sr_1_2?dib=eyJ2IjoiMSJ9.qE8bE1mKWuOjTasjC5WKkmiI2Lq-HhPt_7JNMZqrtIHlMXFHxizHNjbFgOp16v-7k2jRWVCcDc1ADDPKzanRyRCFDJoIuNu1oarB95NmzXBLuzoZaOuwXYlpV7Kmznjump6vU_USvTViDaCIVItQrEqGgRDVXCOmNOHgze61ozDD_9pKtamuXnebFDWg7SLsC99wQ2IJQJnDPmeSsfvG5ttlGeluLI7O3s5NaAmtojgoj_8vw7FswjcrU9rHjp5ZNgOxlrA2R8ydCjT3-PCHfYVtTUpExEDpiauVT0Gq-k0.tx74cPixBp7CURxcvpoaCcqaBbKHJW7ZFJDoIM7yNY0&dib_tag=se&keywords=cat&qid=1718980351&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81nxIbSrUIL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61UWSf70HiL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71s7u9TEKZL._AC_UL320_.jpg"
+		]
+	},
+	"dog": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NTYzMDczNzcxODA3NTYwOjE3MTg5ODAzNTg6c3BfYXRmOjIwMDExNDQ1ODQxNjA5ODo6MDo6&url=%2FHairbrush-for-pets-cepillo-mantequilla%2Fdp%2FB0BLJFK26B%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.MaEQjoMogN01-pB8aqTUNhGw_WgckLMKbdGz0TfSX5f-zthy4iV_h01OXdKA0Ekb-MP6noyjxiqHn1894N_qHi3gYvETI1nXbvGai8TM_yXsRMf9dEBnJQRTADtQMeMW-wPKEnOeoKvNxcsWBiVpS5TCb_izTdSqmuQ5i_mfIlxAYZC5W_27AkBJpBHdhyOyMvgF1H6q7nOuafZuGBwmtnfGFmtzEruCdsWnbcMnI-2GLLAw6F8KPpFCWb691E_bopjZ1j2zc24moH04h0BEUxjYfibxV-E_NwhKiCMYuEU.elBqCg7gVzEM2t0bLAldlyuHEfqfGs85LyaBNuQ9l6M%26dib_tag%3Dse%26keywords%3Ddog%26qid%3D1718980358%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NTYzMDczNzcxODA3NTYwOjE3MTg5ODAzNTg6c3BfYXRmOjIwMDExNDQ1ODQxNjA5ODo6MDo6&url=%2FHairbrush-for-pets-cepillo-mantequilla%2Fdp%2FB0BLJFK26B%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.MaEQjoMogN01-pB8aqTUNhGw_WgckLMKbdGz0TfSX5f-zthy4iV_h01OXdKA0Ekb-MP6noyjxiqHn1894N_qHi3gYvETI1nXbvGai8TM_yXsRMf9dEBnJQRTADtQMeMW-wPKEnOeoKvNxcsWBiVpS5TCb_izTdSqmuQ5i_mfIlxAYZC5W_27AkBJpBHdhyOyMvgF1H6q7nOuafZuGBwmtnfGFmtzEruCdsWnbcMnI-2GLLAw6F8KPpFCWb691E_bopjZ1j2zc24moH04h0BEUxjYfibxV-E_NwhKiCMYuEU.elBqCg7gVzEM2t0bLAldlyuHEfqfGs85LyaBNuQ9l6M%26dib_tag%3Dse%26keywords%3Ddog%26qid%3D1718980358%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NTYzMDczNzcxODA3NTYwOjE3MTg5ODAzNTg6c3BfYXRmOjMwMDE3MDQzNzI3NjkwMjo6MDo6&url=%2FFurtent-Shoulder-Support-Hygroma-Dysplasia%2Fdp%2FB0CRHKYB8V%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.MaEQjoMogN01-pB8aqTUNhGw_WgckLMKbdGz0TfSX5f-zthy4iV_h01OXdKA0Ekb-MP6noyjxiqHn1894N_qHi3gYvETI1nXbvGai8TM_yXsRMf9dEBnJQRTADtQMeMW-wPKEnOeoKvNxcsWBiVpS5TCb_izTdSqmuQ5i_mfIlxAYZC5W_27AkBJpBHdhyOyMvgF1H6q7nOuafZuGBwmtnfGFmtzEruCdsWnbcMnI-2GLLAw6F8KPpFCWb691E_bopjZ1j2zc24moH04h0BEUxjYfibxV-E_NwhKiCMYuEU.elBqCg7gVzEM2t0bLAldlyuHEfqfGs85LyaBNuQ9l6M%26dib_tag%3Dse%26keywords%3Ddog%26qid%3D1718980358%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61Eznu9hzgL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71zfQn5uKKL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81IrezYbSFL._AC_UL320_.jpg"
+		]
+	},
+	"horse": {
+		"url": [
+			"https://www.amazon.com/Horse-Novel-Geraldine-Brooks-ebook/dp/B09G9D94VW/ref=sr_1_1?dib=eyJ2IjoiMSJ9.X18Pyj6Qb-FNm02bWGGW3P7eEjy0PGdlqJiv1yPVbk_icl4r77Fyk84kG2AmSe8aCoKKB0dV4rjqMqEJlyvEUpj0FnoEzEPSgTxKjFVQw7GNLAb_V3dMyR-p-xL-NIQq3IQdnLVw13zxzo_Xx-4WBvzPv498meNdlNagIRe8vHlr_CRyhubW39KAqrH1NWzeQBMb9Oj_QrA5G1rOFzUhigAWxyxPQAeEXdlsZ0hhWXcZCGDZESgSyIDDLMMuN4t5jFMCgCL1OFRWY6wztldZDhbyb1WwU_YYZQ2ZZ4C_vZ0.BUAwfOPT0zC9Axg6SBdTIBx528M674zey2Rg0b0dSb0&dib_tag=se&keywords=horse&qid=1718980365&sr=8-1",
+			"https://www.amazon.com/Horse-Novel-Geraldine-Brooks-ebook/dp/B09G9D94VW/ref=sr_1_1?dib=eyJ2IjoiMSJ9.X18Pyj6Qb-FNm02bWGGW3P7eEjy0PGdlqJiv1yPVbk_icl4r77Fyk84kG2AmSe8aCoKKB0dV4rjqMqEJlyvEUpj0FnoEzEPSgTxKjFVQw7GNLAb_V3dMyR-p-xL-NIQq3IQdnLVw13zxzo_Xx-4WBvzPv498meNdlNagIRe8vHlr_CRyhubW39KAqrH1NWzeQBMb9Oj_QrA5G1rOFzUhigAWxyxPQAeEXdlsZ0hhWXcZCGDZESgSyIDDLMMuN4t5jFMCgCL1OFRWY6wztldZDhbyb1WwU_YYZQ2ZZ4C_vZ0.BUAwfOPT0zC9Axg6SBdTIBx528M674zey2Rg0b0dSb0&dib_tag=se&keywords=horse&qid=1718980365&sr=8-1",
+			"https://www.amazon.com/Terra-Battat-Playset-Detailed-Miniature/dp/B08C2H28CV/ref=sr_1_2?dib=eyJ2IjoiMSJ9.X18Pyj6Qb-FNm02bWGGW3P7eEjy0PGdlqJiv1yPVbk_icl4r77Fyk84kG2AmSe8aCoKKB0dV4rjqMqEJlyvEUpj0FnoEzEPSgTxKjFVQw7GNLAb_V3dMyR-p-xL-NIQq3IQdnLVw13zxzo_Xx-4WBvzPv498meNdlNagIRe8vHlr_CRyhubW39KAqrH1NWzeQBMb9Oj_QrA5G1rOFzUhigAWxyxPQAeEXdlsZ0hhWXcZCGDZESgSyIDDLMMuN4t5jFMCgCL1OFRWY6wztldZDhbyb1WwU_YYZQ2ZZ4C_vZ0.BUAwfOPT0zC9Axg6SBdTIBx528M674zey2Rg0b0dSb0&dib_tag=se&keywords=horse&qid=1718980365&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71qkmRaUHxL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71J-rUwblwL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/8123ThxxcML._AC_UL320_.jpg"
+		]
+	},
+	"sheep": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTg3MjE4MjQwMTg2NzI5OjE3MTg5ODAzNzI6c3BfYXRmOjIwMDA0ODA3NDU1NTg5ODo6MDo6&url=%2FFurvana-Plushies-Stuffed-Sleeping-Birthday%2Fdp%2FB09QM2QX7F%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.-USUfK4-Zu3MYS-QRFg7hLgJPTE5zXFIfjCwiAhQPXeDgDr-I3y8Ao-DUof0iXEXEsyXYIWAeIG-RC3ABNUtfQz0D60MlMYLbDpb7DNBYPiBuyMYdnIUxmk7UJTRkOjgem6ie6IUtI6x168eu6JdE7yK2Dl9rlJBSRLEeFXy3Eti0ED5l6qUUmbfrJ7JwZ2Y7qpBhLYLASf1s-XyTddVQSriN973xHbtxu7qI3CCnudPb2ppb2Xugn3JKS5aeiUiDnpOfWXFubDobaFXwACXTrXjJaSzRG_MascvwgYFhHk.ejvss2EGB2BgqTEzI6moDQb6vquEjC4ww_E05V5-EjQ%26dib_tag%3Dse%26keywords%3Dsheep%26qid%3D1718980372%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Guiqulai-Miniature-Figurines-Ornaments-Accessories/dp/B0CPJB6X96/ref=sr_1_2?dib=eyJ2IjoiMSJ9.-USUfK4-Zu3MYS-QRFg7hLgJPTE5zXFIfjCwiAhQPXeDgDr-I3y8Ao-DUof0iXEXEsyXYIWAeIG-RC3ABNUtfQz0D60MlMYLbDpb7DNBYPiBuyMYdnIUxmk7UJTRkOjgem6ie6IUtI6x168eu6JdE7yK2Dl9rlJBSRLEeFXy3Eti0ED5l6qUUmbfrJ7JwZ2Y7qpBhLYLASf1s-XyTddVQSriN973xHbtxu7qI3CCnudPb2ppb2Xugn3JKS5aeiUiDnpOfWXFubDobaFXwACXTrXjJaSzRG_MascvwgYFhHk.ejvss2EGB2BgqTEzI6moDQb6vquEjC4ww_E05V5-EjQ&dib_tag=se&keywords=sheep&qid=1718980372&sr=8-2",
+			"https://www.amazon.com/Aurora%C2%AE-Adorable-Miyoni%C2%AE-Stuffed-Animal/dp/B00HAYRQ42/ref=sr_1_3?dib=eyJ2IjoiMSJ9.-USUfK4-Zu3MYS-QRFg7hLgJPTE5zXFIfjCwiAhQPXeDgDr-I3y8Ao-DUof0iXEXEsyXYIWAeIG-RC3ABNUtfQz0D60MlMYLbDpb7DNBYPiBuyMYdnIUxmk7UJTRkOjgem6ie6IUtI6x168eu6JdE7yK2Dl9rlJBSRLEeFXy3Eti0ED5l6qUUmbfrJ7JwZ2Y7qpBhLYLASf1s-XyTddVQSriN973xHbtxu7qI3CCnudPb2ppb2Xugn3JKS5aeiUiDnpOfWXFubDobaFXwACXTrXjJaSzRG_MascvwgYFhHk.ejvss2EGB2BgqTEzI6moDQb6vquEjC4ww_E05V5-EjQ&dib_tag=se&keywords=sheep&qid=1718980372&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61XHaREPS8L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71dIywoJPaL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71Yhvil0SvL._AC_UL320_.jpg"
+		]
+	},
+	"cow": {
+		"url": [
+			"https://www.amazon.com/Boston-Warehouse-66618-Non-Skid-Silicone/dp/B07QC4GGGC/ref=sr_1_1?dib=eyJ2IjoiMSJ9.3HSUJ1zfOC3yfbUQOlK44wRuH6dZjgn2nKnj0kjAOkE6u1X7Li9K1cPLlhkn6815q3WcXQD4G8WFSN4ehvO9DCnTGUlm3oaBNHzrubccXl-icWcJsl0-r4gtWOgYXFv7biwG4LlYw8edOC1sp4LDMNRdntUIPW07h1j2gzSj-WKf60z6GL2hAsmyVY_NnyoUDO4ZDU3pstJj0P-JRG0VPMLQLRvw1D6GeYlrcCtRSinvbXBRtQ1EsntlkUmKn1J52ppxwrUP5w3D6gAT6OzLqZRaSQ093TM9WB_t4ArPoc4.3HSmgrhCFxIBrxR2MlXEFvfVBocHSQSShSLsOJBZ8yo&dib_tag=se&keywords=cow&qid=1718980378&sr=8-1",
+			"https://www.amazon.com/Boston-Warehouse-66618-Non-Skid-Silicone/dp/B07QC4GGGC/ref=sr_1_1?dib=eyJ2IjoiMSJ9.3HSUJ1zfOC3yfbUQOlK44wRuH6dZjgn2nKnj0kjAOkE6u1X7Li9K1cPLlhkn6815q3WcXQD4G8WFSN4ehvO9DCnTGUlm3oaBNHzrubccXl-icWcJsl0-r4gtWOgYXFv7biwG4LlYw8edOC1sp4LDMNRdntUIPW07h1j2gzSj-WKf60z6GL2hAsmyVY_NnyoUDO4ZDU3pstJj0P-JRG0VPMLQLRvw1D6GeYlrcCtRSinvbXBRtQ1EsntlkUmKn1J52ppxwrUP5w3D6gAT6OzLqZRaSQ093TM9WB_t4ArPoc4.3HSmgrhCFxIBrxR2MlXEFvfVBocHSQSShSLsOJBZ8yo&dib_tag=se&keywords=cow&qid=1718980378&sr=8-1",
+			"https://www.amazon.com/Blanket-Flannel-Lightweight-Blankets-Bedding/dp/B0BQC92ZGV/ref=sr_1_2?dib=eyJ2IjoiMSJ9.3HSUJ1zfOC3yfbUQOlK44wRuH6dZjgn2nKnj0kjAOkE6u1X7Li9K1cPLlhkn6815q3WcXQD4G8WFSN4ehvO9DCnTGUlm3oaBNHzrubccXl-icWcJsl0-r4gtWOgYXFv7biwG4LlYw8edOC1sp4LDMNRdntUIPW07h1j2gzSj-WKf60z6GL2hAsmyVY_NnyoUDO4ZDU3pstJj0P-JRG0VPMLQLRvw1D6GeYlrcCtRSinvbXBRtQ1EsntlkUmKn1J52ppxwrUP5w3D6gAT6OzLqZRaSQ093TM9WB_t4ArPoc4.3HSmgrhCFxIBrxR2MlXEFvfVBocHSQSShSLsOJBZ8yo&dib_tag=se&keywords=cow&qid=1718980378&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71z43kjTDJL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71C2ONE8qFL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71DTpyEC3eL._AC_UL320_.jpg"
+		]
+	},
+	"elephant": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MjY0MDg5NjY0NDUzMTQ4OjE3MTg5ODAzODY6c3BfYXRmOjMwMDE1Njc1MzkyOTAwMjo6MDo6&url=%2FMAIBAOTA-Elephant-Bracelet-Motivational-Bracelets%2Fdp%2FB0CNT6NK8T%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.mwCcVTgwVxsl2fsGb3WdcCQCUE9OeVC_dI8SvvaNcpukZnK7UnlJB3U9q6YYNIUKKlnG4GrNKFOxdkL_9oyYSeSbsWFyQIUr_ozuEerODCAkriW0L7HsT6ZcvPSXqHdzL0YGm8BncObQUymrOyfZkdiKzjl8oe68iFreYKrMbfzkQsmURWbfykz6c2rIDOTD09v3g-IkgtUUDL4b8UaQxNyc_1BhXq2xwOoot9B6i5G1u_C-8Go48ma5lO48c-31PXCy237tNM7CCbQ16dStrras9Ik7a3FgE41eXXDgBsg.E76moc5nGhxrBRd62DhumKsvBFpG8_mdFD9LUoB4-Xc%26dib_tag%3Dse%26keywords%3Delephant%26qid%3D1718980386%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MjY0MDg5NjY0NDUzMTQ4OjE3MTg5ODAzODY6c3BfYXRmOjMwMDE1Njc1MzkyOTAwMjo6MDo6&url=%2FMAIBAOTA-Elephant-Bracelet-Motivational-Bracelets%2Fdp%2FB0CNT6NK8T%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.mwCcVTgwVxsl2fsGb3WdcCQCUE9OeVC_dI8SvvaNcpukZnK7UnlJB3U9q6YYNIUKKlnG4GrNKFOxdkL_9oyYSeSbsWFyQIUr_ozuEerODCAkriW0L7HsT6ZcvPSXqHdzL0YGm8BncObQUymrOyfZkdiKzjl8oe68iFreYKrMbfzkQsmURWbfykz6c2rIDOTD09v3g-IkgtUUDL4b8UaQxNyc_1BhXq2xwOoot9B6i5G1u_C-8Go48ma5lO48c-31PXCy237tNM7CCbQ16dStrras9Ik7a3FgE41eXXDgBsg.E76moc5nGhxrBRd62DhumKsvBFpG8_mdFD9LUoB4-Xc%26dib_tag%3Dse%26keywords%3Delephant%26qid%3D1718980386%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MjY0MDg5NjY0NDUzMTQ4OjE3MTg5ODAzODY6c3BfYXRmOjMwMDE5ODk4MDMxMzAwMjo6MDo6&url=%2FXINXUAN-Elephant-Bookshelf-Decorations-Statue%2Fdp%2FB0BQR1LQVV%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.mwCcVTgwVxsl2fsGb3WdcCQCUE9OeVC_dI8SvvaNcpukZnK7UnlJB3U9q6YYNIUKKlnG4GrNKFOxdkL_9oyYSeSbsWFyQIUr_ozuEerODCAkriW0L7HsT6ZcvPSXqHdzL0YGm8BncObQUymrOyfZkdiKzjl8oe68iFreYKrMbfzkQsmURWbfykz6c2rIDOTD09v3g-IkgtUUDL4b8UaQxNyc_1BhXq2xwOoot9B6i5G1u_C-8Go48ma5lO48c-31PXCy237tNM7CCbQ16dStrras9Ik7a3FgE41eXXDgBsg.E76moc5nGhxrBRd62DhumKsvBFpG8_mdFD9LUoB4-Xc%26dib_tag%3Dse%26keywords%3Delephant%26qid%3D1718980386%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/91SNJwraDXL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/6177vxVYb0L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71+vDqTAFkL._AC_UL320_.jpg"
+		]
+	},
+	"bear": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MTMxOTA4OTg2NzQ4MzE4OjE3MTg5ODAzOTE6c3BfYXRmOjMwMDI0MDI3OTU5NjUwMjo6MDo6&url=%2FKingdom-Stuffed-Adorable-Animals-Plushies%2Fdp%2FB099MS7ZS8%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.Mrd2RWUehKK9HvNDHePV3J784LRWauZC-LZzCfIqMtyZUr_95UBtx8cW5RCf-5WQ29pjyJcCEmpBCO6JC34idLcpkqWLh9K2qLrQqtJ_RIUDVz2zAgNdlWKy38jL8SkFXPHND6pgU9GB8a8jkCSukv_bZ-kJ74paTAtD9CkUGurXrroqHNdTPKVy754gQwN5WaphAUfj4OdFumOFeTNR75TLLfEaE2pHSlAHY1hoXkM.XDywMYsdvH7hbssrTdgJEqkX7Qcal7R2AfxkgXb6oiQ%26dib_tag%3Dse%26keywords%3Dbear%26qid%3D1718980391%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/DOLDOA-Giant-Stuffed-Animals-Girlfriend/dp/B07YJJ9LPR/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Mrd2RWUehKK9HvNDHePV3J784LRWauZC-LZzCfIqMtyZUr_95UBtx8cW5RCf-5WQ29pjyJcCEmpBCO6JC34idLcpkqWLh9K2qLrQqtJ_RIUDVz2zAgNdlWKy38jL8SkFXPHND6pgU9GB8a8jkCSukv_bZ-kJ74paTAtD9CkUGurXrroqHNdTPKVy754gQwN5WaphAUfj4OdFumOFeTNR75TLLfEaE2pHSlAHY1hoXkM.XDywMYsdvH7hbssrTdgJEqkX7Qcal7R2AfxkgXb6oiQ&dib_tag=se&keywords=bear&qid=1718980391&sr=8-2",
+			"https://www.amazon.com/inches-Teddy-Stuffed-Animals-Hoodie/dp/B0BYSMYZC5/ref=sr_1_3?dib=eyJ2IjoiMSJ9.Mrd2RWUehKK9HvNDHePV3J784LRWauZC-LZzCfIqMtyZUr_95UBtx8cW5RCf-5WQ29pjyJcCEmpBCO6JC34idLcpkqWLh9K2qLrQqtJ_RIUDVz2zAgNdlWKy38jL8SkFXPHND6pgU9GB8a8jkCSukv_bZ-kJ74paTAtD9CkUGurXrroqHNdTPKVy754gQwN5WaphAUfj4OdFumOFeTNR75TLLfEaE2pHSlAHY1hoXkM.XDywMYsdvH7hbssrTdgJEqkX7Qcal7R2AfxkgXb6oiQ&dib_tag=se&keywords=bear&qid=1718980391&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61DBuG8KLDL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71rqdQg0TiL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71PR9viOT-L._AC_UY218_.jpg"
+		]
+	},
+	"zebra": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODM1MDQyNjU5NzM1ODg3OjE3MTg5ODAzOTg6c3BfYXRmOjIwMDAzMTkxMjIzOTMxMTo6MDo6&url=%2FZebra-Pen-Mildliner-Highlighter-Fluorescent%2Fdp%2FB07C1BRS5N%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.DDtXZ4OlpsBnLWOieX1hr6EFJgzbzVTq1dtV2i-jt1xc8kg990jjViMJKtC3rBTvc8OpIwV9nAdeuP7OwoYmK55WQpGe8bT6ogRS555IjAvs7xfDKfswHh7wXkyT72-SvhmdwBzRdGXD8atlTGAS-QrHyruGGCuhRcBP1bkJXIb4BCxKy-d2YXrN0dgKg1imx60pZy30bC1w9H_z0Az95SMjqhNxvlh89lwnXWGAVpRidj9cg5YnSpYenWP9KiTe_acfTIhXiN_2GFCvVYQeAIqdjCEb7XvjdQLGbynOa5A.1B0R5k36nUg2diXN43y5dvy8XsUxiDWh3Pd4kOQmANQ%26dib_tag%3Dse%26keywords%3Dzebra%26qid%3D1718980398%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODM1MDQyNjU5NzM1ODg3OjE3MTg5ODAzOTg6c3BfYXRmOjIwMDAzMTkxMjIzOTMxMTo6MDo6&url=%2FZebra-Pen-Mildliner-Highlighter-Fluorescent%2Fdp%2FB07C1BRS5N%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.DDtXZ4OlpsBnLWOieX1hr6EFJgzbzVTq1dtV2i-jt1xc8kg990jjViMJKtC3rBTvc8OpIwV9nAdeuP7OwoYmK55WQpGe8bT6ogRS555IjAvs7xfDKfswHh7wXkyT72-SvhmdwBzRdGXD8atlTGAS-QrHyruGGCuhRcBP1bkJXIb4BCxKy-d2YXrN0dgKg1imx60pZy30bC1w9H_z0Az95SMjqhNxvlh89lwnXWGAVpRidj9cg5YnSpYenWP9KiTe_acfTIhXiN_2GFCvVYQeAIqdjCEb7XvjdQLGbynOa5A.1B0R5k36nUg2diXN43y5dvy8XsUxiDWh3Pd4kOQmANQ%26dib_tag%3Dse%26keywords%3Dzebra%26qid%3D1718980398%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Transfer-Industrial-Ethernet-Bluetooth-ZT41142-T010000Z/dp/B089C6G38K/ref=sr_1_2?dib=eyJ2IjoiMSJ9.DDtXZ4OlpsBnLWOieX1hr6EFJgzbzVTq1dtV2i-jt1xc8kg990jjViMJKtC3rBTvc8OpIwV9nAdeuP7OwoYmK55WQpGe8bT6ogRS555IjAvs7xfDKfswHh7wXkyT72-SvhmdwBzRdGXD8atlTGAS-QrHyruGGCuhRcBP1bkJXIb4BCxKy-d2YXrN0dgKg1imx60pZy30bC1w9H_z0Az95SMjqhNxvlh89lwnXWGAVpRidj9cg5YnSpYenWP9KiTe_acfTIhXiN_2GFCvVYQeAIqdjCEb7XvjdQLGbynOa5A.1B0R5k36nUg2diXN43y5dvy8XsUxiDWh3Pd4kOQmANQ&dib_tag=se&keywords=zebra&qid=1718980398&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71exucShOzL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71Z+dY0eWOL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71TwBZ1BIpL._AC_UL320_.jpg"
+		]
+	},
+	"giraffe": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTg1ODU1NzYzOTE0MjQyOjE3MTg5ODA0MDQ6c3BfYXRmOjMwMDE1MDU4Mjg4MTEwMjo6MDo6&url=%2FGiraffe-Mounted-Retractable-Automatic-180%25C2%25B0Swivel%2Fdp%2FB084VLRC9D%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.ys4tPkBtBanDo5-knaHHJ6Dr2SxLdYjqzWHQBKCOrFVmLGMeHLJla_Kgf57p0d7xNdN6_rtLyBqcmb431H-8uKMWAWo1_9OlkWJC8jtOSwGxWAkhLX1sgyUaJlH4v6yiPJ3i6ZvNqG3ob3w-cd11-YlHs55f49jCCOxdFZzLrIawwbcL6bLh_Qz6VaNbZW1sbTRMIfCi1vwDXy-Z29d2iJVS2NnlYH9PWkDZpys_vdqJMGPOpOG8uke6ymG1zImWoIXb2ZrEABXRMbUlTEG8pix2yB8NQEx7WLno2uyBJNU.jmLK1-UqY5h9_Ko6uADhrP0V4K_j7584jATCvlkhuR8%26dib_tag%3Dse%26keywords%3Dgiraffe%26qid%3D1718980404%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTg1ODU1NzYzOTE0MjQyOjE3MTg5ODA0MDQ6c3BfYXRmOjIwMDE2NzM2NTc3MDk5ODo6MDo6&url=%2FWassmin-Stainless-Insulated-Tumblers-Christmas%2Fdp%2FB0BRMZ38SV%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.ys4tPkBtBanDo5-knaHHJ6Dr2SxLdYjqzWHQBKCOrFVmLGMeHLJla_Kgf57p0d7xNdN6_rtLyBqcmb431H-8uKMWAWo1_9OlkWJC8jtOSwGxWAkhLX1sgyUaJlH4v6yiPJ3i6ZvNqG3ob3w-cd11-YlHs55f49jCCOxdFZzLrIawwbcL6bLh_Qz6VaNbZW1sbTRMIfCi1vwDXy-Z29d2iJVS2NnlYH9PWkDZpys_vdqJMGPOpOG8uke6ymG1zImWoIXb2ZrEABXRMbUlTEG8pix2yB8NQEx7WLno2uyBJNU.jmLK1-UqY5h9_Ko6uADhrP0V4K_j7584jATCvlkhuR8%26dib_tag%3Dse%26keywords%3Dgiraffe%26qid%3D1718980404%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTg1ODU1NzYzOTE0MjQyOjE3MTg5ODA0MDQ6c3BfYXRmOjIwMDE2NzM2NTc3MDk5ODo6MDo6&url=%2FWassmin-Stainless-Insulated-Tumblers-Christmas%2Fdp%2FB0BRMZ38SV%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.ys4tPkBtBanDo5-knaHHJ6Dr2SxLdYjqzWHQBKCOrFVmLGMeHLJla_Kgf57p0d7xNdN6_rtLyBqcmb431H-8uKMWAWo1_9OlkWJC8jtOSwGxWAkhLX1sgyUaJlH4v6yiPJ3i6ZvNqG3ob3w-cd11-YlHs55f49jCCOxdFZzLrIawwbcL6bLh_Qz6VaNbZW1sbTRMIfCi1vwDXy-Z29d2iJVS2NnlYH9PWkDZpys_vdqJMGPOpOG8uke6ymG1zImWoIXb2ZrEABXRMbUlTEG8pix2yB8NQEx7WLno2uyBJNU.jmLK1-UqY5h9_Ko6uADhrP0V4K_j7584jATCvlkhuR8%26dib_tag%3Dse%26keywords%3Dgiraffe%26qid%3D1718980404%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61Ttvzh5l5L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/712CmWY0y4L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61wcL6RhOrL._AC_UL320_.jpg"
+		]
+	},
+	"backpack": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNzk4NTA1MDAyNDIzMzQ4OjE3MTg5ODA0MTE6c3BfYXRmOjMwMDA2MzA2NzA5MTYwMjo6MDo6&url=%2FCarhartt-Unisex-Essentials-Backpack-17-Inch%2Fdp%2FB08X2H4598%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.j81jf02MzIFB5Eb-wEBqmUlt0S1734_rCk0mbj-dE9B0oU_IMfFlV3ox1qpKnpSXq8n_G2wahlhmVZNI0iIni2eBfig6VtNeHam2N68uu3KHJ7OvzCQG-xf4NBCZY6rvSGWr7HDzLQyvrHpX1VmIq5cD-RenWJO8L3ILsMIUEesHEsccfZvku-SUqPpRE1ssR7tnt-RanqMUVHP0MZefILy2LPr8h1ygRjG22BkD-XQ.SU97jKfSsynPDFIcM37WMWC9MPlk7xpbZ5hizMNcQT4%26dib_tag%3Dse%26keywords%3Dbackpack%26qid%3D1718980411%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNzk4NTA1MDAyNDIzMzQ4OjE3MTg5ODA0MTE6c3BfYXRmOjMwMDA2MzA2NzA5MTYwMjo6MDo6&url=%2FCarhartt-Unisex-Essentials-Backpack-17-Inch%2Fdp%2FB08X2H4598%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.j81jf02MzIFB5Eb-wEBqmUlt0S1734_rCk0mbj-dE9B0oU_IMfFlV3ox1qpKnpSXq8n_G2wahlhmVZNI0iIni2eBfig6VtNeHam2N68uu3KHJ7OvzCQG-xf4NBCZY6rvSGWr7HDzLQyvrHpX1VmIq5cD-RenWJO8L3ILsMIUEesHEsccfZvku-SUqPpRE1ssR7tnt-RanqMUVHP0MZefILy2LPr8h1ygRjG22BkD-XQ.SU97jKfSsynPDFIcM37WMWC9MPlk7xpbZ5hizMNcQT4%26dib_tag%3Dse%26keywords%3Dbackpack%26qid%3D1718980411%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNzk4NTA1MDAyNDIzMzQ4OjE3MTg5ODA0MTE6c3BfYXRmOjIwMDAwNzM2NzgzOTc4MTo6MDo6&url=%2FBackpack-Business-Charging-Resistant-Computer%2Fdp%2FB06XZTZ7GB%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.j81jf02MzIFB5Eb-wEBqmUlt0S1734_rCk0mbj-dE9B0oU_IMfFlV3ox1qpKnpSXq8n_G2wahlhmVZNI0iIni2eBfig6VtNeHam2N68uu3KHJ7OvzCQG-xf4NBCZY6rvSGWr7HDzLQyvrHpX1VmIq5cD-RenWJO8L3ILsMIUEesHEsccfZvku-SUqPpRE1ssR7tnt-RanqMUVHP0MZefILy2LPr8h1ygRjG22BkD-XQ.SU97jKfSsynPDFIcM37WMWC9MPlk7xpbZ5hizMNcQT4%26dib_tag%3Dse%26keywords%3Dbackpack%26qid%3D1718980411%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1%26smid%3DA1PQG4T5PZRJDI"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/918Oo+pbysL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81OFxhFWmML._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81OFxhFWmML._AC_UY218_.jpg"
+		]
+	},
+	"umbrella": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0OTM4NTIzNzk3MzAwODc5OjE3MTg5ODA0MTg6c3BfYXRmOjIwMDA1NDcwOTc3NDMyMTo6MDo6&url=%2FSiepasa-Windproof-Waterproof-Lightweight-Umbrellas%2Fdp%2FB078PD34VG%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.TNRfS7l_FdH-5OaLTYvTTabWP40T0Qwr5Ttyfd6C-Dlo5rBW9DYAvcTLBUVeSj8-_QlDRtadBiz20KGlY2mZLZCotwWw8fTcxkBC00VQOcXduNQ7mcauxkYP-3oIZS8wWfHi-CpVBD1vu9vX6Yro7ubiXUQ9pH1XvMfCq0VdydB7rARlu79bFUuQPEdlbyLWutfZAFMfOY6-4yAa1eBda9ZiOKwN0NMm46Q-pgXoc9KqvaNC8ABcoUO356X--HovJYRR3GB3cht7VNps3ACxbeFAXZvBf8cS8RjzHQtqcOY.5J_ChMfOhmoLq3C81DNd55qU0sUOrLA1e2ITq-FKlBc%26dib_tag%3Dse%26keywords%3Dumbrella%26qid%3D1718980418%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0OTM4NTIzNzk3MzAwODc5OjE3MTg5ODA0MTg6c3BfYXRmOjIwMDAyOTM5ODg5NzAyMTo6MDo6&url=%2FInverted-Umbrella-C-Shaped-Waterproof-Windproof%2Fdp%2FB071ZRMLWB%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.TNRfS7l_FdH-5OaLTYvTTabWP40T0Qwr5Ttyfd6C-Dlo5rBW9DYAvcTLBUVeSj8-_QlDRtadBiz20KGlY2mZLZCotwWw8fTcxkBC00VQOcXduNQ7mcauxkYP-3oIZS8wWfHi-CpVBD1vu9vX6Yro7ubiXUQ9pH1XvMfCq0VdydB7rARlu79bFUuQPEdlbyLWutfZAFMfOY6-4yAa1eBda9ZiOKwN0NMm46Q-pgXoc9KqvaNC8ABcoUO356X--HovJYRR3GB3cht7VNps3ACxbeFAXZvBf8cS8RjzHQtqcOY.5J_ChMfOhmoLq3C81DNd55qU0sUOrLA1e2ITq-FKlBc%26dib_tag%3Dse%26keywords%3Dumbrella%26qid%3D1718980418%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0OTM4NTIzNzk3MzAwODc5OjE3MTg5ODA0MTg6c3BfYXRmOjIwMDEyOTY5NTA2NDE5ODo6MDo6&url=%2FBodyguard-Inverted-Umbrella-Windproof-Reflective%2Fdp%2FB07QBMKWGY%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.TNRfS7l_FdH-5OaLTYvTTabWP40T0Qwr5Ttyfd6C-Dlo5rBW9DYAvcTLBUVeSj8-_QlDRtadBiz20KGlY2mZLZCotwWw8fTcxkBC00VQOcXduNQ7mcauxkYP-3oIZS8wWfHi-CpVBD1vu9vX6Yro7ubiXUQ9pH1XvMfCq0VdydB7rARlu79bFUuQPEdlbyLWutfZAFMfOY6-4yAa1eBda9ZiOKwN0NMm46Q-pgXoc9KqvaNC8ABcoUO356X--HovJYRR3GB3cht7VNps3ACxbeFAXZvBf8cS8RjzHQtqcOY.5J_ChMfOhmoLq3C81DNd55qU0sUOrLA1e2ITq-FKlBc%26dib_tag%3Dse%26keywords%3Dumbrella%26qid%3D1718980418%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71eFkF8OrpL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71pQ6dlJXUL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71vXEzfjXXL._AC_UL320_.jpg"
+		]
+	},
+	"handbag": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzE5MDk0MzMwOTQ5OTQwOjE3MTg5ODA0MjQ6c3BfYXRmOjIwMDAyMTkwMTI4NzQzMTo6MDo6&url=%2FDrop-Womens-Diana-Handle-Crossbody%2Fdp%2FB07ZXPYXZ8%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.gDH65LVfdDySs5U8Ufcv-mZv4f2TrSNjzCB7k61HU3CYiHKrEW5Edh01VOyRQqpfsPnATCkO-0_m8kGI5DfeioTICFVw-lLgyU7tW9VrnrdEaLtq70XZV8QPxaXIAQ5K_i-A8ZXdwpv7gxvZN0Deqo3siaYH2GVIoGwzv2CswEikPeTQsDzjXa-eMxnAoWSdNtlmu_PWhWe3UzcINFIG7McuSHnSLSzJYYUaVrXP-CU5gooaBCpIzS_NNa2nXxzg7E30_dPThlr4yXBQsGKB_JoA13rnd5Tc3_8YU0XMPKU.3RUzxERzzQ8UKdcY0JuXn3DglBoekQWBDz7KAS8SFEc%26dib_tag%3Dse%26keywords%3Dhandbag%26qid%3D1718980424%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzE5MDk0MzMwOTQ5OTQwOjE3MTg5ODA0MjQ6c3BfYXRmOjIwMDAyMTkwMTI4NzQzMTo6MDo6&url=%2FDrop-Womens-Diana-Handle-Crossbody%2Fdp%2FB07ZXPYXZ8%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.gDH65LVfdDySs5U8Ufcv-mZv4f2TrSNjzCB7k61HU3CYiHKrEW5Edh01VOyRQqpfsPnATCkO-0_m8kGI5DfeioTICFVw-lLgyU7tW9VrnrdEaLtq70XZV8QPxaXIAQ5K_i-A8ZXdwpv7gxvZN0Deqo3siaYH2GVIoGwzv2CswEikPeTQsDzjXa-eMxnAoWSdNtlmu_PWhWe3UzcINFIG7McuSHnSLSzJYYUaVrXP-CU5gooaBCpIzS_NNa2nXxzg7E30_dPThlr4yXBQsGKB_JoA13rnd5Tc3_8YU0XMPKU.3RUzxERzzQ8UKdcY0JuXn3DglBoekQWBDz7KAS8SFEc%26dib_tag%3Dse%26keywords%3Dhandbag%26qid%3D1718980424%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzE5MDk0MzMwOTQ5OTQwOjE3MTg5ODA0MjQ6c3BfYXRmOjIwMDAzMTIzMDE0ODA4MTo6MDo6&url=%2FFashion-Handbags-Shoulder-Satchel-Pink-beige%2Fdp%2FB086W6GJZY%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.gDH65LVfdDySs5U8Ufcv-mZv4f2TrSNjzCB7k61HU3CYiHKrEW5Edh01VOyRQqpfsPnATCkO-0_m8kGI5DfeioTICFVw-lLgyU7tW9VrnrdEaLtq70XZV8QPxaXIAQ5K_i-A8ZXdwpv7gxvZN0Deqo3siaYH2GVIoGwzv2CswEikPeTQsDzjXa-eMxnAoWSdNtlmu_PWhWe3UzcINFIG7McuSHnSLSzJYYUaVrXP-CU5gooaBCpIzS_NNa2nXxzg7E30_dPThlr4yXBQsGKB_JoA13rnd5Tc3_8YU0XMPKU.3RUzxERzzQ8UKdcY0JuXn3DglBoekQWBDz7KAS8SFEc%26dib_tag%3Dse%26keywords%3Dhandbag%26qid%3D1718980424%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/810P4LDqipL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61MXCG3yK-L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/719AXCZOQHL._AC_UL320_.jpg"
+		]
+	},
+	"tie": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNzkwMjU0NDk3NTUzMDk4OjE3MTg5ODA0MzA6c3BfYXRmOjMwMDAzODQ0NjExNjUwMjo6MDo6&url=%2Ftrilece-Ties-Men-Formal-Neckties%2Fdp%2FB0CD3DLY62%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.sZJL-s5unpdIwhVHndgejq1Jc-SPU77WFwhGe0psGrSKAau7qAavR3vC4EA96Za423xGFT7XCVWpf91FRbhXDbLHEDFON6SZJp-W4aWFHA8k6p81vOo3qbF8yvDQ--1QEGFT0gspFxzBX9Pk9eHgiQocXKnYD5qjBx2MokAl1An0d627iJTdoam-8UA6zqvwRjtwOzN6d-AVwIvstLsluSeS-R5O6eNV5TYw7JZRIqkUZZ6kg8aIGmoVI_sdo6kczD-qmAM8r0IazEojKRKC7EvqJcZ7ce_PPXEe5p4rZ30.Z80ZqEgvlyP1G-pSdRea3qHDhQx6j7sUqrctK_eOyT8%26dib_tag%3Dse%26keywords%3Dtie%26qid%3D1718980430%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNzkwMjU0NDk3NTUzMDk4OjE3MTg5ODA0MzA6c3BfYXRmOjMwMDAzODQ0NjExNjUwMjo6MDo6&url=%2Ftrilece-Ties-Men-Formal-Neckties%2Fdp%2FB0CD3DLY62%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.sZJL-s5unpdIwhVHndgejq1Jc-SPU77WFwhGe0psGrSKAau7qAavR3vC4EA96Za423xGFT7XCVWpf91FRbhXDbLHEDFON6SZJp-W4aWFHA8k6p81vOo3qbF8yvDQ--1QEGFT0gspFxzBX9Pk9eHgiQocXKnYD5qjBx2MokAl1An0d627iJTdoam-8UA6zqvwRjtwOzN6d-AVwIvstLsluSeS-R5O6eNV5TYw7JZRIqkUZZ6kg8aIGmoVI_sdo6kczD-qmAM8r0IazEojKRKC7EvqJcZ7ce_PPXEe5p4rZ30.Z80ZqEgvlyP1G-pSdRea3qHDhQx6j7sUqrctK_eOyT8%26dib_tag%3Dse%26keywords%3Dtie%26qid%3D1718980430%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNzkwMjU0NDk3NTUzMDk4OjE3MTg5ODA0MzA6c3BfYXRmOjIwMDAxNTg4MzgwNDYxMTo6MDo6&url=%2FJESLANG-Cotton-Printed-Various-Designs%2Fdp%2FB07D71TRL3%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.sZJL-s5unpdIwhVHndgejq1Jc-SPU77WFwhGe0psGrSKAau7qAavR3vC4EA96Za423xGFT7XCVWpf91FRbhXDbLHEDFON6SZJp-W4aWFHA8k6p81vOo3qbF8yvDQ--1QEGFT0gspFxzBX9Pk9eHgiQocXKnYD5qjBx2MokAl1An0d627iJTdoam-8UA6zqvwRjtwOzN6d-AVwIvstLsluSeS-R5O6eNV5TYw7JZRIqkUZZ6kg8aIGmoVI_sdo6kczD-qmAM8r0IazEojKRKC7EvqJcZ7ce_PPXEe5p4rZ30.Z80ZqEgvlyP1G-pSdRea3qHDhQx6j7sUqrctK_eOyT8%26dib_tag%3Dse%26keywords%3Dtie%26qid%3D1718980430%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61Xhxm3K6ZL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71Xu4-yYswL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71B6OQbOsPL._AC_UL320_.jpg"
+		]
+	},
+	"suitcase": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTU1ODA4NTYyOTE1NzQyOjE3MTg5ODA0MzY6c3BfYXRmOjIwMDAxMDUyNDAwNTczMTo6MDo6&url=%2FAmazonBasics-Hardside-Spinner-Luggage-Piece%2Fdp%2FB074MD2L3M%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.OLhYLgXUJrZ9bQWGWm96KrYk8VNQFVFQ-e6A6rcfIzAIBOEK6vJtzB5puHbikha2I26Xqyf7y9hHrnLhK-hUGiUdlNvskvy9w-sWjfL2vN8sVKKQmhgo4DkOXvcp7Kj7iF87cz82NT-BB3hmKtBHbFdwCy9fLiBTJIED-PaOqCtxYfj2QdXNLHIrpfhAIe8y-KivtfYRGm-VcybGiQvHUXfQYbni6iwsAEcfW2SumY_drWx4xiUXNULxB3ACDB0b353Vj_4aZuP5CTixdiEp5RkqGbdDArJBN7mZEY5hKD4.xT7CV99FWCSyvdAyIcrWmiIJzAA_-AOs9qVmxP6k32c%26dib_tag%3Dse%26keywords%3Dsuitcase%26qid%3D1718980436%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTU1ODA4NTYyOTE1NzQyOjE3MTg5ODA0MzY6c3BfYXRmOjIwMDAxMDUyNDAwNTczMTo6MDo6&url=%2FAmazonBasics-Hardside-Spinner-Luggage-Piece%2Fdp%2FB074MD2L3M%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.OLhYLgXUJrZ9bQWGWm96KrYk8VNQFVFQ-e6A6rcfIzAIBOEK6vJtzB5puHbikha2I26Xqyf7y9hHrnLhK-hUGiUdlNvskvy9w-sWjfL2vN8sVKKQmhgo4DkOXvcp7Kj7iF87cz82NT-BB3hmKtBHbFdwCy9fLiBTJIED-PaOqCtxYfj2QdXNLHIrpfhAIe8y-KivtfYRGm-VcybGiQvHUXfQYbni6iwsAEcfW2SumY_drWx4xiUXNULxB3ACDB0b353Vj_4aZuP5CTixdiEp5RkqGbdDArJBN7mZEY5hKD4.xT7CV99FWCSyvdAyIcrWmiIJzAA_-AOs9qVmxP6k32c%26dib_tag%3Dse%26keywords%3Dsuitcase%26qid%3D1718980436%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTU1ODA4NTYyOTE1NzQyOjE3MTg5ODA0MzY6c3BfYXRmOjIwMDEzNDg4Mzk2NDU5ODo6MDo6&url=%2FSwissGear-Softside-Expandable-Luggage-21-Inch%2Fdp%2FB0BTFCK5XW%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.OLhYLgXUJrZ9bQWGWm96KrYk8VNQFVFQ-e6A6rcfIzAIBOEK6vJtzB5puHbikha2I26Xqyf7y9hHrnLhK-hUGiUdlNvskvy9w-sWjfL2vN8sVKKQmhgo4DkOXvcp7Kj7iF87cz82NT-BB3hmKtBHbFdwCy9fLiBTJIED-PaOqCtxYfj2QdXNLHIrpfhAIe8y-KivtfYRGm-VcybGiQvHUXfQYbni6iwsAEcfW2SumY_drWx4xiUXNULxB3ACDB0b353Vj_4aZuP5CTixdiEp5RkqGbdDArJBN7mZEY5hKD4.xT7CV99FWCSyvdAyIcrWmiIJzAA_-AOs9qVmxP6k32c%26dib_tag%3Dse%26keywords%3Dsuitcase%26qid%3D1718980436%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/6165ldfmE2L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/51z4jaX7mVL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81U9-VcdqPL._AC_UL320_.jpg"
+		]
+	},
+	"frisbee": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTQzNjMzODIzMjEyMTk3OjE3MTg5ODA0NDI6c3BfYXRmOjMwMDI0ODIxMzM3MjIwMjo6MDo6&url=%2FBeach-Frisbee-Pool-Toy-Frisbees%2Fdp%2FB0CW72TB4W%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.Hll6JjcAgwzLPbo0839JOkHXc7z8njSzuzW7BuFkI3NDJKaKiPuRATCQT9cq8jB6TPbUD0cJ2GWKYg6gZV44ybmmcESrWu18Dv7fZ-o_gCRupb3uc29TfhF-ywY1iouhK4hWuPQmo4eNtjFREXjU2fpbhEFN8BIcRai_E2-zHRDvk1KpzF1cC08_KI2KibV1_gTcHkFNWhR98uEEXrzzaeqKykMhUC2_JFDeTEsrV8vyAoS5VtaS5i3axTKFqGlv9RpXZGp43CRh7_FdMTaQBPHaMOt4JUkW17rxm1P45Gs.VXZ0oyOLcjWMwU-UqKSjvCTsOlI3spR-OqaK9SyWh-I%26dib_tag%3Dse%26keywords%3Dfrisbee%26qid%3D1718980442%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTQzNjMzODIzMjEyMTk3OjE3MTg5ODA0NDI6c3BfYXRmOjIwMDA5NTQyNDE4OTI5ODo6MDo6&url=%2F10-75-Flying-Discs-Ultimate-Colors%2Fdp%2FB09CPZ3DJT%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.Hll6JjcAgwzLPbo0839JOkHXc7z8njSzuzW7BuFkI3NDJKaKiPuRATCQT9cq8jB6TPbUD0cJ2GWKYg6gZV44ybmmcESrWu18Dv7fZ-o_gCRupb3uc29TfhF-ywY1iouhK4hWuPQmo4eNtjFREXjU2fpbhEFN8BIcRai_E2-zHRDvk1KpzF1cC08_KI2KibV1_gTcHkFNWhR98uEEXrzzaeqKykMhUC2_JFDeTEsrV8vyAoS5VtaS5i3axTKFqGlv9RpXZGp43CRh7_FdMTaQBPHaMOt4JUkW17rxm1P45Gs.VXZ0oyOLcjWMwU-UqKSjvCTsOlI3spR-OqaK9SyWh-I%26dib_tag%3Dse%26keywords%3Dfrisbee%26qid%3D1718980442%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Discraft-Gram-White-Ultrastar-Sport/dp/B0BDPF9KNQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.Hll6JjcAgwzLPbo0839JOkHXc7z8njSzuzW7BuFkI3NDJKaKiPuRATCQT9cq8jB6TPbUD0cJ2GWKYg6gZV44ybmmcESrWu18Dv7fZ-o_gCRupb3uc29TfhF-ywY1iouhK4hWuPQmo4eNtjFREXjU2fpbhEFN8BIcRai_E2-zHRDvk1KpzF1cC08_KI2KibV1_gTcHkFNWhR98uEEXrzzaeqKykMhUC2_JFDeTEsrV8vyAoS5VtaS5i3axTKFqGlv9RpXZGp43CRh7_FdMTaQBPHaMOt4JUkW17rxm1P45Gs.VXZ0oyOLcjWMwU-UqKSjvCTsOlI3spR-OqaK9SyWh-I&dib_tag=se&keywords=frisbee&qid=1718980442&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81yDW6XHWpL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81DEfN9+Q6L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/617AAcps-GL._AC_UL320_.jpg"
+		]
+	},
+	"skis": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTkwOTc0MDI4NDc5Mjk2OjE3MTg5ODA0NDk6c3BfYXRmOjMwMDA4NzkzNjY0OTAwMjo6MDo6&url=%2FSocks-Merino-Thermal-Winter-Snowboard%2Fdp%2FB0BHT19VR9%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.BAbsjBO36QL5qHQQTFXT6Srq5DelflNXRcG_zB0yeO1jtjeS-bKRLpVrAQMrjcy-6RiW6MaErhSrBxXtUIpUjdVBGZKojpYEde3HER0RmK4bjnybeyoHPoXgxNEiRNxT5eVTY32P6oFS3AKv6ADvUht0-u3ecQP4hc3Qb2a8Iszuj__xC4y3z-xgTbPkMoJkAKEi7dhEWCEzuZbcma65fgwvMO30iBXUFUrtW_fIb2g6tTm2JgfAP_sv3zCzWrhdSxVbIlblCfP78HrBTcLX8ZrWkn30ojNiBq9LdZQBvjA.MKERUdsAgQ7z0Q3qzShqYbq1R0AG20S2YLYcGSPVMJA%26dib_tag%3Dse%26keywords%3Dskis%26qid%3D1718980449%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/OBrien-Celebrity-Combo-Water-2211110/dp/B08F9C8KCW/ref=sr_1_2?dib=eyJ2IjoiMSJ9.BAbsjBO36QL5qHQQTFXT6Srq5DelflNXRcG_zB0yeO1jtjeS-bKRLpVrAQMrjcy-6RiW6MaErhSrBxXtUIpUjdVBGZKojpYEde3HER0RmK4bjnybeyoHPoXgxNEiRNxT5eVTY32P6oFS3AKv6ADvUht0-u3ecQP4hc3Qb2a8Iszuj__xC4y3z-xgTbPkMoJkAKEi7dhEWCEzuZbcma65fgwvMO30iBXUFUrtW_fIb2g6tTm2JgfAP_sv3zCzWrhdSxVbIlblCfP78HrBTcLX8ZrWkn30ojNiBq9LdZQBvjA.MKERUdsAgQ7z0Q3qzShqYbq1R0AG20S2YLYcGSPVMJA&dib_tag=se&keywords=skis&qid=1718980449&sr=8-2",
+			"https://www.amazon.com/Enforcer-High-Performance-Lightweight-Versatile-All-Mountain/dp/B0CB6LK8F1/ref=sr_1_3?dib=eyJ2IjoiMSJ9.BAbsjBO36QL5qHQQTFXT6Srq5DelflNXRcG_zB0yeO1jtjeS-bKRLpVrAQMrjcy-6RiW6MaErhSrBxXtUIpUjdVBGZKojpYEde3HER0RmK4bjnybeyoHPoXgxNEiRNxT5eVTY32P6oFS3AKv6ADvUht0-u3ecQP4hc3Qb2a8Iszuj__xC4y3z-xgTbPkMoJkAKEi7dhEWCEzuZbcma65fgwvMO30iBXUFUrtW_fIb2g6tTm2JgfAP_sv3zCzWrhdSxVbIlblCfP78HrBTcLX8ZrWkn30ojNiBq9LdZQBvjA.MKERUdsAgQ7z0Q3qzShqYbq1R0AG20S2YLYcGSPVMJA&dib_tag=se&keywords=skis&qid=1718980449&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/91bMFDJjIgL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71cRUX1JNgL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61zvjTObVgL._AC_UL320_.jpg"
+		]
+	},
+	"snowboard": {
+		"url": [
+			"https://www.amazon.com/STAUBER-Summit-Snowboard-Binding-Package/dp/B079F34WTF/ref=sr_1_1?dib=eyJ2IjoiMSJ9.usRZ5Tksdn0tj3oI2aKu7tM_h3AdYczFrWxkFTYb7uE5oOXKCYHAySJoX0kzNJeLafSQ6rosQQcjOieZ6KhPIHS1PcS8hZUs6jyyRSCTGhvgAJ0ZwHbNoEhC2U79PmKoLNdlMkz7oE5jVpiCsNLYltrA-1lzTP4jGDTa_jYiSLQUiQuSD4Mmt9OQvpQYcTWE-wuHrQ67BGE0CShloHkmIdi7jzbypv0eVF_fK6kjth0NrVP_YJFA3Rz2FqIzniMyhuFftuUrAqGeDdLMFYDgtRayDbIVwNuAfipARUsqLwg.aoINKWrtG0veMKMPgH3hPsNNcEswIZXAGyP3QnbAB9U&dib_tag=se&keywords=snowboard&qid=1718980456&sr=8-1",
+			"https://www.amazon.com/Nitro-Prime-Mens-Mountain-Snowboard/dp/B0C86QDTBV/ref=sr_1_2?dib=eyJ2IjoiMSJ9.usRZ5Tksdn0tj3oI2aKu7tM_h3AdYczFrWxkFTYb7uE5oOXKCYHAySJoX0kzNJeLafSQ6rosQQcjOieZ6KhPIHS1PcS8hZUs6jyyRSCTGhvgAJ0ZwHbNoEhC2U79PmKoLNdlMkz7oE5jVpiCsNLYltrA-1lzTP4jGDTa_jYiSLQUiQuSD4Mmt9OQvpQYcTWE-wuHrQ67BGE0CShloHkmIdi7jzbypv0eVF_fK6kjth0NrVP_YJFA3Rz2FqIzniMyhuFftuUrAqGeDdLMFYDgtRayDbIVwNuAfipARUsqLwg.aoINKWrtG0veMKMPgH3hPsNNcEswIZXAGyP3QnbAB9U&dib_tag=se&keywords=snowboard&qid=1718980456&sr=8-2",
+			"https://www.amazon.com/Kwik-AIRHEAD-RIDER-Hardwood-Snowboard/dp/B01L0KAUO4/ref=sr_1_3?dib=eyJ2IjoiMSJ9.usRZ5Tksdn0tj3oI2aKu7tM_h3AdYczFrWxkFTYb7uE5oOXKCYHAySJoX0kzNJeLafSQ6rosQQcjOieZ6KhPIHS1PcS8hZUs6jyyRSCTGhvgAJ0ZwHbNoEhC2U79PmKoLNdlMkz7oE5jVpiCsNLYltrA-1lzTP4jGDTa_jYiSLQUiQuSD4Mmt9OQvpQYcTWE-wuHrQ67BGE0CShloHkmIdi7jzbypv0eVF_fK6kjth0NrVP_YJFA3Rz2FqIzniMyhuFftuUrAqGeDdLMFYDgtRayDbIVwNuAfipARUsqLwg.aoINKWrtG0veMKMPgH3hPsNNcEswIZXAGyP3QnbAB9U&dib_tag=se&keywords=snowboard&qid=1718980456&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71IJSP7S8WL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/611nTqQRseL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81PhyZ57RyL._AC_UL320_.jpg"
+		]
+	},
+	"sports ball": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTMyNzAxMTAyMDMwOTk0OjE3MTg5ODA0NjY6c3BfYXRmOjIwMDE3MzczODQ2NTE5ODo6MDo6&url=%2FIncluding-Official-Basketball-Football-Equipment%2Fdp%2FB0BXPPR5Y2%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.NMBqc3NKe-Rr0ryXFdlBDQ4D8RQlmS3SWhFiJqAvgSCOTzwWZgyWZi8X_YZzq7DLJ3GMPBjkfrlZvwsqORSmpAyeysjkct0j9G5yLGjPiH7r4KXswrLoNBHpat88jWkxLeTCEZ0RUTbeix5d_eO3ndQMutRwowRzohLzrY0cQMUP6YwsfHqyCMJfdMzI7hz2tM9m4aand39MzH2F4rnOmkzp_xT2wzvLdjNdoogIm2fzNw-GoJE-tUyDuoynN5q1fxApcJ94eoXljkgsCBoWx9Z_p_Y2_yNo3vJI9bi_hFc.fP4SzCtV_ecBp9_qfTAcA5asZ6TX4VpRw3P-j5dXgiM%26dib_tag%3Dse%26keywords%3Dsports%2Bball%26qid%3D1718980466%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTMyNzAxMTAyMDMwOTk0OjE3MTg5ODA0NjY6c3BfYXRmOjMwMDEwNDYyMjA0MzQwMjo6MDo6&url=%2FJerify-Official-Athletic-Basketball-Volleyball%2Fdp%2FB0CDLSHKQB%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.NMBqc3NKe-Rr0ryXFdlBDQ4D8RQlmS3SWhFiJqAvgSCOTzwWZgyWZi8X_YZzq7DLJ3GMPBjkfrlZvwsqORSmpAyeysjkct0j9G5yLGjPiH7r4KXswrLoNBHpat88jWkxLeTCEZ0RUTbeix5d_eO3ndQMutRwowRzohLzrY0cQMUP6YwsfHqyCMJfdMzI7hz2tM9m4aand39MzH2F4rnOmkzp_xT2wzvLdjNdoogIm2fzNw-GoJE-tUyDuoynN5q1fxApcJ94eoXljkgsCBoWx9Z_p_Y2_yNo3vJI9bi_hFc.fP4SzCtV_ecBp9_qfTAcA5asZ6TX4VpRw3P-j5dXgiM%26dib_tag%3Dse%26keywords%3Dsports%2Bball%26qid%3D1718980466%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTMyNzAxMTAyMDMwOTk0OjE3MTg5ODA0NjY6c3BfYXRmOjMwMDIyMTY0NjkwMTcwMjo6MDo6&url=%2FDeekin-Basketball-Playground-Equipment-Christmas%2Fdp%2FB0CZ92PDYL%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.NMBqc3NKe-Rr0ryXFdlBDQ4D8RQlmS3SWhFiJqAvgSCOTzwWZgyWZi8X_YZzq7DLJ3GMPBjkfrlZvwsqORSmpAyeysjkct0j9G5yLGjPiH7r4KXswrLoNBHpat88jWkxLeTCEZ0RUTbeix5d_eO3ndQMutRwowRzohLzrY0cQMUP6YwsfHqyCMJfdMzI7hz2tM9m4aand39MzH2F4rnOmkzp_xT2wzvLdjNdoogIm2fzNw-GoJE-tUyDuoynN5q1fxApcJ94eoXljkgsCBoWx9Z_p_Y2_yNo3vJI9bi_hFc.fP4SzCtV_ecBp9_qfTAcA5asZ6TX4VpRw3P-j5dXgiM%26dib_tag%3Dse%26keywords%3Dsports%2Bball%26qid%3D1718980466%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81e06psgHnL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81vRSDucnAL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/810EvV8UEqL._AC_UL320_.jpg"
+		]
+	},
+	"kite": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4Mzg0MDgyNzg3MzY0MjIwOjE3MTg5ODA0NzU6c3BfYXRmOjMwMDE0MDQxNTkwNjMwMjo6MDo6&url=%2FWEICAFLY-Giant-Gliders-Adults-Single%2Fdp%2FB0CRQ7MV5X%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.of1w_Huuewvpy9VV-fqdIZokwsBgkMypU6AraeMFOay4dIcPhstx-Bp6PbEid-3PqeQ1VEyQ-t-fJQSDepeEPlmuY-v77nQixfDrebdVV6LvOVe_Q5MvYGGHLU6KLM4N0cwuIwzySYVyZ1PsPIhoWF4g55DF22fqUMlI2r81In7z9HsYNP_f-wzYySZVB6WpzEl3jvJfb5E9pnwFTMl0Q4tu6FIJN1anlOItdKTiCXgJ4gkRUWH_rXc2gg8oxIsYBWy5j3IRPv7HyVzjFtF4ynNwQvPuR3_o8a7a3EjryyU.bxEwmebowvoBGY9VelHR3y3uG3HGkewTMJ6vo0dW4oY%26dib_tag%3Dse%26keywords%3Dkite%26qid%3D1718980475%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4Mzg0MDgyNzg3MzY0MjIwOjE3MTg5ODA0NzU6c3BfYXRmOjIwMDAzNzQ3NjY5NjY5ODo6MDo6&url=%2FHONBO-Patriotic-Activities-Wingspan-Swivel-2-Tails-Bonus%2Fdp%2FB081PTHQF5%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.of1w_Huuewvpy9VV-fqdIZokwsBgkMypU6AraeMFOay4dIcPhstx-Bp6PbEid-3PqeQ1VEyQ-t-fJQSDepeEPlmuY-v77nQixfDrebdVV6LvOVe_Q5MvYGGHLU6KLM4N0cwuIwzySYVyZ1PsPIhoWF4g55DF22fqUMlI2r81In7z9HsYNP_f-wzYySZVB6WpzEl3jvJfb5E9pnwFTMl0Q4tu6FIJN1anlOItdKTiCXgJ4gkRUWH_rXc2gg8oxIsYBWy5j3IRPv7HyVzjFtF4ynNwQvPuR3_o8a7a3EjryyU.bxEwmebowvoBGY9VelHR3y3uG3HGkewTMJ6vo0dW4oY%26dib_tag%3Dse%26keywords%3Dkite%26qid%3D1718980475%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4Mzg0MDgyNzg3MzY0MjIwOjE3MTg5ODA0NzU6c3BfYXRmOjIwMDE1MDk3NDY0MzQ5ODo6MDo6&url=%2FKaiciuss-Adults-Easiest-Single-String%2Fdp%2FB09XGX1TPK%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.of1w_Huuewvpy9VV-fqdIZokwsBgkMypU6AraeMFOay4dIcPhstx-Bp6PbEid-3PqeQ1VEyQ-t-fJQSDepeEPlmuY-v77nQixfDrebdVV6LvOVe_Q5MvYGGHLU6KLM4N0cwuIwzySYVyZ1PsPIhoWF4g55DF22fqUMlI2r81In7z9HsYNP_f-wzYySZVB6WpzEl3jvJfb5E9pnwFTMl0Q4tu6FIJN1anlOItdKTiCXgJ4gkRUWH_rXc2gg8oxIsYBWy5j3IRPv7HyVzjFtF4ynNwQvPuR3_o8a7a3EjryyU.bxEwmebowvoBGY9VelHR3y3uG3HGkewTMJ6vo0dW4oY%26dib_tag%3Dse%26keywords%3Dkite%26qid%3D1718980475%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71ACh4GPsyL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81r2fMlZlIL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61agGg94YJL._AC_UL320_.jpg"
+		]
+	},
+	"baseball bat": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTE2OTI0MzQ0MDQyNzUyOjE3MTg5ODA0ODI6c3BfYXRmOjIwMDExMzg0NzI3MzU5ODo6MDo6&url=%2FLouisville-Slugger-Select-PWRTM-Baseball%2Fdp%2FB0BJ5QK46L%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.FB9kNPJ96gWw_gjF_45rmX8AHsGZgHHX8doogFQkAsIIzNqeSBv0JTp4G7_m1YmO-XvcUxLV7R4-8bgIXatVLCzcV7zs9c2-esskcfVL1uQ70pDb9SXMM-sdwbMpQVR-4EEEXnk9Nwk3-MlQEOhicIBtEVoNVsb9I-LnJ8B4s5ioMn3epRXxpCF9xI_FZ0PtTVvK8JdtgEy5aWkJdzSNMPvY_YpJb-AsvW2HV7ZO2eB42R1Es6lq5HkaZnj_hBjFNBzpVBJvrl3J24MALF_-qCf-btRfx5Ua6XjNj6f9x-Q.nz3eghVF3rCFIMKwf6iTIUaBqdjGo-8kIPIqqQZMu7s%26dib_tag%3Dse%26keywords%3Dbaseball%2Bbat%26qid%3D1718980482%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTE2OTI0MzQ0MDQyNzUyOjE3MTg5ODA0ODI6c3BfYXRmOjIwMDExMzg0NzI3MzU5ODo6MDo6&url=%2FLouisville-Slugger-Select-PWRTM-Baseball%2Fdp%2FB0BJ5QK46L%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.FB9kNPJ96gWw_gjF_45rmX8AHsGZgHHX8doogFQkAsIIzNqeSBv0JTp4G7_m1YmO-XvcUxLV7R4-8bgIXatVLCzcV7zs9c2-esskcfVL1uQ70pDb9SXMM-sdwbMpQVR-4EEEXnk9Nwk3-MlQEOhicIBtEVoNVsb9I-LnJ8B4s5ioMn3epRXxpCF9xI_FZ0PtTVvK8JdtgEy5aWkJdzSNMPvY_YpJb-AsvW2HV7ZO2eB42R1Es6lq5HkaZnj_hBjFNBzpVBJvrl3J24MALF_-qCf-btRfx5Ua6XjNj6f9x-Q.nz3eghVF3rCFIMKwf6iTIUaBqdjGo-8kIPIqqQZMu7s%26dib_tag%3Dse%26keywords%3Dbaseball%2Bbat%26qid%3D1718980482%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTE2OTI0MzQ0MDQyNzUyOjE3MTg5ODA0ODI6c3BfYXRmOjIwMDExMzg0NzI3NDQ5ODo6MDo6&url=%2FLouisville-Slugger-Vapor-BBCOR-Baseball%2Fdp%2FB0BJ572V54%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.FB9kNPJ96gWw_gjF_45rmX8AHsGZgHHX8doogFQkAsIIzNqeSBv0JTp4G7_m1YmO-XvcUxLV7R4-8bgIXatVLCzcV7zs9c2-esskcfVL1uQ70pDb9SXMM-sdwbMpQVR-4EEEXnk9Nwk3-MlQEOhicIBtEVoNVsb9I-LnJ8B4s5ioMn3epRXxpCF9xI_FZ0PtTVvK8JdtgEy5aWkJdzSNMPvY_YpJb-AsvW2HV7ZO2eB42R1Es6lq5HkaZnj_hBjFNBzpVBJvrl3J24MALF_-qCf-btRfx5Ua6XjNj6f9x-Q.nz3eghVF3rCFIMKwf6iTIUaBqdjGo-8kIPIqqQZMu7s%26dib_tag%3Dse%26keywords%3Dbaseball%2Bbat%26qid%3D1718980482%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61L4qxW-gIL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61vxc9Jjf1L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71PZjctUmSL._AC_UL320_.jpg"
+		]
+	},
+	"baseball glove": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjI5ODcyNzMyMTA2NTEwOjE3MTg5ODA0ODk6c3BfYXRmOjMwMDI0NDk4NjMwNTMwMjo6MDo6&url=%2FBaseball-Softball-Mitt%25EF%25BC%258C9-5-12-5-Training-Beginner%2Fdp%2FB0BHYTG7VD%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.3hfhbepa3QR8TpRmUjryzoP_V9uugw_s0gm0v4XdWyQBgqPXgcMmcJZ6aTCSQ2SQgA3FAARqbWFM8MC5061g6u6mqILim6YvfMDvzdkxDZpzJf_RVzzOh35Jzrez9-7PcFP-O2PS9nI6OPpGK6JAD-Jt0fuyIz4acyr41UVdClLyfQYr_QJpyQBWhph0O5BYM5qVdNJ0NkWpUixZ9nH3R0TYpJrqv1ssOoKDzxVVrUO_JoZD7qyimeDvnk5UXY6U8zchpM7h0wGvXZh-woYij3MJBuMBHRHwd7KyHD-7IE8.rAuvgSxFiyrn-hYYitNZRVP1xfsopSCdHTtpdRnDNwc%26dib_tag%3Dse%26keywords%3Dbaseball%2Bglove%26qid%3D1718980489%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjI5ODcyNzMyMTA2NTEwOjE3MTg5ODA0ODk6c3BfYXRmOjIwMDAyOTA2MDY3NTA4MTo6MDo6&url=%2FRawlings-Preferred-Baseball-Regular-Pattern%2Fdp%2FB0882T6RZL%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.3hfhbepa3QR8TpRmUjryzoP_V9uugw_s0gm0v4XdWyQBgqPXgcMmcJZ6aTCSQ2SQgA3FAARqbWFM8MC5061g6u6mqILim6YvfMDvzdkxDZpzJf_RVzzOh35Jzrez9-7PcFP-O2PS9nI6OPpGK6JAD-Jt0fuyIz4acyr41UVdClLyfQYr_QJpyQBWhph0O5BYM5qVdNJ0NkWpUixZ9nH3R0TYpJrqv1ssOoKDzxVVrUO_JoZD7qyimeDvnk5UXY6U8zchpM7h0wGvXZh-woYij3MJBuMBHRHwd7KyHD-7IE8.rAuvgSxFiyrn-hYYitNZRVP1xfsopSCdHTtpdRnDNwc%26dib_tag%3Dse%26keywords%3Dbaseball%2Bglove%26qid%3D1718980489%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjI5ODcyNzMyMTA2NTEwOjE3MTg5ODA0ODk6c3BfYXRmOjIwMDAyOTA2MDY3NTA4MTo6MDo6&url=%2FRawlings-Preferred-Baseball-Regular-Pattern%2Fdp%2FB0882T6RZL%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.3hfhbepa3QR8TpRmUjryzoP_V9uugw_s0gm0v4XdWyQBgqPXgcMmcJZ6aTCSQ2SQgA3FAARqbWFM8MC5061g6u6mqILim6YvfMDvzdkxDZpzJf_RVzzOh35Jzrez9-7PcFP-O2PS9nI6OPpGK6JAD-Jt0fuyIz4acyr41UVdClLyfQYr_QJpyQBWhph0O5BYM5qVdNJ0NkWpUixZ9nH3R0TYpJrqv1ssOoKDzxVVrUO_JoZD7qyimeDvnk5UXY6U8zchpM7h0wGvXZh-woYij3MJBuMBHRHwd7KyHD-7IE8.rAuvgSxFiyrn-hYYitNZRVP1xfsopSCdHTtpdRnDNwc%26dib_tag%3Dse%26keywords%3Dbaseball%2Bglove%26qid%3D1718980489%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71E+f47n7WL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71pvk+I-hHL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71aqhyREXDL._AC_UL320_.jpg"
+		]
+	},
+	"skateboard": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NDg3MjMyMDAwOTc4MzMwOjE3MTg5ODA0OTY6c3BfYXRmOjIwMDA5NTQ3MTc3MDYyMTo6MDo6&url=%2FRetrospec-Quip-Skateboard-22-5-Complete%2Fdp%2FB08XTMY84X%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.el27EB4NvwV-eIQI7L8qSM3yKo3tUD787pvz3Sa9VU3RWdDu5peCsYJGxbwHP5-9tl87cR7Lc59J5O703xpHkk4OfP0tGY2GROMV5lOyLKjXVQ8BMheSPoOKymj0Wl0W0B-TS1a_C97weLS3FmekSCdv0_v1KQeq4j51OikrF7bSo4QefC-efatt_lLUMqsZyDx9gdkI_XVT4MhREDbEHBGub7vsKURTtrAEzcTyJahisheWnxzDGWjCuxxbPYmNoqbFZQjp8C4NexoOmXJ_1YOnZ5UIZeavRPRpQxv1QNs.W4VgZvZ9fryjBwSAO_eWeFCfPlXK9HAQ_0gdr5bjLFM%26dib_tag%3Dse%26keywords%3Dskateboard%26qid%3D1718980495%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NDg3MjMyMDAwOTc4MzMwOjE3MTg5ODA0OTY6c3BfYXRmOjIwMDA5NTQ3MTc3MDYyMTo6MDo6&url=%2FRetrospec-Quip-Skateboard-22-5-Complete%2Fdp%2FB08XTMY84X%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.el27EB4NvwV-eIQI7L8qSM3yKo3tUD787pvz3Sa9VU3RWdDu5peCsYJGxbwHP5-9tl87cR7Lc59J5O703xpHkk4OfP0tGY2GROMV5lOyLKjXVQ8BMheSPoOKymj0Wl0W0B-TS1a_C97weLS3FmekSCdv0_v1KQeq4j51OikrF7bSo4QefC-efatt_lLUMqsZyDx9gdkI_XVT4MhREDbEHBGub7vsKURTtrAEzcTyJahisheWnxzDGWjCuxxbPYmNoqbFZQjp8C4NexoOmXJ_1YOnZ5UIZeavRPRpQxv1QNs.W4VgZvZ9fryjBwSAO_eWeFCfPlXK9HAQ_0gdr5bjLFM%26dib_tag%3Dse%26keywords%3Dskateboard%26qid%3D1718980495%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NDg3MjMyMDAwOTc4MzMwOjE3MTg5ODA0OTY6c3BfYXRmOjIwMDE3NTYxMDAzNjg5ODo6MDo6&url=%2FMagneto-Kids-Skateboard-Maple-Components%2Fdp%2FB07WC96F65%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.el27EB4NvwV-eIQI7L8qSM3yKo3tUD787pvz3Sa9VU3RWdDu5peCsYJGxbwHP5-9tl87cR7Lc59J5O703xpHkk4OfP0tGY2GROMV5lOyLKjXVQ8BMheSPoOKymj0Wl0W0B-TS1a_C97weLS3FmekSCdv0_v1KQeq4j51OikrF7bSo4QefC-efatt_lLUMqsZyDx9gdkI_XVT4MhREDbEHBGub7vsKURTtrAEzcTyJahisheWnxzDGWjCuxxbPYmNoqbFZQjp8C4NexoOmXJ_1YOnZ5UIZeavRPRpQxv1QNs.W4VgZvZ9fryjBwSAO_eWeFCfPlXK9HAQ_0gdr5bjLFM%26dib_tag%3Dse%26keywords%3Dskateboard%26qid%3D1718980495%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81-erM+IbyL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81-c1jux1QL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81K+KgXh2FL._AC_UL320_.jpg"
+		]
+	},
+	"surfboard": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTg2MTE4MzkzMTM5Mjc2OjE3MTg5ODA1MDE6c3BfYXRmOjMwMDE5NDIyMzQwNDIwMjo6MDo6&url=%2FShridinlay-Inflatable-Backpack-Adjustable-Waterproof%2Fdp%2FB08GK87VRL%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.V_skV3QXy0m0VAHYGaY66rfDW6wvLh8r8vU31R99YQsQL2W34iEU9oPBDobNdS1wd0cdCbVRKVFMnMO732P2LH3WFmGMuwXjrLXeeNsI7RJ0vUYmvhg0mle5Kljg81Sqnw1qXzft9wdvxTi3FRnyjjVigFh5X3wY28HEBmiCtDzKka6xqXPTqnmBNX9C2FNBywr4NApRCWMm5pB4Wgo5SfOCfsippgOYEFdyEFBAuIyEAYcNn63pt9scv77KCPDJoUtpwhCeVhQqKVU47mro_j7YjGK5ZiQMfzBW3howgKA.xknJmRzg3_LbDPxSTZi5_qZZAtz1T7_Q61WSGfwte70%26dib_tag%3Dse%26keywords%3Dsurfboard%26qid%3D1718980501%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Beistle-Cardboard-Surfboard-Photography-Background/dp/B0CGX357DR/ref=sr_1_2?dib=eyJ2IjoiMSJ9.V_skV3QXy0m0VAHYGaY66rfDW6wvLh8r8vU31R99YQsQL2W34iEU9oPBDobNdS1wd0cdCbVRKVFMnMO732P2LH3WFmGMuwXjrLXeeNsI7RJ0vUYmvhg0mle5Kljg81Sqnw1qXzft9wdvxTi3FRnyjjVigFh5X3wY28HEBmiCtDzKka6xqXPTqnmBNX9C2FNBywr4NApRCWMm5pB4Wgo5SfOCfsippgOYEFdyEFBAuIyEAYcNn63pt9scv77KCPDJoUtpwhCeVhQqKVU47mro_j7YjGK5ZiQMfzBW3howgKA.xknJmRzg3_LbDPxSTZi5_qZZAtz1T7_Q61WSGfwte70&dib_tag=se&keywords=surfboard&qid=1718980501&sr=8-2",
+			"https://www.amazon.com/Beistle-Cardboard-Surfboard-Photography-Background/dp/B0CGX357DR/ref=sr_1_2?dib=eyJ2IjoiMSJ9.V_skV3QXy0m0VAHYGaY66rfDW6wvLh8r8vU31R99YQsQL2W34iEU9oPBDobNdS1wd0cdCbVRKVFMnMO732P2LH3WFmGMuwXjrLXeeNsI7RJ0vUYmvhg0mle5Kljg81Sqnw1qXzft9wdvxTi3FRnyjjVigFh5X3wY28HEBmiCtDzKka6xqXPTqnmBNX9C2FNBywr4NApRCWMm5pB4Wgo5SfOCfsippgOYEFdyEFBAuIyEAYcNn63pt9scv77KCPDJoUtpwhCeVhQqKVU47mro_j7YjGK5ZiQMfzBW3howgKA.xknJmRzg3_LbDPxSTZi5_qZZAtz1T7_Q61WSGfwte70&dib_tag=se&keywords=surfboard&qid=1718980501&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71de+ex3FlL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61ey+KskbFL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/711Ur1pBK1S._AC_UL320_.jpg"
+		]
+	},
+	"tennis racket": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MDE2Njc0ODc5MTMyNzk6MTcxODk4MDUwODpzcF9hdGY6MjAwMTEwOTEyMTEwODk4OjowOjo&url=%2FRacket%25EF%25BC%258C27-Rackets-Adults-Students-Beginners%2Fdp%2FB0BHP2GBZD%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.3o4i5j3ns_LCe-sq968kMOtpG_VO7OxOcPwzxFhacBuJkyL5_67dkF8wUDYTKx6hVq0EZ9aLhX9EjYRoH1yOlIdiP6HET8TVmQKo0uJuEvT84h35nnDBVEO7aoHxkK97uT9TZ6GuCfUbb1gVHrEagfo8M7drmq4S9tX6JJofgPpxENEC6zmH7H2z9S0RTtT-iA8jTrnUld6bwK5Hb4XQJZ_yeWLd4N2oEqQKRVWYFp4D2sKEwK5P0U19gVHgoC7Pec9vD45DXPf0R7Nv5hQbUocX_xFF8LLs4RB_sEHhsao.ashyMvmprjQTbJ9Nu0eyDN-JiOYxRxyjeCvafOYFrQY%26dib_tag%3Dse%26keywords%3Dtennis%2Bracket%26qid%3D1718980508%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MDE2Njc0ODc5MTMyNzk6MTcxODk4MDUwODpzcF9hdGY6MzAwMTY3NDQzMjAyNjAyOjowOjo&url=%2FMBFISH-Tennis-Racket-Pre-Strung-Comfortable%2Fdp%2FB0CTB4FYBD%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.3o4i5j3ns_LCe-sq968kMOtpG_VO7OxOcPwzxFhacBuJkyL5_67dkF8wUDYTKx6hVq0EZ9aLhX9EjYRoH1yOlIdiP6HET8TVmQKo0uJuEvT84h35nnDBVEO7aoHxkK97uT9TZ6GuCfUbb1gVHrEagfo8M7drmq4S9tX6JJofgPpxENEC6zmH7H2z9S0RTtT-iA8jTrnUld6bwK5Hb4XQJZ_yeWLd4N2oEqQKRVWYFp4D2sKEwK5P0U19gVHgoC7Pec9vD45DXPf0R7Nv5hQbUocX_xFF8LLs4RB_sEHhsao.ashyMvmprjQTbJ9Nu0eyDN-JiOYxRxyjeCvafOYFrQY%26dib_tag%3Dse%26keywords%3Dtennis%2Bracket%26qid%3D1718980508%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MDE2Njc0ODc5MTMyNzk6MTcxODk4MDUwODpzcF9hdGY6MjAwMDk1NTcwMDQzOTk4OjowOjo&url=%2FHIRALIY-Recreational-Lightweight-Beginners-Including%2Fdp%2FB08RDGBKPC%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.3o4i5j3ns_LCe-sq968kMOtpG_VO7OxOcPwzxFhacBuJkyL5_67dkF8wUDYTKx6hVq0EZ9aLhX9EjYRoH1yOlIdiP6HET8TVmQKo0uJuEvT84h35nnDBVEO7aoHxkK97uT9TZ6GuCfUbb1gVHrEagfo8M7drmq4S9tX6JJofgPpxENEC6zmH7H2z9S0RTtT-iA8jTrnUld6bwK5Hb4XQJZ_yeWLd4N2oEqQKRVWYFp4D2sKEwK5P0U19gVHgoC7Pec9vD45DXPf0R7Nv5hQbUocX_xFF8LLs4RB_sEHhsao.ashyMvmprjQTbJ9Nu0eyDN-JiOYxRxyjeCvafOYFrQY%26dib_tag%3Dse%26keywords%3Dtennis%2Bracket%26qid%3D1718980508%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/714dnUquqiL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71dFaaQ6hoL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/719CXY+tviL._AC_UL320_.jpg"
+		]
+	},
+	"bottle": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzgyMDkxNDA3MzA1NTU3OjE3MTg5ODA1MTQ6c3BfYXRmOjIwMDA1NTc4MzkzNTI5ODo6MDo6&url=%2FPhilips-AVENT-Anti-Colic-SCY703-04%2Fdp%2FB0961KZ9X2%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.7CNhCHES0Z1avwl_V9hM0XCoJwX6Z6Qhb7pudGQ9F0yV2nh45k6dPD0dfxcYFArqwmCgfDBN-W2W2KcA0STFNlGiaihNfKyrU4XYXEWNxUGinsIilJunieraQiS9yvzNo3IMyXToiawT4mP2xk7o_cEB5otPfq3ez8Gmu1Ms-PQERSO4WMkQSumI3w4b1BIl_NGWC59AjRb5hUL5iRVNEEMTI7-RukOpS1_03j-0fw1p6HFdFzBrW_mEljXKECkruduQomb8DB3oT4gF3EvdYLvu3ioiT1TCWKwAZzK3rys.Y0Sc9dF2iqqLqdNNzPpzW1MVTwCrDObBydwaDT5Q5_k%26dib_tag%3Dse%26keywords%3Dbottle%26qid%3D1718980514%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzgyMDkxNDA3MzA1NTU3OjE3MTg5ODA1MTQ6c3BfYXRmOjIwMDA1NTc4MzkzNTI5ODo6MDo6&url=%2FPhilips-AVENT-Anti-Colic-SCY703-04%2Fdp%2FB0961KZ9X2%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.7CNhCHES0Z1avwl_V9hM0XCoJwX6Z6Qhb7pudGQ9F0yV2nh45k6dPD0dfxcYFArqwmCgfDBN-W2W2KcA0STFNlGiaihNfKyrU4XYXEWNxUGinsIilJunieraQiS9yvzNo3IMyXToiawT4mP2xk7o_cEB5otPfq3ez8Gmu1Ms-PQERSO4WMkQSumI3w4b1BIl_NGWC59AjRb5hUL5iRVNEEMTI7-RukOpS1_03j-0fw1p6HFdFzBrW_mEljXKECkruduQomb8DB3oT4gF3EvdYLvu3ioiT1TCWKwAZzK3rys.Y0Sc9dF2iqqLqdNNzPpzW1MVTwCrDObBydwaDT5Q5_k%26dib_tag%3Dse%26keywords%3Dbottle%26qid%3D1718980514%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMzgyMDkxNDA3MzA1NTU3OjE3MTg5ODA1MTQ6c3BfYXRmOjMwMDEzNDI3ODAyODQwMjo6MDo6&url=%2FWATERSY-Stainless-bottles-Insulated-Bottles%2Fdp%2FB0CQZL2BSF%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.7CNhCHES0Z1avwl_V9hM0XCoJwX6Z6Qhb7pudGQ9F0yV2nh45k6dPD0dfxcYFArqwmCgfDBN-W2W2KcA0STFNlGiaihNfKyrU4XYXEWNxUGinsIilJunieraQiS9yvzNo3IMyXToiawT4mP2xk7o_cEB5otPfq3ez8Gmu1Ms-PQERSO4WMkQSumI3w4b1BIl_NGWC59AjRb5hUL5iRVNEEMTI7-RukOpS1_03j-0fw1p6HFdFzBrW_mEljXKECkruduQomb8DB3oT4gF3EvdYLvu3ioiT1TCWKwAZzK3rys.Y0Sc9dF2iqqLqdNNzPpzW1MVTwCrDObBydwaDT5Q5_k%26dib_tag%3Dse%26keywords%3Dbottle%26qid%3D1718980514%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/716Er5kxtkS._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/51QbLng8EaL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/612wosiBRxL._AC_UL320_.jpg"
+		]
+	},
+	"wine glass": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg4MjM3NDExNDQ2NTQ2OjE3MTg5ODA1MjA6c3BfYXRmOjIwMDAxMDQ5NTQ5NzQzMTo6MDo6&url=%2FAmazonBasics-All-Purpose-Wine-Glasses-19-Ounce%2Fdp%2FB073761KD4%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.fXekxLAk42OObML0ebZ8H8gUd75UGBZo9NfTbrioV-ubgY5Uk3jdHb5yTblh7ab63gYEwSBvCEoAhroIDSiCbsSCh1xK9szZUz6DUU5AOvgSxGObywb2grTild-DJisvjwzZC6eVs88DYuHeG-uxt5RxQ0eE3YLpRZnWVSMV6DMnnLM6kI2zpaYIujSk-EYA1-HeSKznXGcvOLsmRn5qCcfH75FYPf2V7XBzBkvbFc27YHlrptHQyNYtZyIMhb_LrCbyefDiUxoGPbHCFTQoRIAMScAF9zsRuxAX85SS_EM.VzKuM0_JhObIT8PEfLm6YlKD-u4NaqS8Y2uWm_YpF-k%26dib_tag%3Dse%26keywords%3Dwine%2Bglass%26qid%3D1718980520%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg4MjM3NDExNDQ2NTQ2OjE3MTg5ODA1MjA6c3BfYXRmOjIwMDAxMDQ5NTQ5NzQzMTo6MDo6&url=%2FAmazonBasics-All-Purpose-Wine-Glasses-19-Ounce%2Fdp%2FB073761KD4%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.fXekxLAk42OObML0ebZ8H8gUd75UGBZo9NfTbrioV-ubgY5Uk3jdHb5yTblh7ab63gYEwSBvCEoAhroIDSiCbsSCh1xK9szZUz6DUU5AOvgSxGObywb2grTild-DJisvjwzZC6eVs88DYuHeG-uxt5RxQ0eE3YLpRZnWVSMV6DMnnLM6kI2zpaYIujSk-EYA1-HeSKznXGcvOLsmRn5qCcfH75FYPf2V7XBzBkvbFc27YHlrptHQyNYtZyIMhb_LrCbyefDiUxoGPbHCFTQoRIAMScAF9zsRuxAX85SS_EM.VzKuM0_JhObIT8PEfLm6YlKD-u4NaqS8Y2uWm_YpF-k%26dib_tag%3Dse%26keywords%3Dwine%2Bglass%26qid%3D1718980520%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3OTg4MjM3NDExNDQ2NTQ2OjE3MTg5ODA1MjA6c3BfYXRmOjIwMDA5MDg1ODY4ODU5ODo6MDo6&url=%2FNutriChefKitchen-Crystal-Stemless-Elegant-Glasses%2Fdp%2FB09Q3LCQ47%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.fXekxLAk42OObML0ebZ8H8gUd75UGBZo9NfTbrioV-ubgY5Uk3jdHb5yTblh7ab63gYEwSBvCEoAhroIDSiCbsSCh1xK9szZUz6DUU5AOvgSxGObywb2grTild-DJisvjwzZC6eVs88DYuHeG-uxt5RxQ0eE3YLpRZnWVSMV6DMnnLM6kI2zpaYIujSk-EYA1-HeSKznXGcvOLsmRn5qCcfH75FYPf2V7XBzBkvbFc27YHlrptHQyNYtZyIMhb_LrCbyefDiUxoGPbHCFTQoRIAMScAF9zsRuxAX85SS_EM.VzKuM0_JhObIT8PEfLm6YlKD-u4NaqS8Y2uWm_YpF-k%26dib_tag%3Dse%26keywords%3Dwine%2Bglass%26qid%3D1718980520%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81c4YNTu7kL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/51IH9n4hfLL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81v3krChPoL._AC_UL320_.jpg"
+		]
+	},
+	"cup": {
+		"url": [
+			"https://www.amazon.com/Stanley-Quencher-FlowState-Stainless-Insulated/dp/B0BQZ9K23L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.xgVlSfdPD0KCrMACKso_tgR0FxfbCPMbUzIoBcOssw7t1OofcvJHxHWiWit2i3b8vw5oJKw7ZndVdVZRO7KiSCgsbhKsqMD0YYhQXRGz2oBkFtqynhSFcRYY1uylaDcRXqZyTHARjxZ1CWZQVVnJphRwJ5zSiGE0xgPoZlbrQ0PZvslXgZ1Deb_ATu28LXWyExKWX1FIz9dEobGZPM4SjnZIEwZo3qZrrlyrFteoYz6boPivWS9gWrmx_WEVPv8iljzZBNG_t4rp4YzNskeZGZ-k6eVS_GZ4wt0UGaIEWik.3A147t_mkSCuJzROEyZQnlR0ZSIsEi4ju5KxOp3vJc0&dib_tag=se&keywords=cup&qid=1718980527&sr=8-1",
+			"https://www.amazon.com/Stanley-Quencher-FlowState-Stainless-Insulated/dp/B0BQZ9K23L/ref=sr_1_1?dib=eyJ2IjoiMSJ9.xgVlSfdPD0KCrMACKso_tgR0FxfbCPMbUzIoBcOssw7t1OofcvJHxHWiWit2i3b8vw5oJKw7ZndVdVZRO7KiSCgsbhKsqMD0YYhQXRGz2oBkFtqynhSFcRYY1uylaDcRXqZyTHARjxZ1CWZQVVnJphRwJ5zSiGE0xgPoZlbrQ0PZvslXgZ1Deb_ATu28LXWyExKWX1FIz9dEobGZPM4SjnZIEwZo3qZrrlyrFteoYz6boPivWS9gWrmx_WEVPv8iljzZBNG_t4rp4YzNskeZGZ-k6eVS_GZ4wt0UGaIEWik.3A147t_mkSCuJzROEyZQnlR0ZSIsEi4ju5KxOp3vJc0&dib_tag=se&keywords=cup&qid=1718980527&sr=8-1",
+			"https://www.amazon.com/Simple-Modern-Tumbler-Handle-Insulated/dp/B0B9HY9YX1/ref=sr_1_2?dib=eyJ2IjoiMSJ9.xgVlSfdPD0KCrMACKso_tgR0FxfbCPMbUzIoBcOssw7t1OofcvJHxHWiWit2i3b8vw5oJKw7ZndVdVZRO7KiSCgsbhKsqMD0YYhQXRGz2oBkFtqynhSFcRYY1uylaDcRXqZyTHARjxZ1CWZQVVnJphRwJ5zSiGE0xgPoZlbrQ0PZvslXgZ1Deb_ATu28LXWyExKWX1FIz9dEobGZPM4SjnZIEwZo3qZrrlyrFteoYz6boPivWS9gWrmx_WEVPv8iljzZBNG_t4rp4YzNskeZGZ-k6eVS_GZ4wt0UGaIEWik.3A147t_mkSCuJzROEyZQnlR0ZSIsEi4ju5KxOp3vJc0&dib_tag=se&keywords=cup&qid=1718980527&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/515dvIDRjwL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71DbxWvnNIL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61fbMlf2KFL._AC_UL320_.jpg"
+		]
+	},
+	"fork": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTE1OTU2MDM4MjQ5MTQ1OjE3MTg5ODA1MzM6c3BfYXRmOjIwMDAxMDUxMTIzNjEzMTo6MDo6&url=%2FAmazonBasics-Stainless-Kitchen-Dinner-Scalloped%2Fdp%2FB0736T6DCP%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.jQzWeSUtcxVSR3-qLYknS4pcFc3lOz4LfMm-kVzmiM2bf8fB_cVF119q1VMRR0Hr6VQtXUueU1Z4DS-RKjUBMBd4K8WtCu6ay0fgH53MHRn86RwR4cuC2YBuaFEskY8v_LMPF96SN9FPrYyP0KVvyktWVjSt0de1KLPeezuKQqgIU8iFm9DnLPraNQyFP6lic1G8wUD6ZjKsj1RuU1oHY0MaYBrFAjGMsiInNxzb7FpzLVwrzwskCBbMunw0NzC3SnSjuRzRsK30eCJxuNFUXXndT6iJ6LEcQiVVS7hevWE.rIs8UQmonfJLI9PgrtiIXEnb6Tk00ESNIHpiuHUCbLE%26dib_tag%3Dse%26keywords%3Dfork%26qid%3D1718980533%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTE1OTU2MDM4MjQ5MTQ1OjE3MTg5ODA1MzM6c3BfYXRmOjIwMDAxMDUxMTIzNjEzMTo6MDo6&url=%2FAmazonBasics-Stainless-Kitchen-Dinner-Scalloped%2Fdp%2FB0736T6DCP%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.jQzWeSUtcxVSR3-qLYknS4pcFc3lOz4LfMm-kVzmiM2bf8fB_cVF119q1VMRR0Hr6VQtXUueU1Z4DS-RKjUBMBd4K8WtCu6ay0fgH53MHRn86RwR4cuC2YBuaFEskY8v_LMPF96SN9FPrYyP0KVvyktWVjSt0de1KLPeezuKQqgIU8iFm9DnLPraNQyFP6lic1G8wUD6ZjKsj1RuU1oHY0MaYBrFAjGMsiInNxzb7FpzLVwrzwskCBbMunw0NzC3SnSjuRzRsK30eCJxuNFUXXndT6iJ6LEcQiVVS7hevWE.rIs8UQmonfJLI9PgrtiIXEnb6Tk00ESNIHpiuHUCbLE%26dib_tag%3Dse%26keywords%3Dfork%26qid%3D1718980533%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTE1OTU2MDM4MjQ5MTQ1OjE3MTg5ODA1MzM6c3BfYXRmOjIwMDA1OTAxMzkwMjg5ODo6MDo6&url=%2FExtra-Fine-Stainless-Flatware-Restaurant-Dishwasher%2Fdp%2FB08CRKHCPB%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.jQzWeSUtcxVSR3-qLYknS4pcFc3lOz4LfMm-kVzmiM2bf8fB_cVF119q1VMRR0Hr6VQtXUueU1Z4DS-RKjUBMBd4K8WtCu6ay0fgH53MHRn86RwR4cuC2YBuaFEskY8v_LMPF96SN9FPrYyP0KVvyktWVjSt0de1KLPeezuKQqgIU8iFm9DnLPraNQyFP6lic1G8wUD6ZjKsj1RuU1oHY0MaYBrFAjGMsiInNxzb7FpzLVwrzwskCBbMunw0NzC3SnSjuRzRsK30eCJxuNFUXXndT6iJ6LEcQiVVS7hevWE.rIs8UQmonfJLI9PgrtiIXEnb6Tk00ESNIHpiuHUCbLE%26dib_tag%3Dse%26keywords%3Dfork%26qid%3D1718980533%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/710lCkIY3RL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61mf8+C5TbL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61x9UMb8X7L._AC_UL320_.jpg"
+		]
+	},
+	"knife": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDU2ODEzMzczMDg4NTYwOjE3MTg5ODA1NDA6c3BfYXRmOjIwMDEyNTQzNjM3Mjc5ODo6MDo6&url=%2FAmazon-Basics-Classic-Chefs-Rivets%2Fdp%2FB09WW6VGHX%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.WaDPQkHC_jfYZaAPKaVODLPP4QMD0L6DdYdnNqjzDbAq7zr-0BzxUykKNyPB72rhTSL7BN2lll8tyAHByXdkwy_qDlThX9br-SnbppT4n6J2pZ-XxPmgHexMVdUIBOs-xjleuHuY3k6Ty_EyS2_1w976okcu4dHlO9ueFtzOEFj7_eSTiphpr8cVJUTSUbQ43i08foRk783y7eV2os1GLqUtzW_m2fmU9lDyKTY4JqcmcIh9RnMjZrJBXbcOIPL0m2ZOl3eguacWqx0DQINazl5-aJs91bDi-PqzL1V7iGM.51uWbv98otBsLjTaqdDBIiDYKoyNzbslDztC7oZzkHE%26dib_tag%3Dse%26keywords%3Dknife%26qid%3D1718980540%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDU2ODEzMzczMDg4NTYwOjE3MTg5ODA1NDA6c3BfYXRmOjIwMDA5ODMzOTIzMjI5ODo6MDo6&url=%2FSANMUZUO-Santoku-Knife-Damascus-Kitchen%2Fdp%2FB0B5CRFQNM%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.WaDPQkHC_jfYZaAPKaVODLPP4QMD0L6DdYdnNqjzDbAq7zr-0BzxUykKNyPB72rhTSL7BN2lll8tyAHByXdkwy_qDlThX9br-SnbppT4n6J2pZ-XxPmgHexMVdUIBOs-xjleuHuY3k6Ty_EyS2_1w976okcu4dHlO9ueFtzOEFj7_eSTiphpr8cVJUTSUbQ43i08foRk783y7eV2os1GLqUtzW_m2fmU9lDyKTY4JqcmcIh9RnMjZrJBXbcOIPL0m2ZOl3eguacWqx0DQINazl5-aJs91bDi-PqzL1V7iGM.51uWbv98otBsLjTaqdDBIiDYKoyNzbslDztC7oZzkHE%26dib_tag%3Dse%26keywords%3Dknife%26qid%3D1718980540%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDU2ODEzMzczMDg4NTYwOjE3MTg5ODA1NDA6c3BfYXRmOjIwMDA5ODMzOTIzMjI5ODo6MDo6&url=%2FSANMUZUO-Santoku-Knife-Damascus-Kitchen%2Fdp%2FB0B5CRFQNM%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.WaDPQkHC_jfYZaAPKaVODLPP4QMD0L6DdYdnNqjzDbAq7zr-0BzxUykKNyPB72rhTSL7BN2lll8tyAHByXdkwy_qDlThX9br-SnbppT4n6J2pZ-XxPmgHexMVdUIBOs-xjleuHuY3k6Ty_EyS2_1w976okcu4dHlO9ueFtzOEFj7_eSTiphpr8cVJUTSUbQ43i08foRk783y7eV2os1GLqUtzW_m2fmU9lDyKTY4JqcmcIh9RnMjZrJBXbcOIPL0m2ZOl3eguacWqx0DQINazl5-aJs91bDi-PqzL1V7iGM.51uWbv98otBsLjTaqdDBIiDYKoyNzbslDztC7oZzkHE%26dib_tag%3Dse%26keywords%3Dknife%26qid%3D1718980540%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/51A7jub2akL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81YxwPNgIYL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/91j-IKE-EHL._AC_UL320_.jpg"
+		]
+	},
+	"spoon": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MjkyNDY5OTA3Njc4Mzc2OjE3MTg5ODA1NDU6c3BfYXRmOjIwMDAxMDUwOTgxNzEzMTo6MDo6&url=%2FAmazonBasics-Stainless-Dinner-Spoons-Pearled%2Fdp%2FB0736W5C31%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.UwvKlq3Qc2NSTDQXR1TNIQxd9jhD_PlKbG3WlYKdUBEZSvGBPZ5LuZhSN5ysb6kP1WEVFcMXBLGwPrYgM-MP_NpzDKr8N84ZmMcgtbRHHZp-aayZvfiBDc8HGu9wXI9Km500eWhQ1JQiO63QMe0bxHTO4Ztcbk1xIkk-oPTgWWJmvxe7Ez_i8sbHmzqqq4A4HIBgGFnt6JBvP90NAE_JsqcIrFLav1fXFgRy1vlYPeNVEzhMpKAo4EoJ3Sc1Y2Fou36lzCJ66OM9l3Lydc6dR6JDirSqN4rzJYGXPMQjiew.SOgVIXwr4LV2X4TMLPsv-T9IydcGLZnm_Q2ZxahUv6U%26dib_tag%3Dse%26keywords%3Dspoon%26qid%3D1718980545%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MjkyNDY5OTA3Njc4Mzc2OjE3MTg5ODA1NDU6c3BfYXRmOjIwMDAxMDUwOTgxNzEzMTo6MDo6&url=%2FAmazonBasics-Stainless-Dinner-Spoons-Pearled%2Fdp%2FB0736W5C31%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.UwvKlq3Qc2NSTDQXR1TNIQxd9jhD_PlKbG3WlYKdUBEZSvGBPZ5LuZhSN5ysb6kP1WEVFcMXBLGwPrYgM-MP_NpzDKr8N84ZmMcgtbRHHZp-aayZvfiBDc8HGu9wXI9Km500eWhQ1JQiO63QMe0bxHTO4Ztcbk1xIkk-oPTgWWJmvxe7Ez_i8sbHmzqqq4A4HIBgGFnt6JBvP90NAE_JsqcIrFLav1fXFgRy1vlYPeNVEzhMpKAo4EoJ3Sc1Y2Fou36lzCJ66OM9l3Lydc6dR6JDirSqN4rzJYGXPMQjiew.SOgVIXwr4LV2X4TMLPsv-T9IydcGLZnm_Q2ZxahUv6U%26dib_tag%3Dse%26keywords%3Dspoon%26qid%3D1718980545%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Teaspoon-Stainless-Teaspoons-Silverware-Dishwasher/dp/B086D4CP3X/ref=sr_1_2?dib=eyJ2IjoiMSJ9.UwvKlq3Qc2NSTDQXR1TNIQxd9jhD_PlKbG3WlYKdUBEZSvGBPZ5LuZhSN5ysb6kP1WEVFcMXBLGwPrYgM-MP_NpzDKr8N84ZmMcgtbRHHZp-aayZvfiBDc8HGu9wXI9Km500eWhQ1JQiO63QMe0bxHTO4Ztcbk1xIkk-oPTgWWJmvxe7Ez_i8sbHmzqqq4A4HIBgGFnt6JBvP90NAE_JsqcIrFLav1fXFgRy1vlYPeNVEzhMpKAo4EoJ3Sc1Y2Fou36lzCJ66OM9l3Lydc6dR6JDirSqN4rzJYGXPMQjiew.SOgVIXwr4LV2X4TMLPsv-T9IydcGLZnm_Q2ZxahUv6U&dib_tag=se&keywords=spoon&qid=1718980545&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61cUIdyzd0L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61CmhTlGZAL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/619SfAhlAuL._AC_UL320_.jpg"
+		]
+	},
+	"bowl": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzIxMjc0MTM2MTI0OToxNzE4OTgwNTUyOnNwX2F0ZjoyMDAwNjQxMzEzODE3MTE6OjA6Og&url=%2FAmazonCommercial-oz-White-Melamine-Bowl%2Fdp%2FB08F5QY5NV%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.vAaN5W1e7g5Xy7UrVVcDqLymIWR7AMXkUAsRYSHFKIFm1SqfL-MSJza1Us2NVM6CXz0ZPy_1YE0UvJIWnI5wDtYNsWg70C144pJI7zHSsGQLeGlXJsK2S-Wv3V1Dl--Ok_YqHbcW0684b8XXqQYh0IR66qAJyVaLIFSqTMHqbaWdSo-asP7S0BVCBMFMAtxUuttsdakp-P9KqYx3enj1jp_Cwoz1t5If6dfwo89dyGDQ4b7wFkDyV8dqU72WbOMycBPH3han43VKxV-TIzLf3DvhnGtRGgoNukMUdMHZOBw.zCR_Tlf-eokbjLCxup8_S3B1yMiJFAeCqqyKVB8-WK0%26dib_tag%3Dse%26keywords%3Dbowl%26qid%3D1718980552%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzIxMjc0MTM2MTI0OToxNzE4OTgwNTUyOnNwX2F0ZjoyMDAwNjQxMzEzODE3MTE6OjA6Og&url=%2FAmazonCommercial-oz-White-Melamine-Bowl%2Fdp%2FB08F5QY5NV%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.vAaN5W1e7g5Xy7UrVVcDqLymIWR7AMXkUAsRYSHFKIFm1SqfL-MSJza1Us2NVM6CXz0ZPy_1YE0UvJIWnI5wDtYNsWg70C144pJI7zHSsGQLeGlXJsK2S-Wv3V1Dl--Ok_YqHbcW0684b8XXqQYh0IR66qAJyVaLIFSqTMHqbaWdSo-asP7S0BVCBMFMAtxUuttsdakp-P9KqYx3enj1jp_Cwoz1t5If6dfwo89dyGDQ4b7wFkDyV8dqU72WbOMycBPH3han43VKxV-TIzLf3DvhnGtRGgoNukMUdMHZOBw.zCR_Tlf-eokbjLCxup8_S3B1yMiJFAeCqqyKVB8-WK0%26dib_tag%3Dse%26keywords%3Dbowl%26qid%3D1718980552%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzIxMjc0MTM2MTI0OToxNzE4OTgwNTUyOnNwX2F0ZjozMDAyMzk1MjIzOTQ5MDI6OjA6Og&url=%2Fvancasso-Ceramic-Serving-Dishwasher-Microwave%2Fdp%2FB0C3QFZB9W%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.vAaN5W1e7g5Xy7UrVVcDqLymIWR7AMXkUAsRYSHFKIFm1SqfL-MSJza1Us2NVM6CXz0ZPy_1YE0UvJIWnI5wDtYNsWg70C144pJI7zHSsGQLeGlXJsK2S-Wv3V1Dl--Ok_YqHbcW0684b8XXqQYh0IR66qAJyVaLIFSqTMHqbaWdSo-asP7S0BVCBMFMAtxUuttsdakp-P9KqYx3enj1jp_Cwoz1t5If6dfwo89dyGDQ4b7wFkDyV8dqU72WbOMycBPH3han43VKxV-TIzLf3DvhnGtRGgoNukMUdMHZOBw.zCR_Tlf-eokbjLCxup8_S3B1yMiJFAeCqqyKVB8-WK0%26dib_tag%3Dse%26keywords%3Dbowl%26qid%3D1718980552%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/51094KzgnXL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81LLHWRr1NL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71-g1HrJKOL._AC_UL320_.jpg"
+		]
+	},
+	"banana": {
+		"url": [
+			"https://www.amazon.com/ENUOLI-Battery-Powered-Christmas-Birthday/dp/B091Y7W216/ref=sr_1_1?dib=eyJ2IjoiMSJ9.HmUcv9qW9sydxyBR-LQI7F__tL6OQgabkAxjxlSPMwrIYbs-PA4Nk-u9f_sbrVdhFaddqOfU0w0KO6363m-xBm2mQETh3Wnnhk8Vp18rv4QkBrFyw6Q7x0pMyjVIDBFwtetIfwpwKaHLjBAdpAinTuFub3Pv-KyT7FFjrZObK6DVnLHvacVzx8-MS7JkVkkrVpiTg_epv_GmNWcQpruf0A-1fzLPJI3y6t6Q4zGJQL7NcPE7dFg3RPgUpwrhRXaSwFUOqpRctfTPULjWeEO_5E1F9NhHYHDTWmLBULSEOkQ.5WclzPH5Rt6FNJR6JEAn8vH6eVsaVOOiQhN0mxpqF1s&dib_tag=se&keywords=banana&qid=1718980559&sr=8-1",
+			"https://www.amazon.com/Pieces-Stretchy-Bananas-Anxiety-Supplies/dp/B09KG9YKFZ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.HmUcv9qW9sydxyBR-LQI7F__tL6OQgabkAxjxlSPMwrIYbs-PA4Nk-u9f_sbrVdhFaddqOfU0w0KO6363m-xBm2mQETh3Wnnhk8Vp18rv4QkBrFyw6Q7x0pMyjVIDBFwtetIfwpwKaHLjBAdpAinTuFub3Pv-KyT7FFjrZObK6DVnLHvacVzx8-MS7JkVkkrVpiTg_epv_GmNWcQpruf0A-1fzLPJI3y6t6Q4zGJQL7NcPE7dFg3RPgUpwrhRXaSwFUOqpRctfTPULjWeEO_5E1F9NhHYHDTWmLBULSEOkQ.5WclzPH5Rt6FNJR6JEAn8vH6eVsaVOOiQhN0mxpqF1s&dib_tag=se&keywords=banana&qid=1718980559&sr=8-2",
+			"https://www.amazon.com/Warmtree-Novelty-Halloween-Costume-Cosplay/dp/B0C7CHVVMQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.HmUcv9qW9sydxyBR-LQI7F__tL6OQgabkAxjxlSPMwrIYbs-PA4Nk-u9f_sbrVdhFaddqOfU0w0KO6363m-xBm2mQETh3Wnnhk8Vp18rv4QkBrFyw6Q7x0pMyjVIDBFwtetIfwpwKaHLjBAdpAinTuFub3Pv-KyT7FFjrZObK6DVnLHvacVzx8-MS7JkVkkrVpiTg_epv_GmNWcQpruf0A-1fzLPJI3y6t6Q4zGJQL7NcPE7dFg3RPgUpwrhRXaSwFUOqpRctfTPULjWeEO_5E1F9NhHYHDTWmLBULSEOkQ.5WclzPH5Rt6FNJR6JEAn8vH6eVsaVOOiQhN0mxpqF1s&dib_tag=se&keywords=banana&qid=1718980559&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81zXoAJBtmL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/719HUEW+qZL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61Q33PdEbKL._AC_UL320_.jpg"
+		]
+	},
+	"apple": {
+		"url": [
+			"https://www.amazon.com/New-Apple-AirPods-Max-Space/dp/B08PZHYWJS/ref=sr_1_1?dib=eyJ2IjoiMSJ9.0tyBgNixTNvG2DJu-FmLXLfLu3S7car-wvvaJSazhlXSj618I0UKmsLXzHubpVt9DQkB3wN8D7lB42mbwLCLEalSItKHP8pdjqZDdhv3APILOjyOzMmdro4KJ8t3XmLcuThdEc0Y3Mssjm9WpGDOERF5NuO224cBgtq6IwqkjsloKvuyYLvSX10Y5WWOrHy3kXfJ60YMXshLig8cURJfiWDZK3wigwAaJk5lOV-iAxg.Q1VVzvYubkCNETrRWOcOW7bYP-00o1Nix5vrNf9xHiY&dib_tag=se&keywords=apple&qid=1718980565&sr=8-1",
+			"https://www.amazon.com/Apple-2024-MacBook-15-inch-Laptop/dp/B0CX235DJ6/ref=sr_1_2?dib=eyJ2IjoiMSJ9.0tyBgNixTNvG2DJu-FmLXLfLu3S7car-wvvaJSazhlXSj618I0UKmsLXzHubpVt9DQkB3wN8D7lB42mbwLCLEalSItKHP8pdjqZDdhv3APILOjyOzMmdro4KJ8t3XmLcuThdEc0Y3Mssjm9WpGDOERF5NuO224cBgtq6IwqkjsloKvuyYLvSX10Y5WWOrHy3kXfJ60YMXshLig8cURJfiWDZK3wigwAaJk5lOV-iAxg.Q1VVzvYubkCNETrRWOcOW7bYP-00o1Nix5vrNf9xHiY&dib_tag=se&keywords=apple&qid=1718980565&sr=8-2",
+			"https://www.amazon.com/Apple-Smartwatch-Starlight-Aluminum-Detection/dp/B0CHX7R6WJ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.0tyBgNixTNvG2DJu-FmLXLfLu3S7car-wvvaJSazhlXSj618I0UKmsLXzHubpVt9DQkB3wN8D7lB42mbwLCLEalSItKHP8pdjqZDdhv3APILOjyOzMmdro4KJ8t3XmLcuThdEc0Y3Mssjm9WpGDOERF5NuO224cBgtq6IwqkjsloKvuyYLvSX10Y5WWOrHy3kXfJ60YMXshLig8cURJfiWDZK3wigwAaJk5lOV-iAxg.Q1VVzvYubkCNETrRWOcOW7bYP-00o1Nix5vrNf9xHiY&dib_tag=se&keywords=apple&qid=1718980565&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81jqUPkIVRL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71zbUS9KpQL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/61wjDV8p6PL._AC_UY218_.jpg"
+		]
+	},
+	"sandwich": {
+		"url": [
+			"https://www.amazon.com/Sandwich-Novel-Catherine-Newman/dp/0063345161/ref=sr_1_1?dib=eyJ2IjoiMSJ9.l7BenWToOJui-X1NoLHdvOJWQvlqUiJChkLQpfB-NEVRB-NVybgmllEh_-XcF1v9WuBFooTVdiKE4aM3xklvcAhdbH0BG0N4SJDWiditfa0bkqvEsWntRZaDAx6VQEmFyTDoGuJN3M_kFfgqIAaQOou4bHuobdyyHhpJZwGPMW1xk4j7S4UUk7prk-z18sEN7ck-DgtFyfgjWvWeKCf2dnWRhOPtj2f3O8P2XainTg6zR2b7ERBUc2BVMR1VkfA28rmmaj8PB_2g9nA3ZxBZYdo-2_wutMVqJM3uFnQ3-f8.9qFjxq1p6rUqMBV5Sq6PpBD2Z2BfElpKwav2sodFJ_k&dib_tag=se&keywords=sandwich&qid=1718980570&sr=8-1",
+			"https://www.amazon.com/Sandwich-Novel-Catherine-Newman/dp/0063345161/ref=sr_1_1?dib=eyJ2IjoiMSJ9.l7BenWToOJui-X1NoLHdvOJWQvlqUiJChkLQpfB-NEVRB-NVybgmllEh_-XcF1v9WuBFooTVdiKE4aM3xklvcAhdbH0BG0N4SJDWiditfa0bkqvEsWntRZaDAx6VQEmFyTDoGuJN3M_kFfgqIAaQOou4bHuobdyyHhpJZwGPMW1xk4j7S4UUk7prk-z18sEN7ck-DgtFyfgjWvWeKCf2dnWRhOPtj2f3O8P2XainTg6zR2b7ERBUc2BVMR1VkfA28rmmaj8PB_2g9nA3ZxBZYdo-2_wutMVqJM3uFnQ3-f8.9qFjxq1p6rUqMBV5Sq6PpBD2Z2BfElpKwav2sodFJ_k&dib_tag=se&keywords=sandwich&qid=1718980570&sr=8-1",
+			"https://www.amazon.com/Amazon-Basics-Sandwich-Storage-Previously/dp/B095PQ6SX7/ref=sr_1_2?dib=eyJ2IjoiMSJ9.l7BenWToOJui-X1NoLHdvOJWQvlqUiJChkLQpfB-NEVRB-NVybgmllEh_-XcF1v9WuBFooTVdiKE4aM3xklvcAhdbH0BG0N4SJDWiditfa0bkqvEsWntRZaDAx6VQEmFyTDoGuJN3M_kFfgqIAaQOou4bHuobdyyHhpJZwGPMW1xk4j7S4UUk7prk-z18sEN7ck-DgtFyfgjWvWeKCf2dnWRhOPtj2f3O8P2XainTg6zR2b7ERBUc2BVMR1VkfA28rmmaj8PB_2g9nA3ZxBZYdo-2_wutMVqJM3uFnQ3-f8.9qFjxq1p6rUqMBV5Sq6PpBD2Z2BfElpKwav2sodFJ_k&dib_tag=se&keywords=sandwich&qid=1718980570&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81noQg1m14L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61LmVKypu7L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71ZhAr-8c7L._AC_UL320_.jpg"
+		]
+	},
+	"orange": {
+		"url": [
+			"https://www.amazon.com/BEDELITE-Fleece-Blankets-Blanket-Lightweight/dp/B09P17PRPX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.lBrCUnqQlLGpUISM0sInB5BG9ut4znZu8p4tQeqbFDZUMxa8iw6SWUvVYVnzS8V9VHoKw1DfuiQQro-kvViq6vQs2pdjSEGrL0LpALbUffFKErH1ySdMXUbQN0KPe2TQrW1eTkqPToLLqxEXtznn1MkYemPKOsoT3uw3uWa5Fu0HOL62DaDJ7KW7mYnjy-UABVkcGIeWUT_ms763aMZHt1XBLHN7b6U9AGKMrAG-tdNNKIdePukCkzPeE-AgpeX71z6lH0muRz2P5ei9pI3wqBHeN1xnY2Vbg_-cLw0Q3N0.Gmwjf6FteRSd88OmuH2FuCqnZg6pf4QtIFAr4jbKVGY&dib_tag=se&keywords=orange&qid=1718980576&sr=8-1",
+			"https://www.amazon.com/Oranges-John-McPhee/dp/0374512973/ref=sr_1_2?dib=eyJ2IjoiMSJ9.lBrCUnqQlLGpUISM0sInB5BG9ut4znZu8p4tQeqbFDZUMxa8iw6SWUvVYVnzS8V9VHoKw1DfuiQQro-kvViq6vQs2pdjSEGrL0LpALbUffFKErH1ySdMXUbQN0KPe2TQrW1eTkqPToLLqxEXtznn1MkYemPKOsoT3uw3uWa5Fu0HOL62DaDJ7KW7mYnjy-UABVkcGIeWUT_ms763aMZHt1XBLHN7b6U9AGKMrAG-tdNNKIdePukCkzPeE-AgpeX71z6lH0muRz2P5ei9pI3wqBHeN1xnY2Vbg_-cLw0Q3N0.Gmwjf6FteRSd88OmuH2FuCqnZg6pf4QtIFAr4jbKVGY&dib_tag=se&keywords=orange&qid=1718980576&sr=8-2",
+			"https://www.amazon.com/Oranges-John-McPhee/dp/0374512973/ref=sr_1_2?dib=eyJ2IjoiMSJ9.lBrCUnqQlLGpUISM0sInB5BG9ut4znZu8p4tQeqbFDZUMxa8iw6SWUvVYVnzS8V9VHoKw1DfuiQQro-kvViq6vQs2pdjSEGrL0LpALbUffFKErH1ySdMXUbQN0KPe2TQrW1eTkqPToLLqxEXtznn1MkYemPKOsoT3uw3uWa5Fu0HOL62DaDJ7KW7mYnjy-UABVkcGIeWUT_ms763aMZHt1XBLHN7b6U9AGKMrAG-tdNNKIdePukCkzPeE-AgpeX71z6lH0muRz2P5ei9pI3wqBHeN1xnY2Vbg_-cLw0Q3N0.Gmwjf6FteRSd88OmuH2FuCqnZg6pf4QtIFAr4jbKVGY&dib_tag=se&keywords=orange&qid=1718980576&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71sS4o0D3iL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71IrjsxYaUL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71RLHeUGETL._AC_UL320_.jpg"
+		]
+	},
+	"broccoli": {
+		"url": [
+			"https://www.amazon.com/Augason-Farms-Freeze-Broccoli-Florets/dp/B0096H1FN4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.3J2RE80NBLdCmwYH2oXm7Dbx2kvsU-nrUkgG8nAvowAN10aYmvCfwUZSiqhkWDaWpDkAhdlg0EbPGLVNZPiW82a4MkP37n6T82dLN4ZVrE38vqAXEG8XxEr-zq7nZdyA78zNegjXgLQkqUCUvzbRHqUT2opUU8JuxJd7itOWzjfuP7icz-t1PsOq_yY5n7TJRhLNb4NzLDaWIVMs053GIrK7Z4wh8sCON7aVUp7oJ-Z2oJ_Bba9Yb611dswrli1yWNTWOskmGD7uxq-8UGvLmWXGlQ1nfJqvKPwQg4jyLcY.MbKShySTeXgjB9JxiyArClYssFzbhpO1i-_XcYGN9O4&dib_tag=se&keywords=broccoli&qid=1718980584&sr=8-1",
+			"https://www.amazon.com/Augason-Farms-Freeze-Broccoli-Florets/dp/B0096H1FN4/ref=sr_1_1?dib=eyJ2IjoiMSJ9.3J2RE80NBLdCmwYH2oXm7Dbx2kvsU-nrUkgG8nAvowAN10aYmvCfwUZSiqhkWDaWpDkAhdlg0EbPGLVNZPiW82a4MkP37n6T82dLN4ZVrE38vqAXEG8XxEr-zq7nZdyA78zNegjXgLQkqUCUvzbRHqUT2opUU8JuxJd7itOWzjfuP7icz-t1PsOq_yY5n7TJRhLNb4NzLDaWIVMs053GIrK7Z4wh8sCON7aVUp7oJ-Z2oJ_Bba9Yb611dswrli1yWNTWOskmGD7uxq-8UGvLmWXGlQ1nfJqvKPwQg4jyLcY.MbKShySTeXgjB9JxiyArClYssFzbhpO1i-_XcYGN9O4&dib_tag=se&keywords=broccoli&qid=1718980584&sr=8-1",
+			"https://www.amazon.com/Micro-Ingredients-Antioxidants-Flavonoids-Superfood/dp/B07QQ3HTM5/ref=sr_1_2?dib=eyJ2IjoiMSJ9.3J2RE80NBLdCmwYH2oXm7Dbx2kvsU-nrUkgG8nAvowAN10aYmvCfwUZSiqhkWDaWpDkAhdlg0EbPGLVNZPiW82a4MkP37n6T82dLN4ZVrE38vqAXEG8XxEr-zq7nZdyA78zNegjXgLQkqUCUvzbRHqUT2opUU8JuxJd7itOWzjfuP7icz-t1PsOq_yY5n7TJRhLNb4NzLDaWIVMs053GIrK7Z4wh8sCON7aVUp7oJ-Z2oJ_Bba9Yb611dswrli1yWNTWOskmGD7uxq-8UGvLmWXGlQ1nfJqvKPwQg4jyLcY.MbKShySTeXgjB9JxiyArClYssFzbhpO1i-_XcYGN9O4&dib_tag=se&keywords=broccoli&qid=1718980584&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81vunGJH3zL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61TfCHZnMvL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71X9DRQVX1L._AC_UL320_.jpg"
+		]
+	},
+	"carrot": {
+		"url": [
+			"https://www.amazon.com/Prasacco-Artificial-Simulation-Vegetables-Decorations/dp/B0D1KLHS35/ref=sr_1_1?dib=eyJ2IjoiMSJ9.k11yym6_Memr8H5UnnteUznYvuIcP9YT08GxMtfiQG7ai2-L8aEHMzf-5h2ltXHcJobUa3JLldUzZtX2wGGQImo4k5vOP-m6IRdzHe3g07EUdy9jgOvvAyWyQ_rBliEMwJ1OB-B9D01GU4Q7ejyyZxqao0Tx5nUCH8_OWW28aOtHJWJDZ3Q4ughhJynCbCHrCsIUiw97ZyX2ohZxdmF_3d5DN6Bq3rvGl1AxBGrYG27dBS1Khs_c0wAcHnO-rjPzWTf_wtQs8b7UydMi61UcA_xO62nXxRM5GNqx7bPrOlU.9jFtu4hjxufLlk7uuXiPBXOV7xtCylYpvSRWkmTmnoc&dib_tag=se&keywords=carrot&qid=1718980590&sr=8-1",
+			"https://www.amazon.com/Rainbow-Seeds-Planting-Heirloom-Packets/dp/B0CWFKFKNQ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.k11yym6_Memr8H5UnnteUznYvuIcP9YT08GxMtfiQG7ai2-L8aEHMzf-5h2ltXHcJobUa3JLldUzZtX2wGGQImo4k5vOP-m6IRdzHe3g07EUdy9jgOvvAyWyQ_rBliEMwJ1OB-B9D01GU4Q7ejyyZxqao0Tx5nUCH8_OWW28aOtHJWJDZ3Q4ughhJynCbCHrCsIUiw97ZyX2ohZxdmF_3d5DN6Bq3rvGl1AxBGrYG27dBS1Khs_c0wAcHnO-rjPzWTf_wtQs8b7UydMi61UcA_xO62nXxRM5GNqx7bPrOlU.9jFtu4hjxufLlk7uuXiPBXOV7xtCylYpvSRWkmTmnoc&dib_tag=se&keywords=carrot&qid=1718980590&sr=8-2",
+			"https://www.amazon.com/Artificial-Lifelike-Vegetable-Decoration-Photography/dp/B09J82Y1TZ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.k11yym6_Memr8H5UnnteUznYvuIcP9YT08GxMtfiQG7ai2-L8aEHMzf-5h2ltXHcJobUa3JLldUzZtX2wGGQImo4k5vOP-m6IRdzHe3g07EUdy9jgOvvAyWyQ_rBliEMwJ1OB-B9D01GU4Q7ejyyZxqao0Tx5nUCH8_OWW28aOtHJWJDZ3Q4ughhJynCbCHrCsIUiw97ZyX2ohZxdmF_3d5DN6Bq3rvGl1AxBGrYG27dBS1Khs_c0wAcHnO-rjPzWTf_wtQs8b7UydMi61UcA_xO62nXxRM5GNqx7bPrOlU.9jFtu4hjxufLlk7uuXiPBXOV7xtCylYpvSRWkmTmnoc&dib_tag=se&keywords=carrot&qid=1718980590&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/610zM-8bzAL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81W1U3smfUL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61ozivoptBL._AC_UL320_.jpg"
+		]
+	},
+	"hot dog": {
+		"url": [
+			"https://www.amazon.com/Hot-Dog-Doug-Salati/dp/0593308433/ref=sr_1_1?dib=eyJ2IjoiMSJ9.LoeiFm1i3LzO87_kYi6azSDs1qyhbxQglkcszWPpwrOrKtIX0Bhvsw0r_DV9swqvw4_pZMZAN3JgederTwzwzaf4O3Ak-YqBW1ejZh_7N63aXVJ1MELN7ThWnmJVl5QacHwyssoSreVXnVR3p2-HDlWPQPYup_7MEdybyqQloRhsSc3GmsuEVsQkwrrBxqAKQFAInh7XABXFgtGC_Zgg50hm0kNjxXmXqGP6Wrlmd7dhzO20uGAQ2CTLuY8Fyaz0SaLeI-EeuZ9vi_hFQpvbXCJ0526_SK6AvlVBg-GcKyc.EIOfXDLLYlLcJqBArLBKdP4VpDKnXycTr0_TrZ5j6kg&dib_tag=se&keywords=hot+dog&qid=1718980596&sr=8-1",
+			"https://www.amazon.com/Hot-Dog-Doug-Salati/dp/0593308433/ref=sr_1_1?dib=eyJ2IjoiMSJ9.LoeiFm1i3LzO87_kYi6azSDs1qyhbxQglkcszWPpwrOrKtIX0Bhvsw0r_DV9swqvw4_pZMZAN3JgederTwzwzaf4O3Ak-YqBW1ejZh_7N63aXVJ1MELN7ThWnmJVl5QacHwyssoSreVXnVR3p2-HDlWPQPYup_7MEdybyqQloRhsSc3GmsuEVsQkwrrBxqAKQFAInh7XABXFgtGC_Zgg50hm0kNjxXmXqGP6Wrlmd7dhzO20uGAQ2CTLuY8Fyaz0SaLeI-EeuZ9vi_hFQpvbXCJ0526_SK6AvlVBg-GcKyc.EIOfXDLLYlLcJqBArLBKdP4VpDKnXycTr0_TrZ5j6kg&dib_tag=se&keywords=hot+dog&qid=1718980596&sr=8-1",
+			"https://www.amazon.com/Oscar-Mayer-Toaster-Chicken-Sausages/dp/B0B5VZXXN1/ref=sr_1_2?dib=eyJ2IjoiMSJ9.LoeiFm1i3LzO87_kYi6azSDs1qyhbxQglkcszWPpwrOrKtIX0Bhvsw0r_DV9swqvw4_pZMZAN3JgederTwzwzaf4O3Ak-YqBW1ejZh_7N63aXVJ1MELN7ThWnmJVl5QacHwyssoSreVXnVR3p2-HDlWPQPYup_7MEdybyqQloRhsSc3GmsuEVsQkwrrBxqAKQFAInh7XABXFgtGC_Zgg50hm0kNjxXmXqGP6Wrlmd7dhzO20uGAQ2CTLuY8Fyaz0SaLeI-EeuZ9vi_hFQpvbXCJ0526_SK6AvlVBg-GcKyc.EIOfXDLLYlLcJqBArLBKdP4VpDKnXycTr0_TrZ5j6kg&dib_tag=se&keywords=hot+dog&qid=1718980596&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/911Vo-anzxL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/717fQaDk6eL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71h5NUSP7+S._AC_UL320_.jpg"
+		]
+	},
+	"pizza": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MTEzMDQ4MTgyODY1MDA6MTcxODk4MDYwNDpzcF9hdGY6MzAwMTczMjQxNTQ2MDAyOjowOjo&url=%2FNinja-Woodfire-Technology-terracotta-OO101%2Fdp%2FB0C6BQVDX3%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.lRhkH7yrGV1sYTWbunVWqnXYTOg3WWCs8uiNe2Mr0AA1IT3X7smb8_5tFmCbvr7Y78Bh2cmRgHDA4CqEaIUIiDN1gIT6curhwwmYaeQNACxjH6dYlMrPVDXY5IZntAgl70oPUBCOGw1Gl3vV-9wB245B6TR0sP9IBGOCOqWeoaUX9cHiSVEcKXYlp8LHaYXPOMCgdlGmKFGZNaT0vR64MXZwFUhmppsTv6Zp2_rZJBEp6EGe0TjHmU6DeDsZXtv2fAt0Za1sLBuIaAne3ubj5hAmyTIoPlda39hSX8Xpprw.HtqaTJrM9l_RqOV4fT2qR_z9tWAESnZ2jFQ2xHpprw8%26dib_tag%3Dse%26keywords%3Dpizza%26qid%3D1718980603%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MTEzMDQ4MTgyODY1MDA6MTcxODk4MDYwNDpzcF9hdGY6MzAwMTczMjQxNTQ2MDAyOjowOjo&url=%2FNinja-Woodfire-Technology-terracotta-OO101%2Fdp%2FB0C6BQVDX3%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.lRhkH7yrGV1sYTWbunVWqnXYTOg3WWCs8uiNe2Mr0AA1IT3X7smb8_5tFmCbvr7Y78Bh2cmRgHDA4CqEaIUIiDN1gIT6curhwwmYaeQNACxjH6dYlMrPVDXY5IZntAgl70oPUBCOGw1Gl3vV-9wB245B6TR0sP9IBGOCOqWeoaUX9cHiSVEcKXYlp8LHaYXPOMCgdlGmKFGZNaT0vR64MXZwFUhmppsTv6Zp2_rZJBEp6EGe0TjHmU6DeDsZXtv2fAt0Za1sLBuIaAne3ubj5hAmyTIoPlda39hSX8Xpprw.HtqaTJrM9l_RqOV4fT2qR_z9tWAESnZ2jFQ2xHpprw8%26dib_tag%3Dse%26keywords%3Dpizza%26qid%3D1718980603%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MTEzMDQ4MTgyODY1MDA6MTcxODk4MDYwNDpzcF9hdGY6MzAwMTkzNjYyMDYzNjAyOjowOjo&url=%2FNutrichef-Outdoor-Rotating-Adjustable-Control%2Fdp%2FB0D26FDMLQ%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.lRhkH7yrGV1sYTWbunVWqnXYTOg3WWCs8uiNe2Mr0AA1IT3X7smb8_5tFmCbvr7Y78Bh2cmRgHDA4CqEaIUIiDN1gIT6curhwwmYaeQNACxjH6dYlMrPVDXY5IZntAgl70oPUBCOGw1Gl3vV-9wB245B6TR0sP9IBGOCOqWeoaUX9cHiSVEcKXYlp8LHaYXPOMCgdlGmKFGZNaT0vR64MXZwFUhmppsTv6Zp2_rZJBEp6EGe0TjHmU6DeDsZXtv2fAt0Za1sLBuIaAne3ubj5hAmyTIoPlda39hSX8Xpprw.HtqaTJrM9l_RqOV4fT2qR_z9tWAESnZ2jFQ2xHpprw8%26dib_tag%3Dse%26keywords%3Dpizza%26qid%3D1718980603%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81B1mEzWkPL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71p+LwkHDBL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81uo9ujdBCL._AC_UL320_.jpg"
+		]
+	},
+	"donut": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMDk5NTQzNzE5MjUyNjMzOjE3MTg5ODA2MTA6c3BfYXRmOjIwMDE3ODQxNTY0MTE5ODo6MDo6&url=%2FErgonomic-Innovations-Hemorrhoids-Postpartum-Hemorrhoid%2Fdp%2FB01LSR1FD4%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.WS0GiXyGltL73uo-kb9j4GhJbHjLgC-JJdTdpx3b8ZJ_PueTUmm2Tq9JYndRsEWXs3IRwFu1LLlmE1b4ex45UdnszgKjBBY24tVY_hHanLVnECuJYsiab-nSjWHBQBLwJ7hQvs_eqA2Zg8uCOit7wu_CtKZF6eckYcHtUiETMwU1hOrwh6BcgyEGdQLApevu-rnOvJbk5-LSE9Yecx3GfYiE3tBY_j5AtXPZyewm7c_Bm9tcb5rb2l6Y0dxYMQII6yojcAXXfHMDhscoSIJs8Y3ySDH8rxsSBR379zlTvyE.uHUX85j8C5jUbfDmTkkXa3dVVPVCCdp32ae4Lx5WyQY%26dib_tag%3Dse%26keywords%3Ddonut%26qid%3D1718980610%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/CloudBliss-Tailbone-Hemorrhoids-Postpartum-Pregnancy/dp/B0CB5TNW58/ref=sr_1_2?dib=eyJ2IjoiMSJ9.WS0GiXyGltL73uo-kb9j4GhJbHjLgC-JJdTdpx3b8ZJ_PueTUmm2Tq9JYndRsEWXs3IRwFu1LLlmE1b4ex45UdnszgKjBBY24tVY_hHanLVnECuJYsiab-nSjWHBQBLwJ7hQvs_eqA2Zg8uCOit7wu_CtKZF6eckYcHtUiETMwU1hOrwh6BcgyEGdQLApevu-rnOvJbk5-LSE9Yecx3GfYiE3tBY_j5AtXPZyewm7c_Bm9tcb5rb2l6Y0dxYMQII6yojcAXXfHMDhscoSIJs8Y3ySDH8rxsSBR379zlTvyE.uHUX85j8C5jUbfDmTkkXa3dVVPVCCdp32ae4Lx5WyQY&dib_tag=se&keywords=donut&qid=1718980610&sr=8-2",
+			"https://www.amazon.com/BlissTrends-Cushions-Postpartum-Pregnancy-Hemorrhoids/dp/B0BZPQH141/ref=sr_1_3?dib=eyJ2IjoiMSJ9.WS0GiXyGltL73uo-kb9j4GhJbHjLgC-JJdTdpx3b8ZJ_PueTUmm2Tq9JYndRsEWXs3IRwFu1LLlmE1b4ex45UdnszgKjBBY24tVY_hHanLVnECuJYsiab-nSjWHBQBLwJ7hQvs_eqA2Zg8uCOit7wu_CtKZF6eckYcHtUiETMwU1hOrwh6BcgyEGdQLApevu-rnOvJbk5-LSE9Yecx3GfYiE3tBY_j5AtXPZyewm7c_Bm9tcb5rb2l6Y0dxYMQII6yojcAXXfHMDhscoSIJs8Y3ySDH8rxsSBR379zlTvyE.uHUX85j8C5jUbfDmTkkXa3dVVPVCCdp32ae4Lx5WyQY&dib_tag=se&keywords=donut&qid=1718980610&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81ILxGJUlQL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71q7lZypgsL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81AL0b+LorL._AC_UL320_.jpg"
+		]
+	},
+	"cake": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NDkxMTc5NTYxODk0NzYzOjE3MTg5ODA2MTY6c3BfYXRmOjMwMDE3NDQ4MTM0MzgwMjo6MDo6&url=%2FBekoetoz-10-Pack-Round-Sturdy-Tiered%2Fdp%2FB0CZ6NBPJM%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.KGZ30t_E19qtrPDC_KfhnCpQeXTWzIcXwQC0IXuzdv_mvyruWWJORgR8gtedYBAq62Ys2y2f3ZnQuaubeV6u4-gbnW3yqexonEoBuaTsLKU-9SQyhlX5Kibkd5Vw0zqO6o5oF-pBQ-PboTIPy2LSyR7tISM2cXIDSN7D-e7cWRsKQwqqz7jOpVL-HJLNO3dVatRbbRdh7-DbXvotrzY7bcU81Qil_c0VZe4q7XC8PT1kGG3vAuOsTsr2CMRwZv-j2re5nELvvehPpcxem2Qj57P63wNDoG8rG5tnK7EY3ag.WYaE-GI2hSYisZ_f0Q_-62xjn0X0CWF6hCEMBTFS2xo%26dib_tag%3Dse%26keywords%3Dcake%26qid%3D1718980616%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NDkxMTc5NTYxODk0NzYzOjE3MTg5ODA2MTY6c3BfYXRmOjMwMDE3NDQ4MTM0MzgwMjo6MDo6&url=%2FBekoetoz-10-Pack-Round-Sturdy-Tiered%2Fdp%2FB0CZ6NBPJM%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.KGZ30t_E19qtrPDC_KfhnCpQeXTWzIcXwQC0IXuzdv_mvyruWWJORgR8gtedYBAq62Ys2y2f3ZnQuaubeV6u4-gbnW3yqexonEoBuaTsLKU-9SQyhlX5Kibkd5Vw0zqO6o5oF-pBQ-PboTIPy2LSyR7tISM2cXIDSN7D-e7cWRsKQwqqz7jOpVL-HJLNO3dVatRbbRdh7-DbXvotrzY7bcU81Qil_c0VZe4q7XC8PT1kGG3vAuOsTsr2CMRwZv-j2re5nELvvehPpcxem2Qj57P63wNDoG8rG5tnK7EY3ag.WYaE-GI2hSYisZ_f0Q_-62xjn0X0CWF6hCEMBTFS2xo%26dib_tag%3Dse%26keywords%3Dcake%26qid%3D1718980616%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/Cake-Stroking-Transforming-Moisturizing-Maximizing/dp/B099TCJNND/ref=sr_1_2?dib=eyJ2IjoiMSJ9.KGZ30t_E19qtrPDC_KfhnCpQeXTWzIcXwQC0IXuzdv_mvyruWWJORgR8gtedYBAq62Ys2y2f3ZnQuaubeV6u4-gbnW3yqexonEoBuaTsLKU-9SQyhlX5Kibkd5Vw0zqO6o5oF-pBQ-PboTIPy2LSyR7tISM2cXIDSN7D-e7cWRsKQwqqz7jOpVL-HJLNO3dVatRbbRdh7-DbXvotrzY7bcU81Qil_c0VZe4q7XC8PT1kGG3vAuOsTsr2CMRwZv-j2re5nELvvehPpcxem2Qj57P63wNDoG8rG5tnK7EY3ag.WYaE-GI2hSYisZ_f0Q_-62xjn0X0CWF6hCEMBTFS2xo&dib_tag=se&keywords=cake&qid=1718980616&sr=8-2"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71gmnOWyuLL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71EBv-NM0FL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/817V3g2IWBL._AC_UL320_.jpg"
+		]
+	},
+	"chair": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MjE4MTAwNjczODYxMTI0OjE3MTg5ODA2MjI6c3BfYXRmOjIwMDAxMTcxMzU1MjYzMTo6MDo6&url=%2FAmazon-Basics-Pneumatic-Breathable-Adjustable%2Fdp%2FB01D7P5BFS%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.UJquNW5O_QeoMkSaen8PrQ0IQFVeLMK3Rk7u08QQ0og5hgHO2e0i2Wv1iXgk3hKKXYg2GF3wjfibgPwet-wdSP4RmfLAHDMQiF-Iud2zY3wbgr8TYG4vUHcXObdnCOTblOo3k20lcPzqtqOJV6_Ce1XkeCoXChl-4v9UX2VSvJlysiB0uhIqnRR6w4tvlZFaAeHJv2vbPdqbhrS3g3h7kiS-DjBiCPmBj7FoRKizzut7f9kHFkkdz06TMapa49dr9M8usu4fH7Y4Ofn-AvECfLNhGw_aFGodUAbqXDhwbr4.-lBtkhe3FViCqVnGWdfYYcK6rbI4c39-sxME7Dx7QQk%26dib_tag%3Dse%26keywords%3Dchair%26qid%3D1718980622%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MjE4MTAwNjczODYxMTI0OjE3MTg5ODA2MjI6c3BfYXRmOjIwMDAxMTcxMzU1MjYzMTo6MDo6&url=%2FAmazon-Basics-Pneumatic-Breathable-Adjustable%2Fdp%2FB01D7P5BFS%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.UJquNW5O_QeoMkSaen8PrQ0IQFVeLMK3Rk7u08QQ0og5hgHO2e0i2Wv1iXgk3hKKXYg2GF3wjfibgPwet-wdSP4RmfLAHDMQiF-Iud2zY3wbgr8TYG4vUHcXObdnCOTblOo3k20lcPzqtqOJV6_Ce1XkeCoXChl-4v9UX2VSvJlysiB0uhIqnRR6w4tvlZFaAeHJv2vbPdqbhrS3g3h7kiS-DjBiCPmBj7FoRKizzut7f9kHFkkdz06TMapa49dr9M8usu4fH7Y4Ofn-AvECfLNhGw_aFGodUAbqXDhwbr4.-lBtkhe3FViCqVnGWdfYYcK6rbI4c39-sxME7Dx7QQk%26dib_tag%3Dse%26keywords%3Dchair%26qid%3D1718980622%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0MjE4MTAwNjczODYxMTI0OjE3MTg5ODA2MjI6c3BfYXRmOjIwMDAxOTY0MDY0MTQ0MTo6MDo6&url=%2FChristopher-Knight-Home-301453-Century%2Fdp%2FB07CDZNQHM%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.UJquNW5O_QeoMkSaen8PrQ0IQFVeLMK3Rk7u08QQ0og5hgHO2e0i2Wv1iXgk3hKKXYg2GF3wjfibgPwet-wdSP4RmfLAHDMQiF-Iud2zY3wbgr8TYG4vUHcXObdnCOTblOo3k20lcPzqtqOJV6_Ce1XkeCoXChl-4v9UX2VSvJlysiB0uhIqnRR6w4tvlZFaAeHJv2vbPdqbhrS3g3h7kiS-DjBiCPmBj7FoRKizzut7f9kHFkkdz06TMapa49dr9M8usu4fH7Y4Ofn-AvECfLNhGw_aFGodUAbqXDhwbr4.-lBtkhe3FViCqVnGWdfYYcK6rbI4c39-sxME7Dx7QQk%26dib_tag%3Dse%26keywords%3Dchair%26qid%3D1718980622%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71yxAKCrQrL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/51IkT3JTtpL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71ZTBGT0Q6L._AC_UL320_.jpg"
+		]
+	},
+	"couch": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzMyOTc3OTI5Mjk5ODc5OjE3MTg5ODA2Mjg6c3BfYXRmOjMwMDIxMzEzMzQ2MDgwMjo6MDo6&url=%2FLUGSHIREE-Upholstered-Creative-Furniture-Decorative%2Fdp%2FB0B5RDRZVS%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.r4gqs8zTa5ml5d2aOShnkfmr4dma6ddzsCyMBkfkNBQN_7YEAoFUsumjBAzpx29s9jrRS1oFHNacPS6C-cMkvBmmtR7rRYzZUXwS04V2aZUdBdjDD2keDvfhuBOz3beybm5XA4cjIvdLJ5UyjawvFtl-m5haWdyWkU369r-VXeBC3OAE_i9Tofs3W7r5zmuW3Px-8wYcyXC2R_gM8Uy7U2ShLyPeT6fS5jkYqgZzF1OJGUsCryeIHSZp4U0GJj7wVX7hZMxLY-fXGCT5gex1GZltYmU8Jl5iCeO49LyQLTc.wq9SyNbYM1wHtfrk-gP35bRMRlmn2RxHA3US0jVn7dc%26dib_tag%3Dse%26keywords%3Dcouch%26qid%3D1718980628%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzMyOTc3OTI5Mjk5ODc5OjE3MTg5ODA2Mjg6c3BfYXRmOjMwMDE3MzcwMTMxNjIwMjo6MDo6&url=%2FWILLOVE-Convertible-Adjustable-Armrests-Backrest%2Fdp%2FB0CM8TZJW2%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.r4gqs8zTa5ml5d2aOShnkfmr4dma6ddzsCyMBkfkNBQN_7YEAoFUsumjBAzpx29s9jrRS1oFHNacPS6C-cMkvBmmtR7rRYzZUXwS04V2aZUdBdjDD2keDvfhuBOz3beybm5XA4cjIvdLJ5UyjawvFtl-m5haWdyWkU369r-VXeBC3OAE_i9Tofs3W7r5zmuW3Px-8wYcyXC2R_gM8Uy7U2ShLyPeT6fS5jkYqgZzF1OJGUsCryeIHSZp4U0GJj7wVX7hZMxLY-fXGCT5gex1GZltYmU8Jl5iCeO49LyQLTc.wq9SyNbYM1wHtfrk-gP35bRMRlmn2RxHA3US0jVn7dc%26dib_tag%3Dse%26keywords%3Dcouch%26qid%3D1718980628%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MzMyOTc3OTI5Mjk5ODc5OjE3MTg5ODA2Mjg6c3BfYXRmOjMwMDE3MzcwMTMxNjIwMjo6MDo6&url=%2FWILLOVE-Convertible-Adjustable-Armrests-Backrest%2Fdp%2FB0CM8TZJW2%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.r4gqs8zTa5ml5d2aOShnkfmr4dma6ddzsCyMBkfkNBQN_7YEAoFUsumjBAzpx29s9jrRS1oFHNacPS6C-cMkvBmmtR7rRYzZUXwS04V2aZUdBdjDD2keDvfhuBOz3beybm5XA4cjIvdLJ5UyjawvFtl-m5haWdyWkU369r-VXeBC3OAE_i9Tofs3W7r5zmuW3Px-8wYcyXC2R_gM8Uy7U2ShLyPeT6fS5jkYqgZzF1OJGUsCryeIHSZp4U0GJj7wVX7hZMxLY-fXGCT5gex1GZltYmU8Jl5iCeO49LyQLTc.wq9SyNbYM1wHtfrk-gP35bRMRlmn2RxHA3US0jVn7dc%26dib_tag%3Dse%26keywords%3Dcouch%26qid%3D1718980628%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61HTRTPDXHL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71q31fn-J4L._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/51ex1bVmm1L._AC_UL320_.jpg"
+		]
+	},
+	"potted plant": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNDA0NDEyODM4NTYzMzU4OjE3MTg5ODA2MzQ6c3BfYXRmOjIwMDA1MjU1NzUzNDk5ODo6MDo6&url=%2FMOSADE-Artificial-Handmade-Seagrass-Bathroom%2Fdp%2FB09L7YQ7BN%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.SQbak_6xgYbYqhMomyAIZmLudaCeNWITGffNm54J-fWDIWEhCccuIan_U3eAk2yaEDYnpvCi_xOFk0zrdzVXef31EC30GNOSA4thnvD9OTAYnPaHfe5LM19uNTx16DaEikzxIxYDn9Ryfny2Y343CH5QzucAa-PZ0U5AKhkrinGND07uh2ZGTS6WLtcVkL_z1gKsUhhrCiq85Wb6DcKwcOsOOiaKFdo3ohWLznNDu-j53RVrB_78b1f6cprVv_nWh0AepdJq3rtKgMvwp5dBETlk9H4725faZo3I3LtZ00k.a_oaOP4RxNrw8I9He5ZT-Vcgl6FqRKhPluFUZDLkM7c%26dib_tag%3Dse%26keywords%3Dpotted%2Bplant%26qid%3D1718980634%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNDA0NDEyODM4NTYzMzU4OjE3MTg5ODA2MzQ6c3BfYXRmOjIwMDA1MzYyNzkxMzE5ODo6MDo6&url=%2FMOSADE-Artificial-Handmade-Seagrass-Bathroom%2Fdp%2FB09LBZTDJW%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.SQbak_6xgYbYqhMomyAIZmLudaCeNWITGffNm54J-fWDIWEhCccuIan_U3eAk2yaEDYnpvCi_xOFk0zrdzVXef31EC30GNOSA4thnvD9OTAYnPaHfe5LM19uNTx16DaEikzxIxYDn9Ryfny2Y343CH5QzucAa-PZ0U5AKhkrinGND07uh2ZGTS6WLtcVkL_z1gKsUhhrCiq85Wb6DcKwcOsOOiaKFdo3ohWLznNDu-j53RVrB_78b1f6cprVv_nWh0AepdJq3rtKgMvwp5dBETlk9H4725faZo3I3LtZ00k.a_oaOP4RxNrw8I9He5ZT-Vcgl6FqRKhPluFUZDLkM7c%26dib_tag%3Dse%26keywords%3Dpotted%2Bplant%26qid%3D1718980634%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNDA0NDEyODM4NTYzMzU4OjE3MTg5ODA2MzQ6c3BfYXRmOjIwMDA0MTU4ODE2Nzc5ODo6MDo6&url=%2FKinkota-Artificial-Plants-Eucalyptus-Centerpieces%2Fdp%2FB091DNQKWZ%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.SQbak_6xgYbYqhMomyAIZmLudaCeNWITGffNm54J-fWDIWEhCccuIan_U3eAk2yaEDYnpvCi_xOFk0zrdzVXef31EC30GNOSA4thnvD9OTAYnPaHfe5LM19uNTx16DaEikzxIxYDn9Ryfny2Y343CH5QzucAa-PZ0U5AKhkrinGND07uh2ZGTS6WLtcVkL_z1gKsUhhrCiq85Wb6DcKwcOsOOiaKFdo3ohWLznNDu-j53RVrB_78b1f6cprVv_nWh0AepdJq3rtKgMvwp5dBETlk9H4725faZo3I3LtZ00k.a_oaOP4RxNrw8I9He5ZT-Vcgl6FqRKhPluFUZDLkM7c%26dib_tag%3Dse%26keywords%3Dpotted%2Bplant%26qid%3D1718980634%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71WXaXXxdEL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81MQ69MotaL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81MTMGEejmL._AC_UL320_.jpg"
+		]
+	},
+	"bed": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozODAyNTgzMjIzMjkyNTg0OjE3MTg5ODA2Mzg6c3BfYXRmOjIwMDAxNDA0NDM3NDEzMTo6MDo6&url=%2FLinenspa-14-Inch-Folding-Metal-Platform-Bed-Frame%2Fdp%2FB07QVSK9LV%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.xmRGxtsAlh64iXEMluJGaulrsPkaHOAZ_Qp_U7yOGAyFq375N2vAhiYpSwvi1kiCbzbTKsD2fHCYSOQbBvyxZuNnF1OInx2jZaFd-xerhaOH1cU5Js7i4P3h4y5oTdp_Uyqb2hMBSAgt3lHPSuakyKKp9VOQzWPBbMrKIYefgK0CeQNC7b5DwWt2GqPL4Ya1T2fmOn4TiUGQikcTCs6pe-0gbwvndrkwhtGL0iB754pH3o65SIDaw3WtQCgJBjTrtvLDg4-o74S7dpW_mFRHpG-ciXwTD4VLn9kIsOjBYZY.AYFWOUDdEx3cKRE9AHGmmSgaiFD7FYZNKeUgcVzeyuE%26dib_tag%3Dse%26keywords%3Dbed%26qid%3D1718980638%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozODAyNTgzMjIzMjkyNTg0OjE3MTg5ODA2Mzg6c3BfYXRmOjIwMDAxNDA0NDM3NDEzMTo6MDo6&url=%2FLinenspa-14-Inch-Folding-Metal-Platform-Bed-Frame%2Fdp%2FB07QVSK9LV%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.xmRGxtsAlh64iXEMluJGaulrsPkaHOAZ_Qp_U7yOGAyFq375N2vAhiYpSwvi1kiCbzbTKsD2fHCYSOQbBvyxZuNnF1OInx2jZaFd-xerhaOH1cU5Js7i4P3h4y5oTdp_Uyqb2hMBSAgt3lHPSuakyKKp9VOQzWPBbMrKIYefgK0CeQNC7b5DwWt2GqPL4Ya1T2fmOn4TiUGQikcTCs6pe-0gbwvndrkwhtGL0iB754pH3o65SIDaw3WtQCgJBjTrtvLDg4-o74S7dpW_mFRHpG-ciXwTD4VLn9kIsOjBYZY.AYFWOUDdEx3cKRE9AHGmmSgaiFD7FYZNKeUgcVzeyuE%26dib_tag%3Dse%26keywords%3Dbed%26qid%3D1718980638%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozODAyNTgzMjIzMjkyNTg0OjE3MTg5ODA2Mzg6c3BfYXRmOjIwMDEwMzI0MDMwMjE5ODo6MDo6&url=%2FKingfun-Mattress-Gel-Infused-Foldable-Breathable%2Fdp%2FB09TK6VH67%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.xmRGxtsAlh64iXEMluJGaulrsPkaHOAZ_Qp_U7yOGAyFq375N2vAhiYpSwvi1kiCbzbTKsD2fHCYSOQbBvyxZuNnF1OInx2jZaFd-xerhaOH1cU5Js7i4P3h4y5oTdp_Uyqb2hMBSAgt3lHPSuakyKKp9VOQzWPBbMrKIYefgK0CeQNC7b5DwWt2GqPL4Ya1T2fmOn4TiUGQikcTCs6pe-0gbwvndrkwhtGL0iB754pH3o65SIDaw3WtQCgJBjTrtvLDg4-o74S7dpW_mFRHpG-ciXwTD4VLn9kIsOjBYZY.AYFWOUDdEx3cKRE9AHGmmSgaiFD7FYZNKeUgcVzeyuE%26dib_tag%3Dse%26keywords%3Dbed%26qid%3D1718980638%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/818yrwqKGmL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/91CbXokNzXL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71SsP38bSgL._AC_UL320_.jpg"
+		]
+	},
+	"dining table": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDg2ODk0NjQwMDExNjMyOjE3MTg5ODA2NDM6c3BfYXRmOjIwMDA3MTc1OTYxMjM5ODo6MDo6&url=%2FAmazon-Basics-Kitchen-Dining-Natural%2Fdp%2FB09K4GM8D9%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.tq4bPBcEHi6XrCZo8F8X7TTh9lGJq8LB6_HrAr2VMmYQQSPws-WumsMIuvdCwjLzIZHBNITFmX3TznSS7jzBFIrF_h_Wt97njqMNb5pWHB0S1e8UBIEtbFW7v7p2YZOQKrxU_C3g7YLvjRmbiyhTvMzIfNjDmgAxEV0QAEn0UkUAZ6Tc1KUi80VAXTYLzMHvTXtrvBfgK8FGUN1tJnM0t0LVOkmX2Es-htp-VS6Unfwuvxw2-Qx3Dw9vQo3FMITncIc4Gj92hbG9dppqgeJgHosBy9V3qeawRY8ZkQDXMGo.-1lhG3LV4bMg8RqZxMtj8g9nbzJiKWHudSiIyUO5OD4%26dib_tag%3Dse%26keywords%3Ddining%2Btable%26qid%3D1718980643%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDg2ODk0NjQwMDExNjMyOjE3MTg5ODA2NDM6c3BfYXRmOjIwMDA2MDU1NDMzNTM5ODo6MDo6&url=%2FFolding-Storage-Drawers-Extendable-FUNROLUX%2Fdp%2FB09SW1M76D%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.tq4bPBcEHi6XrCZo8F8X7TTh9lGJq8LB6_HrAr2VMmYQQSPws-WumsMIuvdCwjLzIZHBNITFmX3TznSS7jzBFIrF_h_Wt97njqMNb5pWHB0S1e8UBIEtbFW7v7p2YZOQKrxU_C3g7YLvjRmbiyhTvMzIfNjDmgAxEV0QAEn0UkUAZ6Tc1KUi80VAXTYLzMHvTXtrvBfgK8FGUN1tJnM0t0LVOkmX2Es-htp-VS6Unfwuvxw2-Qx3Dw9vQo3FMITncIc4Gj92hbG9dppqgeJgHosBy9V3qeawRY8ZkQDXMGo.-1lhG3LV4bMg8RqZxMtj8g9nbzJiKWHudSiIyUO5OD4%26dib_tag%3Dse%26keywords%3Ddining%2Btable%26qid%3D1718980643%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDg2ODk0NjQwMDExNjMyOjE3MTg5ODA2NDM6c3BfYXRmOjMwMDA2MTIyNzQwMDkwMjo6MDo6&url=%2FFlash-Furniture-Piece-Folding-Adults%2Fdp%2FB09YDMTBBH%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.tq4bPBcEHi6XrCZo8F8X7TTh9lGJq8LB6_HrAr2VMmYQQSPws-WumsMIuvdCwjLzIZHBNITFmX3TznSS7jzBFIrF_h_Wt97njqMNb5pWHB0S1e8UBIEtbFW7v7p2YZOQKrxU_C3g7YLvjRmbiyhTvMzIfNjDmgAxEV0QAEn0UkUAZ6Tc1KUi80VAXTYLzMHvTXtrvBfgK8FGUN1tJnM0t0LVOkmX2Es-htp-VS6Unfwuvxw2-Qx3Dw9vQo3FMITncIc4Gj92hbG9dppqgeJgHosBy9V3qeawRY8ZkQDXMGo.-1lhG3LV4bMg8RqZxMtj8g9nbzJiKWHudSiIyUO5OD4%26dib_tag%3Dse%26keywords%3Ddining%2Btable%26qid%3D1718980643%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/618f8fAiApL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61r4+qhqTmL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/619mg5+870L._AC_UL320_.jpg"
+		]
+	},
+	"toilet": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODM0OTM1Njc1ODU4ODYyOjE3MTg5ODA2NDk6c3BfYXRmOjMwMDEzODk2MzQ0ODAwMjo6MDo6&url=%2FJINGZE-Elongated-Standard-Bathroom-Comfort%2Fdp%2FB0CV3KCX8V%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.aWle34PtxdRxv8Ji379ySXCCR-dhIjic3hxsLsFdggnHhtJvfS1L-OPLKNQ0XN546GoHmW8o1fQ7vSUgfKQ3lrn3iCIC6MEZGBraCjpbhMaIRqz5Q3UkKhirt6nefQtHWgPXAZG8EXDyMRKRjl0O93_qydWQNCooq7eJc9Yv7dKttx_Ue1SBYCiJw3ZMonKpp17NP_iFUKEQWVce1mVjzT23zl8ZJSZ6Flpl07Tt0Vh9BdFsMonR_-Z-oi8mLvpi8QXj5hHZTdSHcKajaJcmez3DGQfZ5as-C_bf_IMzIc8.8lUJkg0LpmfoXo5qp9PTFf646ucITQMxrsF_Iuertho%26dib_tag%3Dse%26keywords%3Dtoilet%26qid%3D1718980649%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODM0OTM1Njc1ODU4ODYyOjE3MTg5ODA2NDk6c3BfYXRmOjMwMDEzODk2MzQ0ODAwMjo6MDo6&url=%2FJINGZE-Elongated-Standard-Bathroom-Comfort%2Fdp%2FB0CV3KCX8V%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.aWle34PtxdRxv8Ji379ySXCCR-dhIjic3hxsLsFdggnHhtJvfS1L-OPLKNQ0XN546GoHmW8o1fQ7vSUgfKQ3lrn3iCIC6MEZGBraCjpbhMaIRqz5Q3UkKhirt6nefQtHWgPXAZG8EXDyMRKRjl0O93_qydWQNCooq7eJc9Yv7dKttx_Ue1SBYCiJw3ZMonKpp17NP_iFUKEQWVce1mVjzT23zl8ZJSZ6Flpl07Tt0Vh9BdFsMonR_-Z-oi8mLvpi8QXj5hHZTdSHcKajaJcmez3DGQfZ5as-C_bf_IMzIc8.8lUJkg0LpmfoXo5qp9PTFf646ucITQMxrsF_Iuertho%26dib_tag%3Dse%26keywords%3Dtoilet%26qid%3D1718980649%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODM0OTM1Njc1ODU4ODYyOjE3MTg5ODA2NDk6c3BfYXRmOjMwMDIwOTMyNDYyMDcwMjo6MDo6&url=%2FAKNIRL-Booster-Deodorization-Toilets-Bathrooms%2Fdp%2FB0CTQGM32C%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.aWle34PtxdRxv8Ji379ySXCCR-dhIjic3hxsLsFdggnHhtJvfS1L-OPLKNQ0XN546GoHmW8o1fQ7vSUgfKQ3lrn3iCIC6MEZGBraCjpbhMaIRqz5Q3UkKhirt6nefQtHWgPXAZG8EXDyMRKRjl0O93_qydWQNCooq7eJc9Yv7dKttx_Ue1SBYCiJw3ZMonKpp17NP_iFUKEQWVce1mVjzT23zl8ZJSZ6Flpl07Tt0Vh9BdFsMonR_-Z-oi8mLvpi8QXj5hHZTdSHcKajaJcmez3DGQfZ5as-C_bf_IMzIc8.8lUJkg0LpmfoXo5qp9PTFf646ucITQMxrsF_Iuertho%26dib_tag%3Dse%26keywords%3Dtoilet%26qid%3D1718980649%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/51ciAf82BRL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71fz4HMr7LL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71XrRFPZcCL._AC_UL320_.jpg"
+		]
+	},
+	"tv": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NzYzOTI0Nzg1MzIyMjg0OjE3MTg5ODA2NTQ6c3BfYXRmOjIwMDE3OTc3MzkzODc5ODo6MDo6&url=%2Famazon-fire-tv-55-inch-4-series-4k-smart-tv%2Fdp%2FB0B3H6JPYZ%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.fzi_6KdU1x9RglX4sdgC-Ynf0fK0IPeDPDoUtFY2FMp7egGQkONYyh1vlctzl_upkNmvvJnUb-2BOEYYw2OS0KMvc0Aec_WVF2YaFM7Zmyf3cOIif85nbsXou0pFObCzvR0Dzc7Fk9eU3AG_WTWz3bv2BI6OSenwjOnXfujMlIe934Qvcyzw7S0b_xkKQ9oPVlnzUxsQ1zukWO9begmZMlGi-_aQ-bJEsVsvdTGPBx8.kdzi1wSUz-BXY74_eWGeKS9QIdiuoxH59WBUPkZfhvs%26dib_tag%3Dse%26keywords%3Dtv%26qid%3D1718980654%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NzYzOTI0Nzg1MzIyMjg0OjE3MTg5ODA2NTQ6c3BfYXRmOjMwMDAyMjM4MjgwMzYwMjo6MDo6&url=%2FTCL-55S450F-Compatibility-Streaming-Television%2Fdp%2FB0C1JDMVDM%2Fref%3Dsr_1_2_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.fzi_6KdU1x9RglX4sdgC-Ynf0fK0IPeDPDoUtFY2FMp7egGQkONYyh1vlctzl_upkNmvvJnUb-2BOEYYw2OS0KMvc0Aec_WVF2YaFM7Zmyf3cOIif85nbsXou0pFObCzvR0Dzc7Fk9eU3AG_WTWz3bv2BI6OSenwjOnXfujMlIe934Qvcyzw7S0b_xkKQ9oPVlnzUxsQ1zukWO9begmZMlGi-_aQ-bJEsVsvdTGPBx8.kdzi1wSUz-BXY74_eWGeKS9QIdiuoxH59WBUPkZfhvs%26dib_tag%3Dse%26keywords%3Dtv%26qid%3D1718980654%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/VIZIO-Chromecast-Mirroring-Streaming-Channels/dp/B092Q1TRJC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.fzi_6KdU1x9RglX4sdgC-Ynf0fK0IPeDPDoUtFY2FMp7egGQkONYyh1vlctzl_upkNmvvJnUb-2BOEYYw2OS0KMvc0Aec_WVF2YaFM7Zmyf3cOIif85nbsXou0pFObCzvR0Dzc7Fk9eU3AG_WTWz3bv2BI6OSenwjOnXfujMlIe934Qvcyzw7S0b_xkKQ9oPVlnzUxsQ1zukWO9begmZMlGi-_aQ-bJEsVsvdTGPBx8.kdzi1wSUz-BXY74_eWGeKS9QIdiuoxH59WBUPkZfhvs&dib_tag=se&keywords=tv&qid=1718980654&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/716flIFu1QL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81ubqC5PfRL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81pL+uVYD3L._AC_UY218_.jpg"
+		]
+	},
+	"laptop": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNjQzODEyMDQxMTYyNzI1OjE3MTg5ODA2NTg6c3BfYXRmOjMwMDIzOTQ3OTA1NTMwMjo6MDo6&url=%2Fjumper-Laptops-Computer-1920x1080-Speakers%2Fdp%2FB0D1KJ3WLB%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.UFjPkgR-7igBpdeIG772MUom8H2HXyoe4b_G889vAACjTLzR9cUB46t29lcnLpjq2nGLO3_GlCUnrhD-3CBC1MNYLjYzL3yUFC3Mj4kOY-ScZyQHxgFlJckAwCwCirlugc5YWXjJwNjSC7fHYQTRmOXkDvaAt91ijsFrWnkpAfgd7XiV2FiKaaOb7TL76xxxjQvxlC7DGBY37O70jMcKgh84DUQ9-zSeinAYog24yvI.r4QD5JHc65fmITuqtVEgROTiRUi9ex_uiUsYRAwKdt4%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1718980658%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNjQzODEyMDQxMTYyNzI1OjE3MTg5ODA2NTg6c3BfYXRmOjMwMDIzOTQ3OTA1NTMwMjo6MDo6&url=%2Fjumper-Laptops-Computer-1920x1080-Speakers%2Fdp%2FB0D1KJ3WLB%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.UFjPkgR-7igBpdeIG772MUom8H2HXyoe4b_G889vAACjTLzR9cUB46t29lcnLpjq2nGLO3_GlCUnrhD-3CBC1MNYLjYzL3yUFC3Mj4kOY-ScZyQHxgFlJckAwCwCirlugc5YWXjJwNjSC7fHYQTRmOXkDvaAt91ijsFrWnkpAfgd7XiV2FiKaaOb7TL76xxxjQvxlC7DGBY37O70jMcKgh84DUQ9-zSeinAYog24yvI.r4QD5JHc65fmITuqtVEgROTiRUi9ex_uiUsYRAwKdt4%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1718980658%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNjQzODEyMDQxMTYyNzI1OjE3MTg5ODA2NTg6c3BfYXRmOjMwMDE5NDkyMzkxNjQwMjo6MDo6&url=%2FHP-i3-1125G4-Processor-Anti-Glare-Accessories%2Fdp%2FB0CJQVVSL2%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.UFjPkgR-7igBpdeIG772MUom8H2HXyoe4b_G889vAACjTLzR9cUB46t29lcnLpjq2nGLO3_GlCUnrhD-3CBC1MNYLjYzL3yUFC3Mj4kOY-ScZyQHxgFlJckAwCwCirlugc5YWXjJwNjSC7fHYQTRmOXkDvaAt91ijsFrWnkpAfgd7XiV2FiKaaOb7TL76xxxjQvxlC7DGBY37O70jMcKgh84DUQ9-zSeinAYog24yvI.r4QD5JHc65fmITuqtVEgROTiRUi9ex_uiUsYRAwKdt4%26dib_tag%3Dse%26keywords%3Dlaptop%26qid%3D1718980658%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81XlcWorlmL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71xuSo5PKxL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/711OHeRmEaL._AC_UY218_.jpg"
+		]
+	},
+	"mouse": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMDQ3MjIzMTE2NjI3NzQ4OjE3MTg5ODA2NjM6c3BfYXRmOjIwMDAxMDUxMDcyNTkzMTo6MDo6&url=%2FAmazonBasics-Wireless-Computer-Mouse-Receiver%2Fdp%2FB005EJH6Z4%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.5ImJyMbbi4eC20AvYHbPTcZ0QNyZXm8WmDSdbSdH2lVULivvW6qDyuQEc4xj3Ive0y7gb2Pn5Uf5KvzYx1t48eTzrZ3mF9oZtwCdpB11GqPaxIhGiw2xft5rSjGkLYWDyk7AFl5lYVEK1oVkbTfwc7_3mQM1H6uNjwm3pwwglMnTJkLpl1ASOPt7TQC01yiPJxkqpqazNqFgXNKKeOY9qimduslf1Q6U08SWvhazTTI.fIIYzilAz29m6XyCSdo4Kkffy4T8jjmId64jFZLPEuk%26dib_tag%3Dse%26keywords%3Dmouse%26qid%3D1718980663%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMDQ3MjIzMTE2NjI3NzQ4OjE3MTg5ODA2NjM6c3BfYXRmOjIwMDAxMDUxMDcyNTkzMTo6MDo6&url=%2FAmazonBasics-Wireless-Computer-Mouse-Receiver%2Fdp%2FB005EJH6Z4%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.5ImJyMbbi4eC20AvYHbPTcZ0QNyZXm8WmDSdbSdH2lVULivvW6qDyuQEc4xj3Ive0y7gb2Pn5Uf5KvzYx1t48eTzrZ3mF9oZtwCdpB11GqPaxIhGiw2xft5rSjGkLYWDyk7AFl5lYVEK1oVkbTfwc7_3mQM1H6uNjwm3pwwglMnTJkLpl1ASOPt7TQC01yiPJxkqpqazNqFgXNKKeOY9qimduslf1Q6U08SWvhazTTI.fIIYzilAz29m6XyCSdo4Kkffy4T8jjmId64jFZLPEuk%26dib_tag%3Dse%26keywords%3Dmouse%26qid%3D1718980663%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMDQ3MjIzMTE2NjI3NzQ4OjE3MTg5ODA2NjM6c3BfYXRmOjMwMDEzOTMxMjEyODAwMjo6MDo6&url=%2FTeckNet-Ergonomic-Wireless-Chromebook-Adjustment%2Fdp%2FB015NBTAOW%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.5ImJyMbbi4eC20AvYHbPTcZ0QNyZXm8WmDSdbSdH2lVULivvW6qDyuQEc4xj3Ive0y7gb2Pn5Uf5KvzYx1t48eTzrZ3mF9oZtwCdpB11GqPaxIhGiw2xft5rSjGkLYWDyk7AFl5lYVEK1oVkbTfwc7_3mQM1H6uNjwm3pwwglMnTJkLpl1ASOPt7TQC01yiPJxkqpqazNqFgXNKKeOY9qimduslf1Q6U08SWvhazTTI.fIIYzilAz29m6XyCSdo4Kkffy4T8jjmId64jFZLPEuk%26dib_tag%3Dse%26keywords%3Dmouse%26qid%3D1718980663%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61YQeAUIboL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71tqvuHgIlL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/61N+CzcA8vL._AC_UY218_.jpg"
+		]
+	},
+	"remote": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozOTUxMDkwNDk2MTk3OTU3OjE3MTg5ODA2Njg6c3BfYXRmOjMwMDIyODI3MTIwODAwMjo6MDo6&url=%2FControl-E470VLE-E320VL-MX-E370VL-MX-E420VL-MX%2Fdp%2FB07JR92Q4H%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.CKCBXCQ0dvhZ9LUPZt1MsV0VrFTvzzv9r2UAt-v1ujBEN66uHA8pD2J_s_HdimBpQvdyge1GZSszhvYHS8g6ZDlOS4MB28UKgQl9JnBfNs6UwOw-W0JPdCKx2qDy_sYAsH7GIdnFPWc_NWSh-3jPjvg3ZxTKK-NoL9S3K_h8nQbFD4cfnBcazIOufRgoR71iMHAN5eChbo9ByY1fNSrydJuhQ19ltAZNV65ZZPWUjuY.OXDoZ1M9ABDUXR7yZsb8i7rkwDsCl1PiU-tiMwd_3a0%26dib_tag%3Dse%26keywords%3Dremote%26qid%3D1718980668%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozOTUxMDkwNDk2MTk3OTU3OjE3MTg5ODA2Njg6c3BfYXRmOjMwMDIyODI3MTIwODAwMjo6MDo6&url=%2FControl-E470VLE-E320VL-MX-E370VL-MX-E420VL-MX%2Fdp%2FB07JR92Q4H%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.CKCBXCQ0dvhZ9LUPZt1MsV0VrFTvzzv9r2UAt-v1ujBEN66uHA8pD2J_s_HdimBpQvdyge1GZSszhvYHS8g6ZDlOS4MB28UKgQl9JnBfNs6UwOw-W0JPdCKx2qDy_sYAsH7GIdnFPWc_NWSh-3jPjvg3ZxTKK-NoL9S3K_h8nQbFD4cfnBcazIOufRgoR71iMHAN5eChbo9ByY1fNSrydJuhQ19ltAZNV65ZZPWUjuY.OXDoZ1M9ABDUXR7yZsb8i7rkwDsCl1PiU-tiMwd_3a0%26dib_tag%3Dse%26keywords%3Dremote%26qid%3D1718980668%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozOTUxMDkwNDk2MTk3OTU3OjE3MTg5ODA2Njg6c3BfYXRmOjIwMDA3NDczMjMyNzIzMTo6MDo6&url=%2FUniversal-Remote-Control-Smart-TV-Remote-Replacement-Prime-Video%2Fdp%2FB093WB5VPT%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.CKCBXCQ0dvhZ9LUPZt1MsV0VrFTvzzv9r2UAt-v1ujBEN66uHA8pD2J_s_HdimBpQvdyge1GZSszhvYHS8g6ZDlOS4MB28UKgQl9JnBfNs6UwOw-W0JPdCKx2qDy_sYAsH7GIdnFPWc_NWSh-3jPjvg3ZxTKK-NoL9S3K_h8nQbFD4cfnBcazIOufRgoR71iMHAN5eChbo9ByY1fNSrydJuhQ19ltAZNV65ZZPWUjuY.OXDoZ1M9ABDUXR7yZsb8i7rkwDsCl1PiU-tiMwd_3a0%26dib_tag%3Dse%26keywords%3Dremote%26qid%3D1718980668%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61OymA1ir3L._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/41Q0fyogBXL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71Z6Vs6+hDL._AC_UY218_.jpg"
+		]
+	},
+	"keyboard": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzA4NjE4MDg5ODg1NDEyOjE3MTg5ODA2NzM6c3BfYXRmOjIwMDAyMDg0MDEwODAzMTo6MDo6&url=%2FAmazonBasics-Matte-Keyboard-QWERTY-Layout%2Fdp%2FB07WJ5D3H4%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.R8S3hPZYQHddcgNhieVzSlK347I7kM1oQYB0ECPPuxfVacQEmtHDtbX7GZim9T78IP9DCN84E2rBbFWKYNQbSZqKYGlcCkhbabqE9e8cvWrnrDv4yrg5McVIqdX_4s6VXWaO80gwW1Sii8nIBGqk80Mu6C7u4YnHDGv6-i0U9jt372SKhXWTnDnLUDU2yJg8eTNSB0SJn8QJl7a59weVZulaR6y-Nrs_TARonbikFVU.BCN3TUycLOHZ-5iuAi6azqMhjnLoqCCsHJduFKGDUOY%26dib_tag%3Dse%26keywords%3Dkeyboard%26qid%3D1718980673%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzA4NjE4MDg5ODg1NDEyOjE3MTg5ODA2NzM6c3BfYXRmOjIwMDAyMDg0MDEwODAzMTo6MDo6&url=%2FAmazonBasics-Matte-Keyboard-QWERTY-Layout%2Fdp%2FB07WJ5D3H4%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.R8S3hPZYQHddcgNhieVzSlK347I7kM1oQYB0ECPPuxfVacQEmtHDtbX7GZim9T78IP9DCN84E2rBbFWKYNQbSZqKYGlcCkhbabqE9e8cvWrnrDv4yrg5McVIqdX_4s6VXWaO80gwW1Sii8nIBGqk80Mu6C7u4YnHDGv6-i0U9jt372SKhXWTnDnLUDU2yJg8eTNSB0SJn8QJl7a59weVZulaR6y-Nrs_TARonbikFVU.BCN3TUycLOHZ-5iuAi6azqMhjnLoqCCsHJduFKGDUOY%26dib_tag%3Dse%26keywords%3Dkeyboard%26qid%3D1718980673%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzA4NjE4MDg5ODg1NDEyOjE3MTg5ODA2NzM6c3BfYXRmOjMwMDE1NDQ3Mzg4NzkwMjo6MDo6&url=%2FAULA-Keyboard-Backlit-Computer-Windows%2Fdp%2FB0B3RJML38%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.R8S3hPZYQHddcgNhieVzSlK347I7kM1oQYB0ECPPuxfVacQEmtHDtbX7GZim9T78IP9DCN84E2rBbFWKYNQbSZqKYGlcCkhbabqE9e8cvWrnrDv4yrg5McVIqdX_4s6VXWaO80gwW1Sii8nIBGqk80Mu6C7u4YnHDGv6-i0U9jt372SKhXWTnDnLUDU2yJg8eTNSB0SJn8QJl7a59weVZulaR6y-Nrs_TARonbikFVU.BCN3TUycLOHZ-5iuAi6azqMhjnLoqCCsHJduFKGDUOY%26dib_tag%3Dse%26keywords%3Dkeyboard%26qid%3D1718980673%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81cg9myC9kL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71cd3Qs3fEL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81cg9myC9kL._AC_UY218_.jpg"
+		]
+	},
+	"cell phone": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTU3ODcxMjMyNzg1NTQzOjE3MTg5ODA2Nzc6c3BfYXRmOjMwMDA2MjMzODg4NTMwMjo6MDo6&url=%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0CGTNPFZD%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.Tqb_Y4dzHmup7R2YlOMjHiMGiyVJrOiiVQValx3QZt56YXrJlhIpRaxloUW00p0ak_yPmMgIGyzo57d1xnmhpHDPu3jZcrEQimHJGYZecvl7JGWcs-9dNB16vJCay16Eyd81qasWZ4ya0wDCYrJCFPPz3Ih0M1pFNwTqfhvfepdh6rnk-HDchpJ3WM41kX5G9KcY3lb_A-wsd12huxuLUYWYUu0u4wyK-weluDcHuN0.6FJO_qyLV2R-bccp_YQRBrAjqra11hmUBohWvmW9WAs%26dib_tag%3Dse%26keywords%3Dcell%2Bphone%26qid%3D1718980677%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTU3ODcxMjMyNzg1NTQzOjE3MTg5ODA2Nzc6c3BfYXRmOjMwMDA2MjMzODg4NTMwMjo6MDo6&url=%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0CGTNPFZD%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.Tqb_Y4dzHmup7R2YlOMjHiMGiyVJrOiiVQValx3QZt56YXrJlhIpRaxloUW00p0ak_yPmMgIGyzo57d1xnmhpHDPu3jZcrEQimHJGYZecvl7JGWcs-9dNB16vJCay16Eyd81qasWZ4ya0wDCYrJCFPPz3Ih0M1pFNwTqfhvfepdh6rnk-HDchpJ3WM41kX5G9KcY3lb_A-wsd12huxuLUYWYUu0u4wyK-weluDcHuN0.6FJO_qyLV2R-bccp_YQRBrAjqra11hmUBohWvmW9WAs%26dib_tag%3Dse%26keywords%3Dcell%2Bphone%26qid%3D1718980677%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTU3ODcxMjMyNzg1NTQzOjE3MTg5ODA2Nzc6c3BfYXRmOjMwMDAyMDYwMjM5ODUwMjo6MDo6&url=%2FSAMSUNG-Unlocked-Smartphone-Streaming-Hands-Free%2Fdp%2FB0C63F7F2P%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.Tqb_Y4dzHmup7R2YlOMjHiMGiyVJrOiiVQValx3QZt56YXrJlhIpRaxloUW00p0ak_yPmMgIGyzo57d1xnmhpHDPu3jZcrEQimHJGYZecvl7JGWcs-9dNB16vJCay16Eyd81qasWZ4ya0wDCYrJCFPPz3Ih0M1pFNwTqfhvfepdh6rnk-HDchpJ3WM41kX5G9KcY3lb_A-wsd12huxuLUYWYUu0u4wyK-weluDcHuN0.6FJO_qyLV2R-bccp_YQRBrAjqra11hmUBohWvmW9WAs%26dib_tag%3Dse%26keywords%3Dcell%2Bphone%26qid%3D1718980677%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71aTjTMFiJL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/61f3V3m9xnL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/613cvL2ZYHL._AC_UY218_.jpg"
+		]
+	},
+	"microwave": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNDM2NjcyNTQ1NTU3NzYzOjE3MTg5ODA2ODM6c3BfYXRmOjMwMDIxMzk0MTAxOTAwMjo6MDo6&url=%2FGE-Appliances-JEM3072DHWW-Countertop-Microwave%2Fdp%2FB00UI1WGBW%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.E9HBLpPJ40oNmKO-s2ZBODY_tj8K2VVNY8hZVE5DwEcexNuHYZlHRpSp8x4so5h1mP5uB3C6ThSUzRdS0KtzgEHZ_hN6o7svKzTJl1ViVmQG3neVnMQqkYoaTSVHQjQiTJNxj-Qsc4k9NSNCsAFQ70fO9HqWQYjB0xvr4nK1nQJLvxcLgGHZQvoncRnmt4NKF769-BDBQFZgcdg6PklIG2-KohmXnk0cMO0lC_EqqZ8.iLGxI8NREcuRYQFE0HZrfsefnhDwCho3TW_91Mx0qFU%26dib_tag%3Dse%26keywords%3Dmicrowave%26qid%3D1718980683%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNDM2NjcyNTQ1NTU3NzYzOjE3MTg5ODA2ODM6c3BfYXRmOjMwMDIxMzk0MTAxOTAwMjo6MDo6&url=%2FGE-Appliances-JEM3072DHWW-Countertop-Microwave%2Fdp%2FB00UI1WGBW%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.E9HBLpPJ40oNmKO-s2ZBODY_tj8K2VVNY8hZVE5DwEcexNuHYZlHRpSp8x4so5h1mP5uB3C6ThSUzRdS0KtzgEHZ_hN6o7svKzTJl1ViVmQG3neVnMQqkYoaTSVHQjQiTJNxj-Qsc4k9NSNCsAFQ70fO9HqWQYjB0xvr4nK1nQJLvxcLgGHZQvoncRnmt4NKF769-BDBQFZgcdg6PklIG2-KohmXnk0cMO0lC_EqqZ8.iLGxI8NREcuRYQFE0HZrfsefnhDwCho3TW_91Mx0qFU%26dib_tag%3Dse%26keywords%3Dmicrowave%26qid%3D1718980683%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNDM2NjcyNTQ1NTU3NzYzOjE3MTg5ODA2ODM6c3BfYXRmOjMwMDA0Njk0NDkyNTUwMjo6MDo6&url=%2FChefman-Countertop-Microwave-Stainless-Function%2Fdp%2FB0C6NHVT5F%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.E9HBLpPJ40oNmKO-s2ZBODY_tj8K2VVNY8hZVE5DwEcexNuHYZlHRpSp8x4so5h1mP5uB3C6ThSUzRdS0KtzgEHZ_hN6o7svKzTJl1ViVmQG3neVnMQqkYoaTSVHQjQiTJNxj-Qsc4k9NSNCsAFQ70fO9HqWQYjB0xvr4nK1nQJLvxcLgGHZQvoncRnmt4NKF769-BDBQFZgcdg6PklIG2-KohmXnk0cMO0lC_EqqZ8.iLGxI8NREcuRYQFE0HZrfsefnhDwCho3TW_91Mx0qFU%26dib_tag%3Dse%26keywords%3Dmicrowave%26qid%3D1718980683%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81+hcwSlG0L._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81ORwn9IYPL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81dSoGN+BAL._AC_UY218_.jpg"
+		]
+	},
+	"oven": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNzU4MTk4NTkwNTYxNzI1OjE3MTg5ODA2ODk6c3BfYXRmOjIwMDA0NzkzMzE1OTM5ODo6MDo6&url=%2FPanasonic-HomeChef-Convection-Airfryer-Interior%2Fdp%2FB09TTXN558%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.qipS14CnGzUtjLsVJpBc91hZIP358wEQjbwZaYVtgpPALIqN5AtAoE0hqX_BKCo-IscehDz02CajQKE4TAHXRCZDRo0GYFQ_cpa1K4KnNypinnUlghs2x7NmjaoQYHpE9VN6ycUeSpiXsteJT2J5DiPOxYAzI6P45U2IVZy01uINh3ow8MzDXoH8gNLVga1OKzNbczrtyoUiZ5qdlCnpEL-jFXL8ML2KsIoOFBfmkL0.usdQpaUvm6qZ3P3jOLrwD2lMJeNaQG2nFiSVNxCADS0%26dib_tag%3Dse%26keywords%3Doven%26qid%3D1718980689%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNzU4MTk4NTkwNTYxNzI1OjE3MTg5ODA2ODk6c3BfYXRmOjIwMDA0NzkzMzE1OTM5ODo6MDo6&url=%2FPanasonic-HomeChef-Convection-Airfryer-Interior%2Fdp%2FB09TTXN558%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.qipS14CnGzUtjLsVJpBc91hZIP358wEQjbwZaYVtgpPALIqN5AtAoE0hqX_BKCo-IscehDz02CajQKE4TAHXRCZDRo0GYFQ_cpa1K4KnNypinnUlghs2x7NmjaoQYHpE9VN6ycUeSpiXsteJT2J5DiPOxYAzI6P45U2IVZy01uINh3ow8MzDXoH8gNLVga1OKzNbczrtyoUiZ5qdlCnpEL-jFXL8ML2KsIoOFBfmkL0.usdQpaUvm6qZ3P3jOLrwD2lMJeNaQG2nFiSVNxCADS0%26dib_tag%3Dse%26keywords%3Doven%26qid%3D1718980689%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozNzU4MTk4NTkwNTYxNzI1OjE3MTg5ODA2ODk6c3BfYXRmOjMwMDE3NTUzOTkyOTgwMjo6MDo6&url=%2FNinja-Multi-Purpose-Counter-top-Convection-SP101%2Fdp%2FB07SCGY2H6%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.qipS14CnGzUtjLsVJpBc91hZIP358wEQjbwZaYVtgpPALIqN5AtAoE0hqX_BKCo-IscehDz02CajQKE4TAHXRCZDRo0GYFQ_cpa1K4KnNypinnUlghs2x7NmjaoQYHpE9VN6ycUeSpiXsteJT2J5DiPOxYAzI6P45U2IVZy01uINh3ow8MzDXoH8gNLVga1OKzNbczrtyoUiZ5qdlCnpEL-jFXL8ML2KsIoOFBfmkL0.usdQpaUvm6qZ3P3jOLrwD2lMJeNaQG2nFiSVNxCADS0%26dib_tag%3Dse%26keywords%3Doven%26qid%3D1718980689%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61fG9VWLRJL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81iQGSa1M4L._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/81-iH5uQj5L._AC_UY218_.jpg"
+		]
+	},
+	"toaster": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NTc4MzU5OTcwNDI2NDIyOjE3MTg5ODA2OTQ6c3BfYXRmOjIwMDAxMDUyNjA3MzMzMTo6MDo6&url=%2FAmazon-Basics-Extra-Wide-Toaster-Settings%2Fdp%2FB072P11H8L%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.6WlIg0FINlXtarUoH7MGQxjhwX56xao1VSueW-VLWJdB2UrgSxghjeTOmhhSY2whioexOZ1AP_r3oxD89qGQmckfT7YuHathefFqFxyN0iH7VVZN1qbFW6xOpgSKqxklG5amR4f6Pgjei82Q9ZiAdkWa0F_zhvNxM3L4FAtCmN731XhpvK10ebC4ODujA47jvr6DayB-DG5wdjANrvX-7Wj-qj2uzuIcSVH4TYQPFp8.fAnO6Rzqhsg8GlArkCKyH5ph6fF-HBFFjTlvrSQ1XcA%26dib_tag%3Dse%26keywords%3Dtoaster%26qid%3D1718980694%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NTc4MzU5OTcwNDI2NDIyOjE3MTg5ODA2OTQ6c3BfYXRmOjIwMDAxMDUyNjA3MzMzMTo6MDo6&url=%2FAmazon-Basics-Extra-Wide-Toaster-Settings%2Fdp%2FB072P11H8L%2Fref%3Dsr_1_1_ffob_sspa%3Fdib%3DeyJ2IjoiMSJ9.6WlIg0FINlXtarUoH7MGQxjhwX56xao1VSueW-VLWJdB2UrgSxghjeTOmhhSY2whioexOZ1AP_r3oxD89qGQmckfT7YuHathefFqFxyN0iH7VVZN1qbFW6xOpgSKqxklG5amR4f6Pgjei82Q9ZiAdkWa0F_zhvNxM3L4FAtCmN731XhpvK10ebC4ODujA47jvr6DayB-DG5wdjANrvX-7Wj-qj2uzuIcSVH4TYQPFp8.fAnO6Rzqhsg8GlArkCKyH5ph6fF-HBFFjTlvrSQ1XcA%26dib_tag%3Dse%26keywords%3Dtoaster%26qid%3D1718980694%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NTc4MzU5OTcwNDI2NDIyOjE3MTg5ODA2OTQ6c3BfYXRmOjMwMDE2MDU5Nzc4NTcwMjo6MDo6&url=%2FCuisinart-Compact-2-Slice-Toaster-CPT-122%2Fdp%2FB00K0ZT1BO%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.6WlIg0FINlXtarUoH7MGQxjhwX56xao1VSueW-VLWJdB2UrgSxghjeTOmhhSY2whioexOZ1AP_r3oxD89qGQmckfT7YuHathefFqFxyN0iH7VVZN1qbFW6xOpgSKqxklG5amR4f6Pgjei82Q9ZiAdkWa0F_zhvNxM3L4FAtCmN731XhpvK10ebC4ODujA47jvr6DayB-DG5wdjANrvX-7Wj-qj2uzuIcSVH4TYQPFp8.fAnO6Rzqhsg8GlArkCKyH5ph6fF-HBFFjTlvrSQ1XcA%26dib_tag%3Dse%26keywords%3Dtoaster%26qid%3D1718980694%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71ZauD8ClBL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/51M86MNbB1L._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/61YpntUyfQL._AC_UY218_.jpg"
+		]
+	},
+	"sink": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTA0MTIxMjg1MDYzNTQ4OjE3MTg5ODA2OTk6c3BfYXRmOjMwMDIzMTc1ODk3MTkwMjo6MDo6&url=%2FALWEN-Workstation-WorkFlow-Undermount-Stainless%2Fdp%2FB099NK1FRQ%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.qLUk_8mONmxE0913hbMJTDlcDP6IiAioXb5Gj6PqtowZ0hAQ02e9dSEzidJ-7K_x4XcKCNDL2Z6xuIrm6I9K_JR1DxcaJU8CRkXIXqXHJLQUAthD6ZKav27ZvXI03AllG7CGEZAPdI4mn6od_uCqvBojvaO4x209gcWVdmiZbqoCc7kRpgktGiWuzi98DeK-yfIOJi9iSExTgBDkcUG8_syjLit5LnFfPNxyZ4yY499TpHRoErTBFLNL5KSzpQWQuBVP9DcXIvBGEJsOIi9FRnU_-O6Y05Iz3zehrPTO3FY.p-ji3UotCQUjBaEKEfVCJyaITeZRcVApL943dyEGtUc%26dib_tag%3Dse%26keywords%3Dsink%26qid%3D1718980699%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTA0MTIxMjg1MDYzNTQ4OjE3MTg5ODA2OTk6c3BfYXRmOjMwMDI0Nzc2ODU0MDEwMjo6MDo6&url=%2FBlack-Topmount-Double-Bowl-Kitchen%2Fdp%2FB09B7B67WB%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.qLUk_8mONmxE0913hbMJTDlcDP6IiAioXb5Gj6PqtowZ0hAQ02e9dSEzidJ-7K_x4XcKCNDL2Z6xuIrm6I9K_JR1DxcaJU8CRkXIXqXHJLQUAthD6ZKav27ZvXI03AllG7CGEZAPdI4mn6od_uCqvBojvaO4x209gcWVdmiZbqoCc7kRpgktGiWuzi98DeK-yfIOJi9iSExTgBDkcUG8_syjLit5LnFfPNxyZ4yY499TpHRoErTBFLNL5KSzpQWQuBVP9DcXIvBGEJsOIi9FRnU_-O6Y05Iz3zehrPTO3FY.p-ji3UotCQUjBaEKEfVCJyaITeZRcVApL943dyEGtUc%26dib_tag%3Dse%26keywords%3Dsink%26qid%3D1718980699%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNTA0MTIxMjg1MDYzNTQ4OjE3MTg5ODA2OTk6c3BfYXRmOjMwMDA1MzM2NTc4NjkwMjo6MDo6&url=%2FKraus-KGUW1-30WH-Workstation-Undermount-Composite%2Fdp%2FB08GG5RPYN%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.qLUk_8mONmxE0913hbMJTDlcDP6IiAioXb5Gj6PqtowZ0hAQ02e9dSEzidJ-7K_x4XcKCNDL2Z6xuIrm6I9K_JR1DxcaJU8CRkXIXqXHJLQUAthD6ZKav27ZvXI03AllG7CGEZAPdI4mn6od_uCqvBojvaO4x209gcWVdmiZbqoCc7kRpgktGiWuzi98DeK-yfIOJi9iSExTgBDkcUG8_syjLit5LnFfPNxyZ4yY499TpHRoErTBFLNL5KSzpQWQuBVP9DcXIvBGEJsOIi9FRnU_-O6Y05Iz3zehrPTO3FY.p-ji3UotCQUjBaEKEfVCJyaITeZRcVApL943dyEGtUc%26dib_tag%3Dse%26keywords%3Dsink%26qid%3D1718980699%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71WEO3arJvL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81Xjn2XZgIL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61NQCXUbcKL._AC_UL320_.jpg"
+		]
+	},
+	"refrigerator": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo5NjEwNDQxMTgyNDE4OTg6MTcxODk4MDcwNTpzcF9hdGY6MzAwMjM1OTgzOTIyOTAyOjowOjo&url=%2FAnukis-Compact-Refrigerator-Apartment-Basement%2Fdp%2FB09N1CWGG5%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.KCY5wF_y_mN6sTvk-KOWqN72g1WULBquvqAR6Fg5Tzj-Ze18bjSc0O-5Amrz9UzX6X0cJIF3obP7gnlb46ZCEDS8iQycY6ePNsi-AEHwbhzHESNgFPSoBWavDm84NHTNG8aRP_Bli50aDkJXlFv0Dd_TN9vGm9chhbLiOJDSYhb3WFDq_1jS1suRx7OWphpf7asdBiUY6Y4CIosJt8nX15dNT4Ayk2ewNbrl0OiQxRw.MeXIkVbF2FA-rubsoGP92arelvpte2A36dYzkOYnP5E%26dib_tag%3Dse%26keywords%3Drefrigerator%26qid%3D1718980705%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/RCA-RFR725-Apartment-Refrigerator-Stainless/dp/B082PMYZ2X/ref=sr_1_2?dib=eyJ2IjoiMSJ9.KCY5wF_y_mN6sTvk-KOWqN72g1WULBquvqAR6Fg5Tzj-Ze18bjSc0O-5Amrz9UzX6X0cJIF3obP7gnlb46ZCEDS8iQycY6ePNsi-AEHwbhzHESNgFPSoBWavDm84NHTNG8aRP_Bli50aDkJXlFv0Dd_TN9vGm9chhbLiOJDSYhb3WFDq_1jS1suRx7OWphpf7asdBiUY6Y4CIosJt8nX15dNT4Ayk2ewNbrl0OiQxRw.MeXIkVbF2FA-rubsoGP92arelvpte2A36dYzkOYnP5E&dib_tag=se&keywords=refrigerator&qid=1718980705&sr=8-2",
+			"https://www.amazon.com/Beverage-Refrigerator-Adjustable-Shelves-Perfect/dp/B099F4321V/ref=sr_1_3?dib=eyJ2IjoiMSJ9.KCY5wF_y_mN6sTvk-KOWqN72g1WULBquvqAR6Fg5Tzj-Ze18bjSc0O-5Amrz9UzX6X0cJIF3obP7gnlb46ZCEDS8iQycY6ePNsi-AEHwbhzHESNgFPSoBWavDm84NHTNG8aRP_Bli50aDkJXlFv0Dd_TN9vGm9chhbLiOJDSYhb3WFDq_1jS1suRx7OWphpf7asdBiUY6Y4CIosJt8nX15dNT4Ayk2ewNbrl0OiQxRw.MeXIkVbF2FA-rubsoGP92arelvpte2A36dYzkOYnP5E&dib_tag=se&keywords=refrigerator&qid=1718980705&sr=8-3"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61a82iY6H8L._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/71O50FrYYyL._AC_UY218_.jpg",
+			"https://m.media-amazon.com/images/I/810Puf9WtoL._AC_UY218_.jpg"
+		]
+	},
+	"clock": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjY4NjE4NTQ5NzUyMzQ5OjE3MTg5ODA3MTM6c3BfYXRmOjMwMDA1NzgyOTE2NzAwMjo6MDo6&url=%2FKids-Wall-Clock-Non-Ticking-Decorative%2Fdp%2FB0B4JVCRPV%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.y5Snk3J76JK_7lTLcH9iKwkWqjdS-VSkC63q96wA4GJSASJ8djp08mNzWdN6ZQC-JP2Tg23nFOgr04hRx4SdyrukLuSzzl812NRh57Y9wAjAwbO22z26nCaIY3DFwsS_5TbjCblDJ_8IcQkpOt_NMmZjBKGumsZGHUb9cdfQsrFOO5mluM37N9p0dS7NIKgY_mNX5nZjVLreXFwTZcZ3l0hv2zmtzo0z6KTNg96bTThWlugdxgn8rR1ronQOd7ZdcCbL1Qbn2MNJ3Jmo9pWYBs5iIRIea7akjbxzwRYGqPY.ZMctnkcyCJ7UbfJRYNv-TQlLWYAbe_DUwn2EshEVasM%26dib_tag%3Dse%26keywords%3Dclock%26qid%3D1718980713%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjY4NjE4NTQ5NzUyMzQ5OjE3MTg5ODA3MTM6c3BfYXRmOjMwMDE3MTExOTMxNjMwMjo6MDo6&url=%2FMuoigoe-Digital-Display-Brightness-Electronic%2Fdp%2FB0C3MZVY4M%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.y5Snk3J76JK_7lTLcH9iKwkWqjdS-VSkC63q96wA4GJSASJ8djp08mNzWdN6ZQC-JP2Tg23nFOgr04hRx4SdyrukLuSzzl812NRh57Y9wAjAwbO22z26nCaIY3DFwsS_5TbjCblDJ_8IcQkpOt_NMmZjBKGumsZGHUb9cdfQsrFOO5mluM37N9p0dS7NIKgY_mNX5nZjVLreXFwTZcZ3l0hv2zmtzo0z6KTNg96bTThWlugdxgn8rR1ronQOd7ZdcCbL1Qbn2MNJ3Jmo9pWYBs5iIRIea7akjbxzwRYGqPY.ZMctnkcyCJ7UbfJRYNv-TQlLWYAbe_DUwn2EshEVasM%26dib_tag%3Dse%26keywords%3Dclock%26qid%3D1718980713%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjY4NjE4NTQ5NzUyMzQ5OjE3MTg5ODA3MTM6c3BfYXRmOjIwMDEwMzAwMTI3Mjg5ODo6MDo6&url=%2FKOSUMOSU-Digital-Wall-Temperature-Light%2Fdp%2FB0BGDGKB5D%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.y5Snk3J76JK_7lTLcH9iKwkWqjdS-VSkC63q96wA4GJSASJ8djp08mNzWdN6ZQC-JP2Tg23nFOgr04hRx4SdyrukLuSzzl812NRh57Y9wAjAwbO22z26nCaIY3DFwsS_5TbjCblDJ_8IcQkpOt_NMmZjBKGumsZGHUb9cdfQsrFOO5mluM37N9p0dS7NIKgY_mNX5nZjVLreXFwTZcZ3l0hv2zmtzo0z6KTNg96bTThWlugdxgn8rR1ronQOd7ZdcCbL1Qbn2MNJ3Jmo9pWYBs5iIRIea7akjbxzwRYGqPY.ZMctnkcyCJ7UbfJRYNv-TQlLWYAbe_DUwn2EshEVasM%26dib_tag%3Dse%26keywords%3Dclock%26qid%3D1718980713%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61zccyPTBiL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61dsk3QmOpL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61VDTN4MzkL._AC_UL320_.jpg"
+		]
+	},
+	"vase": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODM1NjAxNzE4ODU0NDYwOjE3MTg5ODA3MTk6c3BfYXRmOjMwMDIwNjQ5ODEyNTUwMjo6MDo6&url=%2FComSaf-Black-Vase-Centerpieces-Decorations%2Fdp%2FB0CSDM49CY%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.1FbJ2voeGQmphqNtqFomM6K5UNdR8PGntuFmlzbbya548RxX-mkFBsIrFzxz5tzWMOK0lscruj4bX-4wn1G9CPXC11MlyqqayyM1NWbUZUEuL8I8Ud9mEDQc_u2xCUuY55ycfEhgWzOsk1uihzhWuwJu3Arnw-eE8OqX1P_Iw5j6f2qVi68Djc_Ne6LfC9deHTiZQ8Sxz_NXnmHiWHsqivDwZ3G9tDZSIsxvzzfEQkMctgKdq31xKiW7EjA0p_kQZJGo-9ICkuGX2OSyh6TgIIGC6xPPy5HrPaecADlbwlo.HJ6qCs6moCygZRR9WaxSz1dfhCI1ZBShBcCYZ8H6a_U%26dib_tag%3Dse%26keywords%3Dvase%26qid%3D1718980719%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODM1NjAxNzE4ODU0NDYwOjE3MTg5ODA3MTk6c3BfYXRmOjMwMDIwNjU4MDQyOTUwMjo6MDo6&url=%2FKwlyon-Unbreakable-Crystal-Decorative-Valentines%2Fdp%2FB09D7M2XHD%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.1FbJ2voeGQmphqNtqFomM6K5UNdR8PGntuFmlzbbya548RxX-mkFBsIrFzxz5tzWMOK0lscruj4bX-4wn1G9CPXC11MlyqqayyM1NWbUZUEuL8I8Ud9mEDQc_u2xCUuY55ycfEhgWzOsk1uihzhWuwJu3Arnw-eE8OqX1P_Iw5j6f2qVi68Djc_Ne6LfC9deHTiZQ8Sxz_NXnmHiWHsqivDwZ3G9tDZSIsxvzzfEQkMctgKdq31xKiW7EjA0p_kQZJGo-9ICkuGX2OSyh6TgIIGC6xPPy5HrPaecADlbwlo.HJ6qCs6moCygZRR9WaxSz1dfhCI1ZBShBcCYZ8H6a_U%26dib_tag%3Dse%26keywords%3Dvase%26qid%3D1718980719%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2ODM1NjAxNzE4ODU0NDYwOjE3MTg5ODA3MTk6c3BfYXRmOjIwMDAyMDAzMTYzNDI5ODo6MDo6&url=%2FFlower-Modern-Unique-Bookshelf-Upgraded%2Fdp%2FB09DKVN2GC%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.1FbJ2voeGQmphqNtqFomM6K5UNdR8PGntuFmlzbbya548RxX-mkFBsIrFzxz5tzWMOK0lscruj4bX-4wn1G9CPXC11MlyqqayyM1NWbUZUEuL8I8Ud9mEDQc_u2xCUuY55ycfEhgWzOsk1uihzhWuwJu3Arnw-eE8OqX1P_Iw5j6f2qVi68Djc_Ne6LfC9deHTiZQ8Sxz_NXnmHiWHsqivDwZ3G9tDZSIsxvzzfEQkMctgKdq31xKiW7EjA0p_kQZJGo-9ICkuGX2OSyh6TgIIGC6xPPy5HrPaecADlbwlo.HJ6qCs6moCygZRR9WaxSz1dfhCI1ZBShBcCYZ8H6a_U%26dib_tag%3Dse%26keywords%3Dvase%26qid%3D1718980719%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/6126H+oq5kL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61c9K7yJeKL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/819cinZUIEL._AC_UL320_.jpg"
+		]
+	},
+	"scissors": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMjAyNjEyNjM4MDY4MTk5OjE3MTg5ODA3MjU6c3BfYXRmOjIwMDA3MjA4NTI1MDE1MTo6MDo6&url=%2FWestcott-13901-Straight-Titanium-Scissors%2Fdp%2FB000P0LNRE%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.CIxTjjHdXGn09EidtPKqibwYwKtje8l02s1V1j_P52YePp6ny1fXbAqK-27LIF374oWoq3dif85_P3QRaVSab8j9FTk8T-uC21HsNf5uyJKdWLu97KFWZ9UNzn3v1amfB4R6fAv0gXYC1ri-J_2ZPsKoD7EjOcZ5ySoK5QWP2tNLLDhgWogvVH_0OIvPvoUwcAl-RjmkuBz5EoleG8Ijax8EpEtP_LEEBRMdlIIcvzxipvn1ohyBh_46jPErCFoLUHZjUKGdu0EvYsC6lCeDAUqlZwK_SF-Bfy_fIw9l_5c.9Nknbir_2ZJ9WvmWc8RcOKk3smKWOVSnZqDgN923Ygw%26dib_tag%3Dse%26keywords%3Dscissors%26qid%3D1718980725%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMjAyNjEyNjM4MDY4MTk5OjE3MTg5ODA3MjU6c3BfYXRmOjIwMDA3MjA4NTI1MDE1MTo6MDo6&url=%2FWestcott-13901-Straight-Titanium-Scissors%2Fdp%2FB000P0LNRE%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.CIxTjjHdXGn09EidtPKqibwYwKtje8l02s1V1j_P52YePp6ny1fXbAqK-27LIF374oWoq3dif85_P3QRaVSab8j9FTk8T-uC21HsNf5uyJKdWLu97KFWZ9UNzn3v1amfB4R6fAv0gXYC1ri-J_2ZPsKoD7EjOcZ5ySoK5QWP2tNLLDhgWogvVH_0OIvPvoUwcAl-RjmkuBz5EoleG8Ijax8EpEtP_LEEBRMdlIIcvzxipvn1ohyBh_46jPErCFoLUHZjUKGdu0EvYsC6lCeDAUqlZwK_SF-Bfy_fIw9l_5c.9Nknbir_2ZJ9WvmWc8RcOKk3smKWOVSnZqDgN923Ygw%26dib_tag%3Dse%26keywords%3Dscissors%26qid%3D1718980725%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMjAyNjEyNjM4MDY4MTk5OjE3MTg5ODA3MjU6c3BfYXRmOjIwMDAyMTQwMzgwNjA3MTo6MDo6&url=%2FiBayam-3-Pack-Ultra-Sharp-Scissors%2Fdp%2FB07H3QKN2Z%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.CIxTjjHdXGn09EidtPKqibwYwKtje8l02s1V1j_P52YePp6ny1fXbAqK-27LIF374oWoq3dif85_P3QRaVSab8j9FTk8T-uC21HsNf5uyJKdWLu97KFWZ9UNzn3v1amfB4R6fAv0gXYC1ri-J_2ZPsKoD7EjOcZ5ySoK5QWP2tNLLDhgWogvVH_0OIvPvoUwcAl-RjmkuBz5EoleG8Ijax8EpEtP_LEEBRMdlIIcvzxipvn1ohyBh_46jPErCFoLUHZjUKGdu0EvYsC6lCeDAUqlZwK_SF-Bfy_fIw9l_5c.9Nknbir_2ZJ9WvmWc8RcOKk3smKWOVSnZqDgN923Ygw%26dib_tag%3Dse%26keywords%3Dscissors%26qid%3D1718980725%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71GcgFn9ubL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61eT3wcT+KL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71gYNY7GWfL._AC_UL320_.jpg"
+		]
+	},
+	"teddy bear": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDk4MDk5MjUyNjk4OTA1OjE3MTg5ODA3MzA6c3BfYXRmOjMwMDAzODc4ODYyMjcwMjo6MDo6&url=%2FMaoGoLan-Stuffed-Children-Girlfriend-Valentines%2Fdp%2FB07DLVRSX1%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.saBTj5WcpNOybSPB8Gt45TLqrAuBBusm8rzAogvuilBvNU7PYY1rny80NpBtAvU0c9wVxMHyPIYGia4hv3aTb9HmMkZ1sSetPmxY6O0h-hNOV_BwSVlrfzRz4gRzCsA3XNMVkPEiPiZwRNm8nW4Uh4Eshlt6XBT9g4O8FJJJJNpn8FKec54IXfML74hOTQevmpHMLYNMtTyNGSEcHEMv6XzxGKIcvIIrInGTKebuPOV4rRa8ObG0XMtPiUPdO7l3r4ITKYoKySlu3naWHM4PSY3MpWcN6U06k-4ET9qzskM.tc8rlcCv-6WzXIn6o2DYPKkiMzo9aRThaLervajxS4k%26dib_tag%3Dse%26keywords%3Dteddy%2Bbear%26qid%3D1718980730%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDk4MDk5MjUyNjk4OTA1OjE3MTg5ODA3MzA6c3BfYXRmOjMwMDI0NDEwMzc2NjQwMjo6MDo6&url=%2FMorisMos-Birthday-Preschool-Toddlers-Decorations%2Fdp%2FB0BXD4BTWW%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.saBTj5WcpNOybSPB8Gt45TLqrAuBBusm8rzAogvuilBvNU7PYY1rny80NpBtAvU0c9wVxMHyPIYGia4hv3aTb9HmMkZ1sSetPmxY6O0h-hNOV_BwSVlrfzRz4gRzCsA3XNMVkPEiPiZwRNm8nW4Uh4Eshlt6XBT9g4O8FJJJJNpn8FKec54IXfML74hOTQevmpHMLYNMtTyNGSEcHEMv6XzxGKIcvIIrInGTKebuPOV4rRa8ObG0XMtPiUPdO7l3r4ITKYoKySlu3naWHM4PSY3MpWcN6U06k-4ET9qzskM.tc8rlcCv-6WzXIn6o2DYPKkiMzo9aRThaLervajxS4k%26dib_tag%3Dse%26keywords%3Dteddy%2Bbear%26qid%3D1718980730%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDk4MDk5MjUyNjk4OTA1OjE3MTg5ODA3MzA6c3BfYXRmOjMwMDE2ODAzMDc5NTMwMjo6MDo6&url=%2FMuiteiur-Footprint-Christmas-Valentines-Decorations%2Fdp%2FB0CFY1WNGQ%2Fref%3Dsr_1_3_sspa%3Fdib%3DeyJ2IjoiMSJ9.saBTj5WcpNOybSPB8Gt45TLqrAuBBusm8rzAogvuilBvNU7PYY1rny80NpBtAvU0c9wVxMHyPIYGia4hv3aTb9HmMkZ1sSetPmxY6O0h-hNOV_BwSVlrfzRz4gRzCsA3XNMVkPEiPiZwRNm8nW4Uh4Eshlt6XBT9g4O8FJJJJNpn8FKec54IXfML74hOTQevmpHMLYNMtTyNGSEcHEMv6XzxGKIcvIIrInGTKebuPOV4rRa8ObG0XMtPiUPdO7l3r4ITKYoKySlu3naWHM4PSY3MpWcN6U06k-4ET9qzskM.tc8rlcCv-6WzXIn6o2DYPKkiMzo9aRThaLervajxS4k%26dib_tag%3Dse%26keywords%3Dteddy%2Bbear%26qid%3D1718980730%26sr%3D8-3-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/71e7sKluxuL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/81-86gVoBHL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61IoNs70qVL._AC_UL320_.jpg"
+		]
+	},
+	"hair drier": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTgzMzQ4OTg3OTMzOTU3OjE3MTg5ODA3Mzg6c3BfYXRmOjMwMDA3NjgyODk0NzYwMjo6MDo6&url=%2Fslopehill-Professional-Powerful-Heating-Diffuser%2Fdp%2FB086SR1KML%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.rKt3B-q_kXDo7lXEBOKeyMh1bnBxWqwkuLHHhTYL3Sq01A_qefcOXPGu3cYIizGOR-F9rQl8kPjSY8cnVejBWXiAZQUVcgw96T-ZKrzueuiX_79M6S8Yp4yX-DUXIRO_ta4ewP1bx7ShROuxz_KRvOsnPB9jICMGLvPlHlFsStkFtpFCbHapZRiPsYTbMgUEL0V1YUFiMLf8KjMDal4YDiZuPig6uppUXbja0Xs1Rs8EV8itxfdG8zXzjvJI7iM7JbUiTtEMqks8JG9Vo1X89f4OHT6o2P2aKUlmhGBSVV0.TYEc_ecs6yhb0feHTfGFX-8UKSYilk8s2K-c20sroHM%26dib_tag%3Dse%26keywords%3Dhair%2Bdryer%26qid%3D1718980738%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTgzMzQ4OTg3OTMzOTU3OjE3MTg5ODA3Mzg6c3BfYXRmOjMwMDA3NjgyODk0NzYwMjo6MDo6&url=%2Fslopehill-Professional-Powerful-Heating-Diffuser%2Fdp%2FB086SR1KML%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.rKt3B-q_kXDo7lXEBOKeyMh1bnBxWqwkuLHHhTYL3Sq01A_qefcOXPGu3cYIizGOR-F9rQl8kPjSY8cnVejBWXiAZQUVcgw96T-ZKrzueuiX_79M6S8Yp4yX-DUXIRO_ta4ewP1bx7ShROuxz_KRvOsnPB9jICMGLvPlHlFsStkFtpFCbHapZRiPsYTbMgUEL0V1YUFiMLf8KjMDal4YDiZuPig6uppUXbja0Xs1Rs8EV8itxfdG8zXzjvJI7iM7JbUiTtEMqks8JG9Vo1X89f4OHT6o2P2aKUlmhGBSVV0.TYEc_ecs6yhb0feHTfGFX-8UKSYilk8s2K-c20sroHM%26dib_tag%3Dse%26keywords%3Dhair%2Bdryer%26qid%3D1718980738%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTgzMzQ4OTg3OTMzOTU3OjE3MTg5ODA3Mzg6c3BfYXRmOjMwMDAxNTA5Njg3NjcwMjo6MDo6&url=%2Fionic-hair-dryer-professional-blow-dryer%2Fdp%2FB07KN63XZH%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.rKt3B-q_kXDo7lXEBOKeyMh1bnBxWqwkuLHHhTYL3Sq01A_qefcOXPGu3cYIizGOR-F9rQl8kPjSY8cnVejBWXiAZQUVcgw96T-ZKrzueuiX_79M6S8Yp4yX-DUXIRO_ta4ewP1bx7ShROuxz_KRvOsnPB9jICMGLvPlHlFsStkFtpFCbHapZRiPsYTbMgUEL0V1YUFiMLf8KjMDal4YDiZuPig6uppUXbja0Xs1Rs8EV8itxfdG8zXzjvJI7iM7JbUiTtEMqks8JG9Vo1X89f4OHT6o2P2aKUlmhGBSVV0.TYEc_ecs6yhb0feHTfGFX-8UKSYilk8s2K-c20sroHM%26dib_tag%3Dse%26keywords%3Dhair%2Bdryer%26qid%3D1718980738%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/61ZGnuf4jYS._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71RWqh6KUWL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/61+qTKyuvaL._AC_UL320_.jpg"
+		]
+	},
+	"toothbrush": {
+		"url": [
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NDIxMTEzMTA2MjE3MDgzOjE3MTg5ODA3NDQ6c3BfYXRmOjIwMDA2NzU5MjQ4MDE5ODo6MDo6&url=%2FPhilips-Sonicare-ProtectiveClean-Rechargeable-HX6423%2Fdp%2FB084TM4XKG%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.8vEOkIQegusnC-yznHKaTxklbQ6ZnqRkpBlYfECIVIdhxDAfRMzmZy8R48dDYfVIjDleY4wPfjfpyuRFlbjs1b4NhlzchpQw0uR609w8H3dwZ1WeW2n1RRhaT3QA92YUHcLXefLijAiSWUB0iXB40Egd-hPl6J-L5708syVubOm2uNrvRPwTi5DymEqcrLmKiQ11yJ7EinYk-aowYHfgrVIYlNUSNtQtZ1YrrzBR-z4wSjlZuZ1IRCrVtZDNVjzGCO-q_RRi3CcqQgymGXcu6xnuug9yER3Jq18G1R6orlU.mtW4PlBdER--2kOPGED1E509LtMz2V3s9fCz4_3qW3M%26dib_tag%3Dse%26keywords%3Dtoothbrush%26qid%3D1718980744%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NDIxMTEzMTA2MjE3MDgzOjE3MTg5ODA3NDQ6c3BfYXRmOjIwMDA2NzU5MjQ4MDE5ODo6MDo6&url=%2FPhilips-Sonicare-ProtectiveClean-Rechargeable-HX6423%2Fdp%2FB084TM4XKG%2Fref%3Dsr_1_1_sspa%3Fdib%3DeyJ2IjoiMSJ9.8vEOkIQegusnC-yznHKaTxklbQ6ZnqRkpBlYfECIVIdhxDAfRMzmZy8R48dDYfVIjDleY4wPfjfpyuRFlbjs1b4NhlzchpQw0uR609w8H3dwZ1WeW2n1RRhaT3QA92YUHcLXefLijAiSWUB0iXB40Egd-hPl6J-L5708syVubOm2uNrvRPwTi5DymEqcrLmKiQ11yJ7EinYk-aowYHfgrVIYlNUSNtQtZ1YrrzBR-z4wSjlZuZ1IRCrVtZDNVjzGCO-q_RRi3CcqQgymGXcu6xnuug9yER3Jq18G1R6orlU.mtW4PlBdER--2kOPGED1E509LtMz2V3s9fCz4_3qW3M%26dib_tag%3Dse%26keywords%3Dtoothbrush%26qid%3D1718980744%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+			"https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NDIxMTEzMTA2MjE3MDgzOjE3MTg5ODA3NDQ6c3BfYXRmOjIwMDEzMjIxNzg0OTE5ODo6MDo6&url=%2FAquaSonic-Black-Ultra-Whitening-Toothbrush%2Fdp%2FB072YVWBXH%2Fref%3Dsr_1_2_sspa%3Fdib%3DeyJ2IjoiMSJ9.8vEOkIQegusnC-yznHKaTxklbQ6ZnqRkpBlYfECIVIdhxDAfRMzmZy8R48dDYfVIjDleY4wPfjfpyuRFlbjs1b4NhlzchpQw0uR609w8H3dwZ1WeW2n1RRhaT3QA92YUHcLXefLijAiSWUB0iXB40Egd-hPl6J-L5708syVubOm2uNrvRPwTi5DymEqcrLmKiQ11yJ7EinYk-aowYHfgrVIYlNUSNtQtZ1YrrzBR-z4wSjlZuZ1IRCrVtZDNVjzGCO-q_RRi3CcqQgymGXcu6xnuug9yER3Jq18G1R6orlU.mtW4PlBdER--2kOPGED1E509LtMz2V3s9fCz4_3qW3M%26dib_tag%3Dse%26keywords%3Dtoothbrush%26qid%3D1718980744%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1"
+		],
+		"images": [
+			"https://m.media-amazon.com/images/I/81e58wQ0DrL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/71zJ4w+KaFL._AC_UL320_.jpg",
+			"https://m.media-amazon.com/images/I/51GE5ZQyuWL._AC_UL320_.jpg"
+		]
+	},
+	"book": {
+		"url": [
+			"https://www.amazon.com/Call-Doctors-Journey-Public-Service/dp/0593657470/ref=zg_d_sccl_2/132-0831622-2402719?pd_rd_i=0593657470&psc=1",
+			"https://www.amazon.com/All-Colors-Dark-Chris-Whitaker/dp/0593798872/ref=zg_d_sccl_2/132-0831622-2402719?pd_rd_i=0593798872&psc=1",
+			"https://www.amazon.com/Housemaid-Watching-Freida-McFadden/dp/1464221138/ref=zg_d_sccl_2/132-0831622-2402719?pd_rd_w=yz98W&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=0Z045QP22N4X3K734G43&pd_rd_wg=pw7UP&pd_rd_r=710cb035-1d5f-4fa0-9922-37a93a99807d&pd_rd_i=1464221138&psc=1"
+		],
+		"images": [
+			"https://images-na.ssl-images-amazon.com/images/I/81OwvBYKmxL._AC_UL254_SR254,254_.jpg",
+			"https://images-na.ssl-images-amazon.com/images/I/81jj+SCfaPL._AC_UL254_SR254,254_.jpg",
+			"https://images-na.ssl-images-amazon.com/images/I/91OSM58Y-pL._AC_UL254_SR254,254_.jpg"
+		]
+	}
+}
